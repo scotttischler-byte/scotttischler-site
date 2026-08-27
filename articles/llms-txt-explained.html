@@ -1,0 +1,191 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>What Is llms.txt? The New Standard for Talking to AI</title>
+<meta name="description" content="A clear, hype-free explainer on llms.txt — what it is, how it differs from robots.txt and sitemaps, what goes in it, how AI systems may use it, and a practical">
+<meta name="author" content="Scott Tischler">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+<link rel="canonical" href="https://scotttischler.com/articles/llms-txt-explained.html">
+<link rel="alternate" type="application/rss+xml" title="Scott Tischler — The AEO Library" href="https://scotttischler.com/feed.xml">
+<meta property="og:type" content="article"><meta property="og:title" content="What Is llms.txt? The New Standard for Talking to AI Crawlers">
+<meta property="og:description" content="A clear, hype-free explainer on llms.txt — what it is, how it differs from robots.txt and sitemaps, what goes in it, how AI systems may use it, and a practical"><meta property="article:published_time" content="2026-07-28">
+<meta property="article:author" content="Scott Tischler">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230a0b0e'/%3E%3Ctext x='32' y='44' font-family='Georgia,serif' font-size='38' fill='%234f8cff' text-anchor='middle'%3ES%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "What Is llms.txt? The New Standard for Talking to AI Crawlers", "description": "A clear, hype-free explainer on llms.txt \u2014 what it is, how it differs from robots.txt and sitemaps, what goes in it, how AI systems may use it, and a practical template.", "datePublished": "2026-07-28", "dateModified": "2026-07-28", "author": {"@type": "Person", "name": "Scott Tischler", "url": "https://scotttischler.com/", "jobTitle": "Founder & Chairman, AIrecommend.ai"}, "publisher": {"@type": "Organization", "name": "Scott Tischler / AIrecommend.ai"}, "mainEntityOfPage": "https://scotttischler.com/articles/llms-txt-explained.html", "articleSection": "Technical"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is llms.txt?", "acceptedAnswer": {"@type": "Answer", "text": "It's a proposed standard: a single Markdown file placed at the root of your website (yourdomain.com/llms.txt) that gives AI systems a curated guide to your most important content. It typically includes a short description of your site and prioritized lists of links to clean, easy-to-read versions of your key pages. The goal is to help large language models find and understand your best content without parsing cluttered HTML."}}, {"@type": "Question", "name": "How is llms.txt different from robots.txt?", "acceptedAnswer": {"@type": "Answer", "text": "robots.txt is about access control \u2014 it tells crawlers where they may and may not go using allow and disallow rules. llms.txt is about curation \u2014 it highlights which of your pages matter most and presents them cleanly for AI systems to read. They solve different problems and can coexist on the same site."}}, {"@type": "Question", "name": "How is llms.txt different from a sitemap?", "acceptedAnswer": {"@type": "Answer", "text": "A sitemap aims to list every URL on your site so nothing gets missed \u2014 it's exhaustive by design. llms.txt is the opposite: it's selective, highlighting only the handful of pages that matter most and presenting them in clean Markdown. A sitemap is inventory; llms.txt is curation."}}, {"@type": "Question", "name": "What goes inside an llms.txt file?", "acceptedAnswer": {"@type": "Answer", "text": "A typical file has an H1 with your name, a short blockquote summary of what you do, optional context, and sections of H2 headings each containing a Markdown list of important links with brief descriptions. Links should ideally point to clean Markdown versions of your key pages. An optional section can flag lower-priority links that can be skipped."}}, {"@type": "Question", "name": "Do AI systems actually read llms.txt?", "acceptedAnswer": {"@type": "Answer", "text": "Some tools and platforms support it and many do not \u2014 adoption is still early and not universal. Publishing an llms.txt file does not guarantee that any given AI system will read it, honor it, or change its behavior. Where it is supported, it can make retrieval more efficient and comprehension more accurate."}}, {"@type": "Question", "name": "Will adding llms.txt improve my rankings in AI answers?", "acceptedAnswer": {"@type": "Answer", "text": "There's no evidence that simply having an llms.txt file makes you rank higher or get cited more on its own. It's a comprehension and retrieval aid, not a ranking mechanism. It can help AI systems read your content cleanly where the file is supported, but it's not a substitute for good content, structured data, and the rest of your AEO work."}}, {"@type": "Question", "name": "Is llms.txt an official standard?", "acceptedAnswer": {"@type": "Answer", "text": "No. It's a community proposal, not a standard ratified by an official web standards body like robots.txt effectively is. It has gained meaningful traction and adoption, but it remains an emerging convention that cooperative systems may choose to follow rather than a formally mandated requirement."}}, {"@type": "Question", "name": "Should I add an llms.txt file to my site?", "acceptedAnswer": {"@type": "Answer", "text": "For most content-rich sites, yes \u2014 it's low-cost, low-risk, and directionally sensible, with adoption trending upward. Just keep your expectations realistic: it aids comprehension where supported rather than transforming your visibility. The main caveat is maintenance, since a stale file pointing to dead or outdated links is worse than having none at all."}}]}</script>
+<style>
+:root{--bg:#0a0b0e;--bg2:#0e1014;--panel:#14171e;--ink:#f3f5f9;--soft:#c4cad6;--mute:#838b9b;--line:rgba(190,205,230,.10);--line2:rgba(190,205,230,.16);--accent:#4f8cff;--accent2:#86b3ff;--gold:#c9a24b;--sans:'Inter',system-ui,sans-serif;--serif:'Fraunces',Georgia,serif;}
+*{box-sizing:border-box;margin:0;padding:0}html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.75;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+.nav{position:sticky;top:0;z-index:50;background:rgba(10,11,14,.82);backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
+.nav .in{max-width:1180px;margin:0 auto;padding:0 26px;height:66px;display:flex;align-items:center;justify-content:space-between}
+.brand{font-family:var(--serif);font-size:20px}.brand span{color:var(--accent)}
+.nav a.back{font-size:13px;letter-spacing:.1em;text-transform:uppercase;color:var(--soft)}
+.nav a.back:hover{color:var(--accent2)}
+.wrap{max-width:760px;margin:0 auto;padding:0 26px}
+.hero{padding:70px 0 34px;border-bottom:1px solid var(--line)}
+.cat{display:inline-block;font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--accent2);font-weight:600;margin-bottom:18px}
+h1.title{font-family:var(--serif);font-weight:400;font-size:clamp(30px,5vw,50px);line-height:1.08;letter-spacing:-.015em;margin-bottom:22px}
+.byline{display:flex;align-items:center;gap:14px;margin-top:24px}
+.byline img{width:52px;height:52px;border-radius:50%;object-fit:cover;object-position:50% 20%;border:1px solid var(--line2)}
+.byline .who{font-size:15px;font-weight:600}
+.byline .who small{display:block;color:var(--mute);font-weight:400;font-size:13px;margin-top:2px}
+.actions{display:flex;gap:12px;margin-top:26px;flex-wrap:wrap}
+.btn{display:inline-flex;align-items:center;gap:8px;padding:12px 20px;border-radius:999px;font-size:12.5px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;transition:.2s;cursor:pointer;border:0}
+.btn.solid{background:linear-gradient(135deg,var(--accent2),var(--accent));color:#08122a}
+.btn.solid:hover{transform:translateY(-2px)}
+.btn.ghost{border:1px solid var(--line2);color:var(--ink)}
+.btn.ghost:hover{border-color:var(--accent);color:var(--accent2)}
+article{padding:44px 0 20px;font-size:17.5px}
+article h2{font-family:var(--serif);font-weight:500;font-size:28px;margin:44px 0 14px;line-height:1.2}
+article h3{font-family:var(--serif);font-weight:500;font-size:21px;margin:32px 0 10px}
+article p{margin:0 0 20px;color:#dfe3ea}
+article ul,article ol{margin:0 0 22px 22px}article li{margin:0 0 10px;color:#dfe3ea}
+article strong{color:#fff}
+article a{color:var(--accent2);border-bottom:1px solid rgba(134,179,255,.3)}
+article code{background:#1b1f28;padding:2px 6px;border-radius:5px;font-size:.9em;color:#cfe0ff}
+article table{width:100%;border-collapse:collapse;margin:0 0 26px;font-size:15px}
+article th,article td{border:1px solid var(--line2);padding:10px 12px;text-align:left;color:#dfe3ea}
+article th{background:#12151c;color:#fff;font-weight:600}
+article em{color:#eef2f8}
+.takeaways{background:linear-gradient(140deg,rgba(79,140,255,.12),transparent);border:1px solid var(--line2);border-radius:16px;padding:28px 30px;margin:36px 0}
+.takeaways h3{font-family:var(--serif);font-size:20px;margin-bottom:14px;color:#fff}
+.takeaways ul{list-style:none;margin:0}
+.takeaways li{position:relative;padding:8px 0 8px 26px;color:#dfe3ea;font-size:15.5px}
+.takeaways li::before{content:'✦';position:absolute;left:0;color:var(--accent2)}
+.faq{margin:40px 0}
+.faq h2{font-family:var(--serif);font-weight:500;font-size:26px;margin-bottom:18px}
+.faq .item{border-bottom:1px solid var(--line);padding:18px 0}
+.faq .q{font-family:var(--serif);font-size:18px;color:#fff;margin-bottom:8px}
+.faq .a{color:var(--soft);font-size:15.5px}
+.cta{margin:40px 0 10px;background:var(--panel);border:1px solid var(--line2);border-radius:18px;padding:34px;text-align:center}
+.cta h3{font-family:var(--serif);font-size:24px;margin-bottom:10px}
+.cta p{color:var(--soft);margin-bottom:20px}
+.authorbox{display:flex;gap:18px;align-items:flex-start;margin:36px 0;padding:26px;border:1px solid var(--line);border-radius:16px;background:var(--bg2)}
+.authorbox img{width:70px;height:70px;border-radius:50%;object-fit:cover;object-position:50% 20%;flex-shrink:0;border:1px solid var(--line2)}
+.authorbox h3{font-family:var(--serif);font-size:19px;margin-bottom:6px}
+.authorbox p{color:var(--soft);font-size:14.5px}
+footer{border-top:1px solid var(--line);margin-top:40px;padding:36px 0;color:var(--mute);font-size:13px}
+footer .in{max-width:760px;margin:0 auto;padding:0 26px;display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
+footer a{color:var(--soft)}
+@media(max-width:600px){article{font-size:16.5px}}
+</style></head><body>
+<div class="nav"><div class="in"><a href="../index.html" class="brand">Scott <span>Tischler</span></a><a href="index.html" class="back">← All Articles</a></div></div>
+<div class="hero"><div class="wrap">
+<span class="cat">Technical</span>
+<h1 class="title">What Is llms.txt? The New Standard for Talking to AI Crawlers</h1>
+<div class="byline"><img src="data:image/jpeg;base64,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" alt="Scott Tischler"><div class="who">Scott Tischler<small>Founder &amp; Chairman, AIrecommend.ai · July 28, 2026 · 8 min read</small></div></div>
+<div class="actions"><a class="btn solid" href="pdf/llms-txt-explained.pdf" download>⤓ Download PDF</a><a class="btn ghost" href="https://airecommend.ai" target="_blank" rel="noopener">Visit AIrecommend.ai</a></div>
+</div></div>
+<div class="wrap"><article><p><strong>llms.txt is a proposed standard: a single Markdown file at the root of your website that gives AI systems a clean, curated guide to your most important content.</strong> It lives at yourdomain.com/llms.txt, and its job is to help large language models and the tools built on them find and understand the pages you most want them to use — without wading through your navigation, ads, cookie banners, and boilerplate.</p>
+<p>That's the whole idea in one sentence. The rest of this article is the honest detail: where it came from, how it's different from the files you already know, what actually goes inside it, how AI systems may or may not use it today, and a template you can adapt. I'll be clear about what's settled and what isn't, because a lot of what's written about llms.txt overstates how established it is.</p>
+<h2>What is llms.txt, exactly?</h2>
+<p>llms.txt is a <strong>community proposal</strong>, not an official web standard ratified by a standards body. It was introduced to solve a specific, real problem: AI systems consuming web content have limited context windows and have to work hard to separate the substance of a page from the surrounding clutter. HTML is built for browsers and humans, not for a model trying to extract the core information efficiently.</p>
+<p>The proposal's answer is a plain-Markdown file at your site root that acts as a curated table of contents. It typically contains a short description of what your site or project is, followed by lists of links to your most important pages — ideally links to clean, Markdown-friendly versions of those pages. Markdown is chosen deliberately: it's simple, it's readable by both humans and machines, and it strips away the presentation noise.</p>
+<p>A closely related convention is <strong>llms-full.txt</strong>, a larger file that inlines the actual content rather than just linking to it — useful when you want to hand a model the full text in one place. Whether you offer one, both, or neither depends on your site and your goals.</p>
+<p>The key mental model: <strong>robots.txt tells crawlers where they may not go; a sitemap tells them everything that exists; llms.txt tells them what matters most and helps them read it cleanly.</strong> Those are three different jobs.</p>
+<h2>How is llms.txt different from robots.txt and sitemaps?</h2>
+<p>This is the question I get most, because on the surface all three are files at your site root that talk to automated visitors. They do genuinely different things.</p>
+<table>
+<thead>
+<tr>
+<th>File</th>
+<th>Primary job</th>
+<th>Audience</th>
+<th>Format</th>
+<th>Nature</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>robots.txt</strong></td>
+<td>Permission — where crawlers may and may not go</td>
+<td>Search and AI crawlers</td>
+<td>Directives</td>
+<td>Long-established standard</td>
+</tr>
+<tr>
+<td><strong>sitemap.xml</strong></td>
+<td>Inventory — a machine list of all URLs</td>
+<td>Search crawlers</td>
+<td>XML</td>
+<td>Long-established standard</td>
+</tr>
+<tr>
+<td><strong>llms.txt</strong></td>
+<td>Curation — what's most important and how to read it cleanly</td>
+<td>AI systems / LLMs</td>
+<td>Markdown</td>
+<td>Emerging proposal</td>
+</tr>
+</tbody>
+</table>
+<p>A few distinctions worth making explicit:</p>
+<ul>
+<li><strong>robots.txt is about access control</strong>, not curation. It's a set of allow and disallow rules. It doesn't tell a crawler which of the allowed pages are your best; it just draws boundaries. Importantly, it's also not a security mechanism — it's a request that well-behaved crawlers honor.</li>
+<li><strong>A sitemap is exhaustive, not selective.</strong> It aims to list every URL so nothing gets missed. That's the opposite of llms.txt's purpose, which is to highlight the few pages that matter most and present them in a clean, digestible form.</li>
+<li><strong>llms.txt is curation and comprehension.</strong> It answers "if an AI only reads a handful of things about us, what should they be, and how do we make them easy to parse?" Neither robots.txt nor sitemaps were designed for that.</li>
+</ul>
+<p>They're complementary. A well-run site can have all three, each doing its own job. llms.txt doesn't replace the other two.</p>
+<h2>What goes in an llms.txt file?</h2>
+<p>The proposed format is intentionally simple and human-readable. A typical file follows a loose structure:</p>
+<ul>
+<li><strong>An H1 with the name</strong> of the site, project, or organization.</li>
+<li><strong>A short blockquote summary</strong> — a sentence or two describing what you are and what the content covers.</li>
+<li><strong>Optional context paragraphs</strong> giving background a model would find useful.</li>
+<li><strong>Sections with H2 headings</strong>, each containing a Markdown list of links. Each link points to an important page, ideally a clean Markdown version, with a brief description after it.</li>
+<li><strong>An optional "Optional" section</strong> for links that can be skipped if the model is short on context — a way to signal priority.</li>
+</ul>
+<p>The guiding principles are: keep it concise, link to clean content, describe each link briefly, and order things by importance. You're writing a curated guide, not dumping your whole sitemap into Markdown.</p>
+<h3>A practical template</h3>
+<p>Here's a straightforward template you can adapt. Replace the placeholders with your own site's details.</p>
+<pre><code># Example Company
+
+&gt; Example Company helps small businesses manage inventory with simple, affordable software. This file guides AI systems to our most useful documentation and reference content.
+
+We're a SaaS company focused on inventory management for retail and e-commerce. The links below cover our core product, documentation, and key explainers.
+
+## Documentation
+
+- [Getting Started Guide](https://example.com/docs/getting-started.md): How to set up your account and add your first products.
+- [Inventory Sync Reference](https://example.com/docs/sync.md): How real-time sync works across sales channels.
+- [API Overview](https://example.com/docs/api.md): Endpoints, authentication, and rate limits.
+
+## Guides and Explainers
+
+- [Inventory Basics](https://example.com/learn/inventory-basics.md): Core concepts for anyone new to inventory management.
+- [Reducing Stockouts](https://example.com/learn/stockouts.md): Practical methods to avoid running out of popular items.
+
+## Optional
+
+- [Company History](https://example.com/about/history.md): Background on the company, safe to skip for most queries.
+</code></pre>
+<p>Keep the descriptions genuinely informative — they help a model decide what to pull. And point the links at clean pages: if you can serve Markdown versions of your key content, do it, because that's the whole efficiency win the format is chasing.</p>
+<h2>How do AI systems actually use llms.txt?</h2>
+<p>Here's where I'll be blunt, because this is where the hype tends to run ahead of reality. <strong>Adoption is still early, and support is not universal or guaranteed.</strong> llms.txt is a proposal that some tools and platforms have adopted and many have not. Publishing one does not mean every AI system will read it, honor it, or change its behavior because of it.</p>
+<p>What llms.txt is designed to enable, where it's supported:</p>
+<ul>
+<li><strong>Efficient retrieval.</strong> A tool that reads your llms.txt can jump straight to your curated, clean content instead of parsing cluttered HTML — saving context and reducing the chance it grabs the wrong thing.</li>
+<li><strong>Better comprehension.</strong> Clean Markdown is easier for a model to interpret accurately, which can mean fewer misreadings of what you actually offer.</li>
+<li><strong>Prioritization.</strong> Your ordering and your "Optional" section signal what matters most, helping a system spend its limited attention on your best material.</li>
+</ul>
+<p>And here's what it is <strong>not</strong>:</p>
+<ul>
+<li>It is <strong>not</strong> a ranking mechanism. There's no evidence that simply having an llms.txt file makes you rank higher or get cited more in AI answers on its own. It's a comprehension and retrieval aid, not a magic visibility lever.</li>
+<li>It is <strong>not</strong> enforcement. Like robots.txt, it's a convention that cooperative systems may choose to follow. It can't compel any AI system to do anything.</li>
+<li>It is <strong>not</strong> a replacement for good content, structured data, or the rest of your AEO work. It's one small, sensible piece of a larger picture.</li>
+</ul>
+<p>My honest take: llms.txt is <strong>low-cost, low-risk, and directionally smart</strong>. The effort to publish a good one is modest, it can only help comprehension where it's supported, and it costs you little if support stays partial. That's a reasonable bet. Just don't publish one and expect your AI visibility to transform — that's not what it does, and anyone promising otherwise is overselling.</p>
+<h2>Should you add an llms.txt file?</h2>
+<p>For most content-rich sites, yes — with realistic expectations. It's cheap insurance that your most important content is easy for AI systems to find and read cleanly, and adoption is trending upward, not down. The downside is minimal: a little upfront work to curate and maintain the file.</p>
+<p>The one caveat is maintenance. A stale llms.txt that points to dead links or outdated pages is worse than none, because it actively misdirects. Treat it like any other piece of your public documentation — keep it current, keep it curated, and update it when your important pages change. Do that, and you've done a small, sensible thing that helps AI systems understand you on your terms.</p>
+<div class="takeaways"><h3>Key takeaways</h3><ul><li>llms.txt is a proposed standard — a Markdown file at your site root that gives AI systems a curated, clean guide to your most important content.</li><li>It does a different job than robots.txt (access control) and sitemaps (full inventory): llms.txt is about curation and comprehension.</li><li>The file contains a summary and prioritized lists of links, ideally pointing to clean Markdown versions of your key pages.</li><li>Adoption is still early and support isn't universal; publishing one doesn't guarantee any AI system will read or honor it.</li><li>llms.txt is not a ranking lever and not enforceable — it's a low-cost comprehension aid, not a magic visibility boost.</li><li>It's a reasonable bet for most content-rich sites as long as you keep it current; a stale file that points to dead links is worse than none.</li></ul></div>
+<div class="faq"><h2>Frequently asked questions</h2><div class="item"><div class="q">What is llms.txt?</div><div class="a">It's a proposed standard: a single Markdown file placed at the root of your website (yourdomain.com/llms.txt) that gives AI systems a curated guide to your most important content. It typically includes a short description of your site and prioritized lists of links to clean, easy-to-read versions of your key pages. The goal is to help large language models find and understand your best content without parsing cluttered HTML.</div></div><div class="item"><div class="q">How is llms.txt different from robots.txt?</div><div class="a">robots.txt is about access control — it tells crawlers where they may and may not go using allow and disallow rules. llms.txt is about curation — it highlights which of your pages matter most and presents them cleanly for AI systems to read. They solve different problems and can coexist on the same site.</div></div><div class="item"><div class="q">How is llms.txt different from a sitemap?</div><div class="a">A sitemap aims to list every URL on your site so nothing gets missed — it's exhaustive by design. llms.txt is the opposite: it's selective, highlighting only the handful of pages that matter most and presenting them in clean Markdown. A sitemap is inventory; llms.txt is curation.</div></div><div class="item"><div class="q">What goes inside an llms.txt file?</div><div class="a">A typical file has an H1 with your name, a short blockquote summary of what you do, optional context, and sections of H2 headings each containing a Markdown list of important links with brief descriptions. Links should ideally point to clean Markdown versions of your key pages. An optional section can flag lower-priority links that can be skipped.</div></div><div class="item"><div class="q">Do AI systems actually read llms.txt?</div><div class="a">Some tools and platforms support it and many do not — adoption is still early and not universal. Publishing an llms.txt file does not guarantee that any given AI system will read it, honor it, or change its behavior. Where it is supported, it can make retrieval more efficient and comprehension more accurate.</div></div><div class="item"><div class="q">Will adding llms.txt improve my rankings in AI answers?</div><div class="a">There's no evidence that simply having an llms.txt file makes you rank higher or get cited more on its own. It's a comprehension and retrieval aid, not a ranking mechanism. It can help AI systems read your content cleanly where the file is supported, but it's not a substitute for good content, structured data, and the rest of your AEO work.</div></div><div class="item"><div class="q">Is llms.txt an official standard?</div><div class="a">No. It's a community proposal, not a standard ratified by an official web standards body like robots.txt effectively is. It has gained meaningful traction and adoption, but it remains an emerging convention that cooperative systems may choose to follow rather than a formally mandated requirement.</div></div><div class="item"><div class="q">Should I add an llms.txt file to my site?</div><div class="a">For most content-rich sites, yes — it's low-cost, low-risk, and directionally sensible, with adoption trending upward. Just keep your expectations realistic: it aids comprehension where supported rather than transforming your visibility. The main caveat is maintenance, since a stale file pointing to dead or outdated links is worse than having none at all.</div></div></div>
+<div class="authorbox"><img src="data:image/jpeg;base64,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" alt="Scott Tischler"><div><h3>About the author</h3><p>Scott Tischler is the Founder &amp; Chairman of AIrecommend.ai and a practitioner-authority on AI search and Answer Engine Optimization. With 20+ years in marketing technology — including American Express, MetLife, and UBS — and executive study at Wharton, Harvard, Yale, and Oxford, he helps businesses become the ones AI recommends.</p></div></div>
+<div class="cta"><h3>Want to be the business AI recommends?</h3><p>See how AIrecommend.ai builds the entity authority answer engines reward.</p><a class="btn solid" href="https://airecommend.ai" target="_blank" rel="noopener">Explore AIrecommend.ai</a></div>
+</article></div>
+<footer><div class="in"><div>© 2026 Scott Tischler. All rights reserved.</div><div><a href="../index.html">Home</a> · <a href="index.html">Articles</a> · <a href="/privacy.html">Privacy</a> · <a href="mailto:scott@airecommend.ai">Contact</a></div></div></footer>
+<script defer src="/track.js"></script>
+</body></html>

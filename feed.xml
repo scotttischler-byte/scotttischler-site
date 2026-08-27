@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scott Tischler — The AEO Library</title>
+    <link>https://scotttischler.com/articles/</link>
+    <atom:link href="https://scotttischler.com/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Expert guides on Answer Engine Optimization, AI search, and entity authority by Scott Tischler, Founder &amp; Chairman of AIrecommend.ai.</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Jul 2026 09:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Share of Model: The AI-Visibility Metric That Replaces Keyword Rankings</title>
+      <link>https://scotttischler.com/articles/share-of-model.html</link>
+      <guid>https://scotttischler.com/articles/share-of-model.html</guid>
+      <category>Measurement</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Wed, 27 Aug 2026 09:00:00 +0000</pubDate>
+      <description>Keyword rank measures position on a page of links. Share of Model measures how often AI answers name you — and it&#x27;s now the metric that matters. How to define, measure, and move it.</description>
+    </item>
+    <item>
+      <title>Prompt-Market Fit: How to Find the AI Questions Actually Worth Winning</title>
+      <link>https://scotttischler.com/articles/prompt-market-fit.html</link>
+      <guid>https://scotttischler.com/articles/prompt-market-fit.html</guid>
+      <category>Strategy</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Wed, 27 Aug 2026 09:00:00 +0000</pubDate>
+      <description>Most AEO effort is wasted chasing impressive prompts no buyer types. Prompt-market fit finds the questions that map to real intent and that you can actually win. The method.</description>
+    </item>
+    <item>
+      <title>The AI Recommendation Study: What AI Actually Recommends (2026 Pilot)</title>
+      <link>https://scotttischler.com/articles/ai-recommendation-study-2026.html</link>
+      <guid>https://scotttischler.com/articles/ai-recommendation-study-2026.html</guid>
+      <category>Original Research</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 30 Jul 2026 09:00:00 +0000</pubDate>
+      <description>We asked AI engines real &quot;recommend me a business&quot; questions and recorded exactly what they named — how many, who, and what decided it. Original 2026 pilot data.</description>
+    </item>
+    <item>
+      <title>What Is Answer Engine Optimization (AEO)? The Definitive 2026 Guide</title>
+      <link>https://scotttischler.com/articles/what-is-answer-engine-optimization.html</link>
+      <guid>https://scotttischler.com/articles/what-is-answer-engine-optimization.html</guid>
+      <category>AEO Fundamentals</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Search stopped being a list of links and became a set of answers. AEO is the discipline that decides whether the answer names your brand — or your competitor&#x27;s.</description>
+    </item>
+    <item>
+      <title>AEO vs. SEO: Why Ranking #1 No Longer Wins</title>
+      <link>https://scotttischler.com/articles/aeo-vs-seo.html</link>
+      <guid>https://scotttischler.com/articles/aeo-vs-seo.html</guid>
+      <category>Strategy</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>The blue link is being replaced by the synthesized answer. Here&#x27;s what changes when the buyer never sees your ranking, and a 90-day plan to become the source the AI cites.</description>
+    </item>
+    <item>
+      <title>How AI Systems Actually Decide Which Businesses to Recommend</title>
+      <link>https://scotttischler.com/articles/how-ai-decides-which-businesses-to-recommend.html</link>
+      <guid>https://scotttischler.com/articles/how-ai-decides-which-businesses-to-recommend.html</guid>
+      <category>How AI Works</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>When an AI assistant names one business and ignores its competitors, that choice isn&#x27;t random — it&#x27;s the output of a chain of mechanics you can influence. Here&#x27;s what actually drives it, and what&#x27;s still inference.</description>
+    </item>
+    <item>
+      <title>Entity Authority: The New Currency of Online Trust</title>
+      <link>https://scotttischler.com/articles/entity-authority.html</link>
+      <guid>https://scotttischler.com/articles/entity-authority.html</guid>
+      <category>Entity Authority</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Search stopped being about keywords and became about entities — the people, companies, and places AI systems recognize as real and trustworthy. Here is how to become one of them.</description>
+    </item>
+    <item>
+      <title>The Zero-Click Era: How to Win When Nobody Clicks Through</title>
+      <link>https://scotttischler.com/articles/zero-click-era.html</link>
+      <guid>https://scotttischler.com/articles/zero-click-era.html</guid>
+      <category>Strategy</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>The search box is being replaced by an answer, and that answer rarely sends anyone to your site. Here is how to win when the click is no longer the prize.</description>
+    </item>
+    <item>
+      <title>How to Get Your Business Cited by ChatGPT, Claude, and Perplexity</title>
+      <link>https://scotttischler.com/articles/get-cited-by-chatgpt-claude-perplexity.html</link>
+      <guid>https://scotttischler.com/articles/get-cited-by-chatgpt-claude-perplexity.html</guid>
+      <category>Playbook</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>The buyers you want are asking AI, not Google — and the machine only names a handful of sources. Here is exactly how to become one of them.</description>
+    </item>
+    <item>
+      <title>I Asked ChatGPT to Recommend a Business in My Town — Here&#x27;s What Actually Decided the Winner</title>
+      <link>https://scotttischler.com/articles/i-asked-chatgpt-to-recommend-a-business.html</link>
+      <guid>https://scotttischler.com/articles/i-asked-chatgpt-to-recommend-a-business.html</guid>
+      <category>AI &amp; Search</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>I typed one honest question into ChatGPT — &quot;recommend a business near me&quot; — and watched an algorithm quietly crown a winner. Then I spent a week reverse-engineering exactly why.</description>
+    </item>
+    <item>
+      <title>Your Competitor Is Being Recommended by AI Right Now — and You Have No Idea</title>
+      <link>https://scotttischler.com/articles/competitor-recommended-by-ai.html</link>
+      <guid>https://scotttischler.com/articles/competitor-recommended-by-ai.html</guid>
+      <category>AI &amp; Search</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Somewhere today, a buyer asked ChatGPT who they should hire. It named a company. It probably wasn&#x27;t yours — and you&#x27;ll never see the lead you lost.</description>
+    </item>
+    <item>
+      <title>The Businesses AI Will Quietly Kill First — and How to Survive the Shift</title>
+      <link>https://scotttischler.com/articles/businesses-ai-will-kill-first.html</link>
+      <guid>https://scotttischler.com/articles/businesses-ai-will-kill-first.html</guid>
+      <category>Business</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>The extinction won&#x27;t be loud. No headline says &quot;AI killed the reseller.&quot; Revenue just softens quarter after quarter until the business is no longer viable. Here&#x27;s who&#x27;s most exposed — and the moves that make you AI-resilient.</description>
+    </item>
+    <item>
+      <title>Category Creation: How to Build a Company Nobody Can Compete With</title>
+      <link>https://scotttischler.com/articles/category-creation.html</link>
+      <guid>https://scotttischler.com/articles/category-creation.html</guid>
+      <category>Business</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>The best founders I know never win the category. They rename the problem so completely that the old category stops making sense — and the market has no honest choice but to come to them.</description>
+    </item>
+    <item>
+      <title>Why Franchising Is the Most Misunderstood Path to Wealth in America</title>
+      <link>https://scotttischler.com/articles/franchising-misunderstood-wealth.html</link>
+      <guid>https://scotttischler.com/articles/franchising-misunderstood-wealth.html</guid>
+      <category>Franchise</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Most people think franchising is either a scam or a slam dunk. Both are wrong. Here&#x27;s the honest math on America&#x27;s most misunderstood wealth-building path — including the parts that can lose you money.</description>
+    </item>
+    <item>
+      <title>Before You Buy a Franchise: 7 Questions That Separate Winners From Cautionary Tales</title>
+      <link>https://scotttischler.com/articles/before-you-buy-a-franchise.html</link>
+      <guid>https://scotttischler.com/articles/before-you-buy-a-franchise.html</guid>
+      <category>Franchise</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Most people who buy a franchise fall in love with the brand and skip the boring math. The boring math is where the winners and the cautionary tales part ways. Here are the seven questions I&#x27;d insist on answering before wiring a dime.</description>
+    </item>
+    <item>
+      <title>Lab-Grown vs. Natural Diamonds: What Most Jewelers Won&#x27;t Tell You</title>
+      <link>https://scotttischler.com/articles/lab-grown-vs-natural-diamonds.html</link>
+      <guid>https://scotttischler.com/articles/lab-grown-vs-natural-diamonds.html</guid>
+      <category>Jewelry</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>I&#x27;ve spent years at the bench and at the buying table sourcing stones. Here&#x27;s the unvarnished truth about lab-grown and natural diamonds that the sales floor tends to leave out.</description>
+    </item>
+    <item>
+      <title>The Real Cost of a Custom Engagement Ring — Broken Down by Someone Who Builds Them</title>
+      <link>https://scotttischler.com/articles/custom-engagement-ring-cost.html</link>
+      <guid>https://scotttischler.com/articles/custom-engagement-ring-cost.html</guid>
+      <category>Jewelry</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>I&#x27;ve built hundreds of custom rings. Here&#x27;s exactly where every dollar goes — and the markups nobody at the counter wants to explain to you.</description>
+    </item>
+    <item>
+      <title>Discipline Over Motivation: An Operator&#x27;s Guide to Training After 40</title>
+      <link>https://scotttischler.com/articles/discipline-over-motivation-training-after-40.html</link>
+      <guid>https://scotttischler.com/articles/discipline-over-motivation-training-after-40.html</guid>
+      <category>Fitness</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Motivation got me to two national championships. It has never once gotten me through a Tuesday. Here&#x27;s what actually keeps you strong after 40 — in the gym and in the business.</description>
+    </item>
+    <item>
+      <title>What Winning a National Vertical-Leap Title Taught Me About Everything Else</title>
+      <link>https://scotttischler.com/articles/vertical-leap-title-lessons.html</link>
+      <guid>https://scotttischler.com/articles/vertical-leap-title-lessons.html</guid>
+      <category>Fitness</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>I once out-jumped more than 250,000 people to win a national title. The jump was the easy part. What it taught me about building a life and a business is the part I still use every single day.</description>
+    </item>
+    <item>
+      <title>Why Your 5-Star Reviews Aren&#x27;t Getting You Recommended by AI</title>
+      <link>https://scotttischler.com/articles/reviews-not-getting-recommended-by-ai.html</link>
+      <guid>https://scotttischler.com/articles/reviews-not-getting-recommended-by-ai.html</guid>
+      <category>AI &amp; Search</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Your 4.9-star average is a vanity metric to a large language model. When someone asks ChatGPT for &quot;the best physical therapist near me for a torn rotator cuff,&quot; the AI isn&#x27;t counting stars. It&#x27;s reading the sentences. Here&#x27;s what it&#x27;s actually looking for.</description>
+    </item>
+    <item>
+      <title>AI Is Rewriting Your Brand Right Now — Here&#x27;s How to Take Back Control</title>
+      <link>https://scotttischler.com/articles/ai-is-rewriting-your-brand.html</link>
+      <guid>https://scotttischler.com/articles/ai-is-rewriting-your-brand.html</guid>
+      <category>AI &amp; Search</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Right now, an AI assistant is telling a prospective customer what your company does, whether it&#x27;s any good, and whether to buy — and most of the time you have no idea what it&#x27;s saying. Here&#x27;s how the machines build their picture of you, and how to take the pen back.</description>
+    </item>
+    <item>
+      <title>The $0 Marketing Channel Everyone Will Be Fighting Over by 2027</title>
+      <link>https://scotttischler.com/articles/zero-dollar-marketing-channel-2027.html</link>
+      <guid>https://scotttischler.com/articles/zero-dollar-marketing-channel-2027.html</guid>
+      <category>Business</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Every marketing channel has a moment before the money floods in — a window when the ground is unclaimed and the smart players walk in and take it. Being the business AI recommends is in that window right now. It will not stay there.</description>
+    </item>
+    <item>
+      <title>Moats in the Age of AI: What Actually Protects a Business Now</title>
+      <link>https://scotttischler.com/articles/moats-in-the-age-of-ai.html</link>
+      <guid>https://scotttischler.com/articles/moats-in-the-age-of-ai.html</guid>
+      <category>Business</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Half the moats we were taught to build are turning into puddles. The other half are getting deeper. If you can&#x27;t tell which is which right now, you&#x27;re defending the wrong castle.</description>
+    </item>
+    <item>
+      <title>Single-Unit vs. Multi-Unit: The Franchise Math That Builds Real Wealth</title>
+      <link>https://scotttischler.com/articles/single-vs-multi-unit-franchise-math.html</link>
+      <guid>https://scotttischler.com/articles/single-vs-multi-unit-franchise-math.html</guid>
+      <category>Franchise</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Most people buy a franchise expecting to build wealth and accidentally buy themselves a job instead. The difference isn&#x27;t luck or the brand — it&#x27;s the math you run before you sign, and the discipline you hold after.</description>
+    </item>
+    <item>
+      <title>The Semi-Absentee Franchise Myth — and How to Actually Get There</title>
+      <link>https://scotttischler.com/articles/semi-absentee-franchise-myth.html</link>
+      <guid>https://scotttischler.com/articles/semi-absentee-franchise-myth.html</guid>
+      <category>Franchise</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Nobody hands you a business that runs without you. But you can build one that does. Here&#x27;s the unglamorous, honest path from owner-operator to genuinely stepping back — and how to spot the brands selling you a fantasy.</description>
+    </item>
+    <item>
+      <title>How to Buy an Engagement Ring Without Getting Played: A Jeweler&#x27;s Field Guide</title>
+      <link>https://scotttischler.com/articles/buy-engagement-ring-without-getting-played.html</link>
+      <guid>https://scotttischler.com/articles/buy-engagement-ring-without-getting-played.html</guid>
+      <category>Jewelry</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>I&#x27;ve spent years at the bench and behind the counter. Here&#x27;s exactly how the diamond business separates you from your money — and how to walk in informed, spend less, and walk out with something extraordinary.</description>
+    </item>
+    <item>
+      <title>The Lost Art of Plique-à-Jour — and Why Handmade Jewelry Still Wins</title>
+      <link>https://scotttischler.com/articles/lost-art-of-plique-a-jour.html</link>
+      <guid>https://scotttischler.com/articles/lost-art-of-plique-a-jour.html</guid>
+      <category>Jewelry</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Hold a plique-à-jour piece up to a window and it lights up like a cathedral. Here&#x27;s why almost no one still makes it by hand — and why that&#x27;s exactly what makes it worth owning.</description>
+    </item>
+    <item>
+      <title>The Minimum Effective Dose: How Busy Founders Actually Stay in Shape</title>
+      <link>https://scotttischler.com/articles/minimum-effective-dose-busy-founders.html</link>
+      <guid>https://scotttischler.com/articles/minimum-effective-dose-busy-founders.html</guid>
+      <category>Fitness</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>You don&#x27;t need two hours a day. You need the smallest dose you&#x27;ll actually repeat for the next decade. Here&#x27;s the operator&#x27;s guide to staying strong when you have no time.</description>
+    </item>
+    <item>
+      <title>Strength Is Your Best Longevity Investment — The Training Case for Your Next 30 Years</title>
+      <link>https://scotttischler.com/articles/strength-longevity-investment.html</link>
+      <guid>https://scotttischler.com/articles/strength-longevity-investment.html</guid>
+      <category>Fitness</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>I&#x27;ve spent my life measuring what the body can do — from a national-champion vertical leap to a heavyweight karate title. Here&#x27;s the honest case that strength, built patiently, is the best long-term investment most people never make.</description>
+    </item>
+    <item>
+      <title>Structured Data &amp; Knowledge Graphs: Making Your Business Machine-Readable</title>
+      <link>https://scotttischler.com/articles/structured-data-knowledge-graphs.html</link>
+      <guid>https://scotttischler.com/articles/structured-data-knowledge-graphs.html</guid>
+      <category>Technical</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>AI answer engines can only recommend a business they can unambiguously identify. Structured data and a coherent entity across the web are how you make yourself machine-readable.</description>
+    </item>
+    <item>
+      <title>Local Business AEO: Becoming the AI&#x27;s Neighborhood Recommendation</title>
+      <link>https://scotttischler.com/articles/local-business-aeo.html</link>
+      <guid>https://scotttischler.com/articles/local-business-aeo.html</guid>
+      <category>Local</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>When someone asks an AI assistant for the best plumber or dentist nearby, one business gets named. This is the playbook for making that business yours.</description>
+    </item>
+    <item>
+      <title>Measuring AI-Referred Traffic and Leads</title>
+      <link>https://scotttischler.com/articles/measuring-ai-referred-traffic.html</link>
+      <guid>https://scotttischler.com/articles/measuring-ai-referred-traffic.html</guid>
+      <category>Measurement</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>A practical framework for measuring whether AI answer engines are actually sending you business — from referral traffic and citation tracking to attribution in a zero-click world.</description>
+    </item>
+    <item>
+      <title>The Epistemic Shift: From Ten Blue Links to AI Recommendations</title>
+      <link>https://scotttischler.com/articles/the-epistemic-shift.html</link>
+      <guid>https://scotttischler.com/articles/the-epistemic-shift.html</guid>
+      <category>Research</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 15 Jun 2026 09:00:00 +0000</pubDate>
+      <description>The way people find and trust information is changing at its foundation — from browsing and choosing among links to receiving a single synthesized recommendation, and it rewires how businesses earn credibility.</description>
+    </item>
+    <item>
+      <title>Answer Engine Optimization for Service Businesses</title>
+      <link>https://scotttischler.com/articles/aeo-for-service-businesses.html</link>
+      <guid>https://scotttischler.com/articles/aeo-for-service-businesses.html</guid>
+      <category>Industry</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>A step-by-step field guide to Answer Engine Optimization for service businesses, covering the signals AI weighs and how to become the provider AI recommends.</description>
+    </item>
+    <item>
+      <title>Google AI Overviews: A Practical Optimization Playbook</title>
+      <link>https://scotttischler.com/articles/google-ai-overviews-playbook.html</link>
+      <guid>https://scotttischler.com/articles/google-ai-overviews-playbook.html</guid>
+      <category>Playbook</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>A concrete optimization playbook for earning inclusion and citation in Google AI Overviews, covering how Overviews pull sources, passage-level relevance, and authority.</description>
+    </item>
+    <item>
+      <title>Reviews, Reputation, and How AI Weighs Trust</title>
+      <link>https://scotttischler.com/articles/reviews-reputation-ai-trust.html</link>
+      <guid>https://scotttischler.com/articles/reviews-reputation-ai-trust.html</guid>
+      <category>Trust</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>AI answer engines don&#x27;t just count your stars. They read sentiment, recency, consistency across platforms, and unstructured mentions to decide whether you&#x27;re recommendable.</description>
+    </item>
+    <item>
+      <title>Content Architecture for Answer Engines</title>
+      <link>https://scotttischler.com/articles/content-architecture-answer-engines.html</link>
+      <guid>https://scotttischler.com/articles/content-architecture-answer-engines.html</guid>
+      <category>Content</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Getting cited by AI is an architecture problem, not a writing problem. Here is how to structure pages so answer engines can extract, trust, and quote you.</description>
+    </item>
+    <item>
+      <title>Building a Personal Brand AI Will Recommend</title>
+      <link>https://scotttischler.com/articles/personal-brand-ai-will-recommend.html</link>
+      <guid>https://scotttischler.com/articles/personal-brand-ai-will-recommend.html</guid>
+      <category>Personal Brand</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>AI systems recommend people they can recognize as consistent, verifiable entities. Here is how to build a personal brand that language models name, cite, and recommend.</description>
+    </item>
+    <item>
+      <title>From SEO Agency to AEO Practice: Repositioning for the AI Era</title>
+      <link>https://scotttischler.com/articles/seo-agency-to-aeo-practice.html</link>
+      <guid>https://scotttischler.com/articles/seo-agency-to-aeo-practice.html</guid>
+      <category>Agencies</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>SEO agencies that survive the AI era will reposition around answer engines. Here is what to keep, what to add, and how to package and price an AEO practice.</description>
+    </item>
+    <item>
+      <title>Franchising a Category-Defining Service Business</title>
+      <link>https://scotttischler.com/articles/franchising-category-defining-business.html</link>
+      <guid>https://scotttischler.com/articles/franchising-category-defining-business.html</guid>
+      <category>Franchise</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Category-defining service concepts franchise better than &quot;me-too&quot; copies because they own the language, the demand, and the answer buyers are searching for. Here is how to build one and scale it.</description>
+    </item>
+    <item>
+      <title>The Founder&#x27;s Guide to Category Creation</title>
+      <link>https://scotttischler.com/articles/founders-guide-category-creation.html</link>
+      <guid>https://scotttischler.com/articles/founders-guide-category-creation.html</guid>
+      <category>Founders</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>The most valuable position in any market is not being the best option in a category — it is being the category. Here is how founders name a new problem, frame the alternative, and become the default answer for both buyers and AI.</description>
+    </item>
+    <item>
+      <title>The Future of Search, 2026–2030: Predictions for Business Owners</title>
+      <link>https://scotttischler.com/articles/future-of-search-2026-2030.html</link>
+      <guid>https://scotttischler.com/articles/future-of-search-2026-2030.html</guid>
+      <category>Trends</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Search is shifting from a page of blue links to an AI assistant that answers, decides, and acts on the customer&#x27;s behalf. Here is how that plays out through 2030 and what business owners should do about it now.</description>
+    </item>
+    <item>
+      <title>Lessons from 20 Years in MarTech: What Actually Builds Authority</title>
+      <link>https://scotttischler.com/articles/lessons-20-years-martech.html</link>
+      <guid>https://scotttischler.com/articles/lessons-20-years-martech.html</guid>
+      <category>Experience</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>After 20-plus years across American Express, MetLife, UBS, and building AIrecommend.ai, here are the durable principles that build real authority through every platform shift - and what turns out to be noise.</description>
+    </item>
+    <item>
+      <title>How to Get Your Products Recommended in ChatGPT Shopping and AI Assistants</title>
+      <link>https://scotttischler.com/articles/chatgpt-shopping-ai-product-recommendations.html</link>
+      <guid>https://scotttischler.com/articles/chatgpt-shopping-ai-product-recommendations.html</guid>
+      <category>AI &amp; Search</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>AI assistants are becoming the new storefront, and the brands they name are winning sales without a single ad click. Here is how products get recommended and the playbook to become the pick.</description>
+    </item>
+    <item>
+      <title>The Death of the Homepage: Where Your Website Traffic Is Really Going</title>
+      <link>https://scotttischler.com/articles/death-of-the-homepage.html</link>
+      <guid>https://scotttischler.com/articles/death-of-the-homepage.html</guid>
+      <category>Business</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>As AI answers replace clicks, the homepage is no longer the front door to your business — the answer is. Here is where your traffic is really going and how to adapt before the shift finishes.</description>
+    </item>
+    <item>
+      <title>Recession-Resistant Franchises: What the Data Actually Supports</title>
+      <link>https://scotttischler.com/articles/recession-proof-franchises.html</link>
+      <guid>https://scotttischler.com/articles/recession-proof-franchises.html</guid>
+      <category>Franchise</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>No franchise is recession-proof, but some categories hold up far better than others. Here is how to tell the difference and how to stress-test the numbers before you sign.</description>
+    </item>
+    <item>
+      <title>Moissanite vs. Diamond: An Honest Breakdown from a Jeweler</title>
+      <link>https://scotttischler.com/articles/moissanite-vs-diamond.html</link>
+      <guid>https://scotttischler.com/articles/moissanite-vs-diamond.html</guid>
+      <category>Jewelry</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Moissanite, natural diamond, and lab-grown diamond are three different products, not three grades of the same thing. Here is the honest comparison I give clients before they spend a dollar.</description>
+    </item>
+    <item>
+      <title>The Three Lifts That Matter Most After 40</title>
+      <link>https://scotttischler.com/articles/three-lifts-after-40.html</link>
+      <guid>https://scotttischler.com/articles/three-lifts-after-40.html</guid>
+      <category>Fitness</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>After 40, you don&#x27;t need more exercises — you need the right few, done well, for a long time. Here are the three lifts I&#x27;d keep if I could keep nothing else, and exactly how to run them.</description>
+    </item>
+    <item>
+      <title>The Exact Prompts Your Customers Are Typing Into AI About Your Industry</title>
+      <link>https://scotttischler.com/articles/prompts-customers-type-about-your-industry.html</link>
+      <guid>https://scotttischler.com/articles/prompts-customers-type-about-your-industry.html</guid>
+      <category>Playbook</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Your buyers have stopped typing keywords and started asking AI full questions. This playbook shows how to discover those prompts, map the prompt space, and engineer your way into the answer.</description>
+    </item>
+    <item>
+      <title>House Hacking: How to Buy Your First Property and Let It Pay for Itself</title>
+      <link>https://scotttischler.com/articles/house-hacking-first-property.html</link>
+      <guid>https://scotttischler.com/articles/house-hacking-first-property.html</guid>
+      <category>Real Estate</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>House hacking is buying a home you live in while tenants cover most or all of the mortgage. Here is how it works, the loans that make it possible, and how to run the numbers honestly.</description>
+    </item>
+    <item>
+      <title>Creative Financing Explained: Seller Financing, Subject-To, and Lease Options</title>
+      <link>https://scotttischler.com/articles/creative-financing-explained.html</link>
+      <guid>https://scotttischler.com/articles/creative-financing-explained.html</guid>
+      <category>Real Estate</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Creative financing means structuring a real estate deal without a conventional bank loan. Here is how seller financing, subject-to, lease options, and wraps work — and how to do them ethically.</description>
+    </item>
+    <item>
+      <title>How to Read a Market Top: What Selling Before 2008 Taught Me</title>
+      <link>https://scotttischler.com/articles/reading-a-market-top.html</link>
+      <guid>https://scotttischler.com/articles/reading-a-market-top.html</guid>
+      <category>Real Estate</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>I sold most of my real estate portfolio into strength before the 2008 crash. Here are the signals I watched, the discipline it took, and an honest accounting of what was skill and what was luck.</description>
+    </item>
+    <item>
+      <title>The Rent-by-the-Room Playbook: Co-Living Before It Was a Trend</title>
+      <link>https://scotttischler.com/articles/rent-by-the-room-coliving.html</link>
+      <guid>https://scotttischler.com/articles/rent-by-the-room-coliving.html</guid>
+      <category>Real Estate</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Renting a house by the room can multiply cash flow versus a single lease. I ran this model years before it had a name — here is the economics, the operations, and an honest look at the work.</description>
+    </item>
+    <item>
+      <title>Buying Your First Commercial Property: Lessons From a 48,000 SqFt Warehouse</title>
+      <link>https://scotttischler.com/articles/buying-commercial-warehouse.html</link>
+      <guid>https://scotttischler.com/articles/buying-commercial-warehouse.html</guid>
+      <category>Real Estate</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>What I learned buying a 48,000-square-foot warehouse, and why commercial is a different game than residential.</description>
+    </item>
+    <item>
+      <title>The BRRRR Method, Honestly: Where It Works and Where People Get Hurt</title>
+      <link>https://scotttischler.com/articles/brrrr-method-honest.html</link>
+      <guid>https://scotttischler.com/articles/brrrr-method-honest.html</guid>
+      <category>Real Estate</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>BRRRR can build a portfolio fast or wipe you out. Here&#x27;s the honest version, from someone who has lived through both cycles.</description>
+    </item>
+    <item>
+      <title>Real Estate Investing in the Age of AI: How Deals, Agents, and Buyers Are Changing</title>
+      <link>https://scotttischler.com/articles/real-estate-in-age-of-ai.html</link>
+      <guid>https://scotttischler.com/articles/real-estate-in-age-of-ai.html</guid>
+      <category>Real Estate</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>AI is rewriting how deals get found, priced, and closed — here&#x27;s what actually changes for investors and what still comes down to human judgment.</description>
+    </item>
+    <item>
+      <title>How to Finance a Franchise: SBA Loans, ROBS, and Creative Options</title>
+      <link>https://scotttischler.com/articles/franchise-financing-options.html</link>
+      <guid>https://scotttischler.com/articles/franchise-financing-options.html</guid>
+      <category>Franchise</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>The real menu of ways to fund a franchise — SBA, retirement rollovers, home equity, creative structures — and how to weigh the risk of each.</description>
+    </item>
+    <item>
+      <title>When AI Agents Start Booking and Buying: Preparing Your Business for Agentic Commerce</title>
+      <link>https://scotttischler.com/articles/ai-agents-book-and-buy.html</link>
+      <guid>https://scotttischler.com/articles/ai-agents-book-and-buy.html</guid>
+      <category>AI &amp; Search</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>AI agents are moving from recommending to transacting — booking, purchasing, and comparing on the buyer&#x27;s behalf. Here is what your business must do to be the option an agent actually selects.</description>
+    </item>
+    <item>
+      <title>Wikipedia, Wikidata, and Why They Decide What AI Believes About You</title>
+      <link>https://scotttischler.com/articles/wikipedia-wikidata-authority.html</link>
+      <guid>https://scotttischler.com/articles/wikipedia-wikidata-authority.html</guid>
+      <category>Entity Authority</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Wikipedia and Wikidata quietly train what AI believes about you. Here is why they carry so much weight, how notability actually works, and the honest way to build entity authority.</description>
+    </item>
+    <item>
+      <title>5 AEO Myths That Are Quietly Costing You AI Visibility</title>
+      <link>https://scotttischler.com/articles/aeo-myths-costing-visibility.html</link>
+      <guid>https://scotttischler.com/articles/aeo-myths-costing-visibility.html</guid>
+      <category>Strategy</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>The most expensive AEO mistakes aren&#x27;t tactical — they&#x27;re the beliefs that stop you from acting at all.</description>
+    </item>
+    <item>
+      <title>Perplexity vs. ChatGPT vs. Google AI: Where Your Customers Actually Ask</title>
+      <link>https://scotttischler.com/articles/perplexity-vs-chatgpt-vs-google-ai.html</link>
+      <guid>https://scotttischler.com/articles/perplexity-vs-chatgpt-vs-google-ai.html</guid>
+      <category>AI &amp; Search</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>The three big answer engines don&#x27;t work the same way — and optimizing for all of them identically wastes effort you can&#x27;t afford.</description>
+    </item>
+    <item>
+      <title>Pricing Power in the AI Era: Why Being the Recommendation Lets You Charge More</title>
+      <link>https://scotttischler.com/articles/pricing-power-ai-era.html</link>
+      <guid>https://scotttischler.com/articles/pricing-power-ai-era.html</guid>
+      <category>Business</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>When an AI assistant names you as the answer, the buyer stops comparison shopping — and that shift, not a feature list, is what lets you charge more. Here is how being the recommendation becomes pricing power.</description>
+    </item>
+    <item>
+      <title>Why Reputation Is the Only Asset That Compounds in the AI Era</title>
+      <link>https://scotttischler.com/articles/reputation-compounding-ai-era.html</link>
+      <guid>https://scotttischler.com/articles/reputation-compounding-ai-era.html</guid>
+      <category>Business</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Tactics decay, algorithms change, and channels disappear — but reputation compounds, resists copying, and is exactly what AI reaches for when it decides who to recommend. Here is how to build it on purpose.</description>
+    </item>
+    <item>
+      <title>The Small Business AI Playbook for 2026</title>
+      <link>https://scotttischler.com/articles/small-business-ai-playbook-2026.html</link>
+      <guid>https://scotttischler.com/articles/small-business-ai-playbook-2026.html</guid>
+      <category>Business</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>The practical, ROI-ranked moves that let a small business use AI to cut work and get recommended by AI in 2026.</description>
+    </item>
+    <item>
+      <title>The First 90 Days as a Franchise Owner: A Survival Guide</title>
+      <link>https://scotttischler.com/articles/first-90-days-franchise-owner.html</link>
+      <guid>https://scotttischler.com/articles/first-90-days-franchise-owner.html</guid>
+      <category>Franchise</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>What actually matters in your first 90 days as a franchise owner — the moves that protect cash, build a team, and get you found.</description>
+    </item>
+    <item>
+      <title>The 4Cs Decoded: Which Actually Matter Most When You Buy a Diamond</title>
+      <link>https://scotttischler.com/articles/diamond-4cs-decoded.html</link>
+      <guid>https://scotttischler.com/articles/diamond-4cs-decoded.html</guid>
+      <category>Jewelry</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>The 4Cs aren&#x27;t equal — here&#x27;s where your money actually buys beauty, and where the industry gets you to overpay.</description>
+    </item>
+    <item>
+      <title>Does Fine Jewelry Hold Value? An Honest Look at Jewelry as an Asset</title>
+      <link>https://scotttischler.com/articles/does-fine-jewelry-hold-value.html</link>
+      <guid>https://scotttischler.com/articles/does-fine-jewelry-hold-value.html</guid>
+      <category>Jewelry</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Most jewelry loses most of its value the moment you leave the store — but some pieces hold up surprisingly well. Here&#x27;s the honest breakdown.</description>
+    </item>
+    <item>
+      <title>Training Around Injuries After 40: How to Keep Progressing Without Breaking Down</title>
+      <link>https://scotttischler.com/articles/training-around-injuries-after-40.html</link>
+      <guid>https://scotttischler.com/articles/training-around-injuries-after-40.html</guid>
+      <category>Fitness</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>You can keep building strength and muscle past 40 while managing nagging injuries. Here is how I do it — substitutions, warm-ups, load management, tempo, and knowing when to push.</description>
+    </item>
+    <item>
+      <title>The No-Nonsense Nutrition Guide for Busy Professionals</title>
+      <link>https://scotttischler.com/articles/nutrition-for-busy-professionals.html</link>
+      <guid>https://scotttischler.com/articles/nutrition-for-busy-professionals.html</guid>
+      <category>Fitness</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>A simple, sustainable way to eat well when your calendar is full — built on protein, a few defaults, and habits that survive travel and long days, not another restrictive diet.</description>
+    </item>
+    <item>
+      <title>How to Analyze Your First Rental Property in 15 Minutes</title>
+      <link>https://scotttischler.com/articles/first-rental-property-analysis.html</link>
+      <guid>https://scotttischler.com/articles/first-rental-property-analysis.html</guid>
+      <category>Real Estate</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>A fast, honest framework for screening your first rental deal without fooling yourself on the numbers.</description>
+    </item>
+    <item>
+      <title>Subject-To Deals Explained: The Creative Finance Strategy Most Investors Fear</title>
+      <link>https://scotttischler.com/articles/subject-to-deals-explained.html</link>
+      <guid>https://scotttischler.com/articles/subject-to-deals-explained.html</guid>
+      <category>Real Estate</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>What subject-to really is, when it works, the risks that scare people off, and how careful practitioners handle them.</description>
+    </item>
+    <item>
+      <title>Self-Storage Investing: The Boring Asset That Quietly Builds Wealth</title>
+      <link>https://scotttischler.com/articles/self-storage-investing.html</link>
+      <guid>https://scotttischler.com/articles/self-storage-investing.html</guid>
+      <category>Real Estate</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Self-storage is the unglamorous asset that keeps cash flowing when flashier property types stall — here&#x27;s how the economics really work, how to get in, and how to evaluate a facility.</description>
+    </item>
+    <item>
+      <title>Raising Private Money: How to Fund Real Estate Deals Without a Bank</title>
+      <link>https://scotttischler.com/articles/raising-private-money.html</link>
+      <guid>https://scotttischler.com/articles/raising-private-money.html</guid>
+      <category>Real Estate</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Private money lets you fund deals a bank won&#x27;t touch — but only if you present them right, structure them fairly, and stay on the correct side of securities law. Here&#x27;s how it actually works.</description>
+    </item>
+    <item>
+      <title>The Tax Advantages That Make Real Estate Different From Every Other Investment</title>
+      <link>https://scotttischler.com/articles/tax-strategies-real-estate-investors.html</link>
+      <guid>https://scotttischler.com/articles/tax-strategies-real-estate-investors.html</guid>
+      <category>Real Estate</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Depreciation, cost segregation, 1031 exchanges, and real estate professional status can turn a good deal into a great one — here&#x27;s how they actually work.</description>
+    </item>
+    <item>
+      <title>How to Audit Your Business&#x27;s AI Visibility in One Afternoon</title>
+      <link>https://scotttischler.com/articles/answer-engine-audit-diy.html</link>
+      <guid>https://scotttischler.com/articles/answer-engine-audit-diy.html</guid>
+      <category>Playbook</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>A practical, do-it-yourself audit you can run this afternoon to find out whether AI assistants recommend your business — and how to close the gaps.</description>
+    </item>
+    <item>
+      <title>The Schema Markup That Actually Moves AI Visibility</title>
+      <link>https://scotttischler.com/articles/schema-markup-that-matters.html</link>
+      <guid>https://scotttischler.com/articles/schema-markup-that-matters.html</guid>
+      <category>Technical</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Not all structured data is worth your time. Here are the schema.org types that actually help language models understand who you are, what you sell, and why they should name you.</description>
+    </item>
+    <item>
+      <title>How B2B Buyers Now Use AI to Build Their Shortlist</title>
+      <link>https://scotttischler.com/articles/ai-recommendation-b2b.html</link>
+      <guid>https://scotttischler.com/articles/ai-recommendation-b2b.html</guid>
+      <category>AI &amp; Search</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>The vendor shortlist is now being built by an AI before a buyer ever fills out your form. Here&#x27;s how that shortlist gets assembled — and how to make sure your name is on it.</description>
+    </item>
+    <item>
+      <title>The AEO First-Mover Advantage Won&#x27;t Last — Here&#x27;s the Window</title>
+      <link>https://scotttischler.com/articles/first-mover-advantage-aeo.html</link>
+      <guid>https://scotttischler.com/articles/first-mover-advantage-aeo.html</guid>
+      <category>Strategy</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Being early to AEO isn&#x27;t a vanity metric — it compounds, because AI systems anchor on the entities and sources they already trust. Here&#x27;s why the window is real, and how long it stays open.</description>
+    </item>
+    <item>
+      <title>What Is llms.txt? The New Standard for Talking to AI Crawlers</title>
+      <link>https://scotttischler.com/articles/llms-txt-explained.html</link>
+      <guid>https://scotttischler.com/articles/llms-txt-explained.html</guid>
+      <category>Technical</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>llms.txt is a proposed standard for giving AI systems a clean, curated map of your site&#x27;s most important content. Here&#x27;s what it is, what it isn&#x27;t, and how to write one.</description>
+    </item>
+    <item>
+      <title>Your Personal Brand Is the Founder Moat AI Can&#x27;t Copy</title>
+      <link>https://scotttischler.com/articles/personal-brand-founder-moat.html</link>
+      <guid>https://scotttischler.com/articles/personal-brand-founder-moat.html</guid>
+      <category>Business</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>AI can generate infinite content, but it can&#x27;t manufacture a real person with a track record. A credible founder brand is the one advantage that gets more valuable as everything else gets automated.</description>
+    </item>
+    <item>
+      <title>Word of Mouth at Machine Scale: Referrals in the AI Era</title>
+      <link>https://scotttischler.com/articles/referrals-in-the-ai-era.html</link>
+      <guid>https://scotttischler.com/articles/referrals-in-the-ai-era.html</guid>
+      <category>Business</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>The referral never went away — it got automated. AI answer engines are now the friend everyone asks for a recommendation, and they build their answers from the mentions, reviews, and citations you earn.</description>
+    </item>
+    <item>
+      <title>How to Build Authority From Zero in a Crowded Market</title>
+      <link>https://scotttischler.com/articles/build-authority-from-zero.html</link>
+      <guid>https://scotttischler.com/articles/build-authority-from-zero.html</guid>
+      <category>Business</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>The honest, operator&#x27;s playbook for earning real authority when nobody knows your name yet — narrow your lane, publish genuine expertise, earn third-party citations, and compound over years, not weeks.</description>
+    </item>
+    <item>
+      <title>Franchise vs. Startup: The Honest Trade-offs Nobody Explains</title>
+      <link>https://scotttischler.com/articles/franchise-vs-startup.html</link>
+      <guid>https://scotttischler.com/articles/franchise-vs-startup.html</guid>
+      <category>Franchise</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>A balanced, no-hype breakdown of franchise versus startup — the real trade-offs in control, risk, cost, speed, and upside — so you can decide which path actually fits you. Both can fail; the goal is choosing the right one for you.</description>
+    </item>
+    <item>
+      <title>How to Read a Franchise Disclosure Document Like a Pro</title>
+      <link>https://scotttischler.com/articles/reading-franchise-disclosure-document.html</link>
+      <guid>https://scotttischler.com/articles/reading-franchise-disclosure-document.html</guid>
+      <category>Franchise</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>The FDD is the single most important document in any franchise deal. Here&#x27;s how to read it the way experienced buyers and their advisors actually do — and what separates a real opportunity from a well-packaged trap.</description>
+    </item>
+    <item>
+      <title>From Idea to Heirloom: How a Custom Jewelry Piece Is Actually Made</title>
+      <link>https://scotttischler.com/articles/custom-jewelry-process.html</link>
+      <guid>https://scotttischler.com/articles/custom-jewelry-process.html</guid>
+      <category>Jewelry</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>What actually happens between an idea in your head and a finished piece on your hand. A maker walks through the real custom jewelry process — the design, the stones, the bench work, and what makes a piece heirloom-quality.</description>
+    </item>
+    <item>
+      <title>How to Care for Fine Jewelry So It Lasts Generations</title>
+      <link>https://scotttischler.com/articles/caring-for-fine-jewelry.html</link>
+      <guid>https://scotttischler.com/articles/caring-for-fine-jewelry.html</guid>
+      <category>Jewelry</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Practical, jeweler-tested habits that keep rings, chains, and heirloom stones bright and secure for decades.</description>
+    </item>
+    <item>
+      <title>Building Muscle After 40: What the Science Actually Says</title>
+      <link>https://scotttischler.com/articles/building-muscle-after-40-science.html</link>
+      <guid>https://scotttischler.com/articles/building-muscle-after-40-science.html</guid>
+      <category>Fitness</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>An honest, hype-free look at how muscle actually gets built after 40, and what changes versus what does not.</description>
+    </item>
+    <item>
+      <title>Recovery Is the Real Performance Enhancer: Sleep, Stress, and Training</title>
+      <link>https://scotttischler.com/articles/recovery-is-the-real-performance-enhancer.html</link>
+      <guid>https://scotttischler.com/articles/recovery-is-the-real-performance-enhancer.html</guid>
+      <category>Fitness</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Training breaks you down; recovery is where you actually build. Here&#x27;s how sleep, stress, nutrition, and deloads turn work into results — especially after 40.</description>
+    </item>
+    <item>
+      <title>How to Stay Consistent for Decades, Not Weeks</title>
+      <link>https://scotttischler.com/articles/staying-consistent-for-decades.html</link>
+      <guid>https://scotttischler.com/articles/staying-consistent-for-decades.html</guid>
+      <category>Fitness</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 28 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Motivation fades in weeks. Systems and identity last decades. Here&#x27;s how I&#x27;ve stayed consistent through titles, injuries, busy seasons, and life past 40.</description>
+    </item>
+    <item>
+      <title>Agentic Commerce Is Here: How to Get Your Business Bought by AI Agents</title>
+      <link>https://scotttischler.com/articles/agentic-commerce-guide.html</link>
+      <guid>https://scotttischler.com/articles/agentic-commerce-guide.html</guid>
+      <category>AI &amp; Search</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 30 Jul 2026 09:00:00 +0000</pubDate>
+      <description>AI agents are starting to browse, compare, and buy on people&#x27;s behalf. Here&#x27;s how to make sure your business is the one they choose.</description>
+    </item>
+    <item>
+      <title>What Is MCP (Model Context Protocol)? AI Agents&#x27; Plumbing, Explained for Business Owners</title>
+      <link>https://scotttischler.com/articles/mcp-explained-for-business.html</link>
+      <guid>https://scotttischler.com/articles/mcp-explained-for-business.html</guid>
+      <category>AI &amp; Search</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 30 Jul 2026 09:00:00 +0000</pubDate>
+      <description>MCP is the quiet standard letting AI agents plug into real tools and live data. Here&#x27;s what it means for how your business shows up to AI.</description>
+    </item>
+    <item>
+      <title>How AI Agents Are Quietly Taking Over the Buying Decision</title>
+      <link>https://scotttischler.com/articles/ai-agents-changing-buying.html</link>
+      <guid>https://scotttischler.com/articles/ai-agents-changing-buying.html</guid>
+      <category>AI &amp; Search</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 30 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Your next customer may never see your website. It will be an AI agent acting on their behalf, and it decides differently than a human does.</description>
+    </item>
+    <item>
+      <title>GEO vs. AEO vs. SEO in 2026: The Only Framework You Need</title>
+      <link>https://scotttischler.com/articles/geo-vs-aeo-vs-seo-2026.html</link>
+      <guid>https://scotttischler.com/articles/geo-vs-aeo-vs-seo-2026.html</guid>
+      <category>Strategy</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 30 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Three acronyms, endless confusion. Here is the definitive framework for how GEO, AEO, and SEO actually differ and how to prioritize them in 2026.</description>
+    </item>
+    <item>
+      <title>The Two-Channel Reality: Winning Google and AI Search at the Same Time</title>
+      <link>https://scotttischler.com/articles/two-channel-search-google-and-ai.html</link>
+      <guid>https://scotttischler.com/articles/two-channel-search-google-and-ai.html</guid>
+      <category>Strategy</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 30 Jul 2026 09:00:00 +0000</pubDate>
+      <description>You no longer get to choose between Google and AI search. You have to win both at the same time, and they reward different things.</description>
+    </item>
+    <item>
+      <title>Why Vertical AI Agents Will Beat General AI in Your Industry</title>
+      <link>https://scotttischler.com/articles/vertical-ai-agents-industry.html</link>
+      <guid>https://scotttischler.com/articles/vertical-ai-agents-industry.html</guid>
+      <category>Business</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 30 Jul 2026 09:00:00 +0000</pubDate>
+      <description>A general model knows a little about everything. A vertical agent knows your industry cold — and for real business work, that difference is decisive.</description>
+    </item>
+    <item>
+      <title>Small Language Models: The Cheaper AI Advantage Most Businesses Are Missing</title>
+      <link>https://scotttischler.com/articles/small-language-models-advantage.html</link>
+      <guid>https://scotttischler.com/articles/small-language-models-advantage.html</guid>
+      <category>Business</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 30 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Why small language models often beat giant ones for specific business tasks — and how a normal company should decide when to use them.</description>
+    </item>
+    <item>
+      <title>AI Governance for Normal Businesses: What the EU AI Act and Agent Risks Actually Mean for You</title>
+      <link>https://scotttischler.com/articles/ai-governance-for-businesses.html</link>
+      <guid>https://scotttischler.com/articles/ai-governance-for-businesses.html</guid>
+      <category>Business</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 30 Jul 2026 09:00:00 +0000</pubDate>
+      <description>A plain-English guide to AI governance for small and mid-sized businesses — what new rules and agent risks mean, and how to adopt AI responsibly without a legal team.</description>
+    </item>
+    <item>
+      <title>How to Make Sure AI Agents Recommend and Choose Your Business</title>
+      <link>https://scotttischler.com/articles/get-recommended-by-ai-agents.html</link>
+      <guid>https://scotttischler.com/articles/get-recommended-by-ai-agents.html</guid>
+      <category>Playbook</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 30 Jul 2026 09:00:00 +0000</pubDate>
+      <description>A practical playbook for making your business the one AI agents recommend, shortlist, and buy from — before your competitors get there first.</description>
+    </item>
+    <item>
+      <title>The State of AI Search in 2026: The Numbers Every Business Owner Should Know</title>
+      <link>https://scotttischler.com/articles/state-of-ai-search-2026.html</link>
+      <guid>https://scotttischler.com/articles/state-of-ai-search-2026.html</guid>
+      <category>Research</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 30 Jul 2026 09:00:00 +0000</pubDate>
+      <description>The numbers behind AI search in 2026 — who&#x27;s using it, who commands the traffic, and what the shift to answer engines means for every business owner.</description>
+    </item>
+  </channel>
+</rss>

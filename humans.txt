@@ -1,0 +1,8 @@
+/* TEAM */
+Founder & Chairman: Scott Tischler
+Site: https://scotttischler.com
+Contact: scott@airecommend.ai
+
+/* SITE */
+Standards: HTML5, Schema.org JSON-LD, llms.txt
+Components: Answer Engine Optimization by design

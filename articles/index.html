@@ -1,0 +1,764 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>The AEO Library — Insights by Scott Tischler</title>
+<meta name="description" content="Expert guides on Answer Engine Optimization, AI search, and entity authority by Scott Tischler, Founder & Chairman of AIrecommend.ai.">
+<link rel="canonical" href="https://scotttischler.com/articles/">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+<link rel="alternate" type="application/rss+xml" title="Scott Tischler — The AEO Library" href="https://scotttischler.com/feed.xml">
+<meta property="og:title" content="The AEO Library — Insights by Scott Tischler">
+<meta property="og:description" content="Expert articles on AI search and Answer Engine Optimization. Free to read and download as PDFs.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230a0b0e'/%3E%3Ctext x='32' y='44' font-family='Georgia,serif' font-size='38' fill='%234f8cff' text-anchor='middle'%3ES%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0a0b0e;--bg2:#0e1014;--panel:#14171e;--ink:#f3f5f9;--soft:#c4cad6;--mute:#838b9b;--line:rgba(190,205,230,.10);--line2:rgba(190,205,230,.16);--accent:#4f8cff;--accent2:#86b3ff;--sans:'Inter',system-ui,sans-serif;--serif:'Fraunces',Georgia,serif;}
+*{box-sizing:border-box;margin:0;padding:0}html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.6;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+.nav{position:sticky;top:0;z-index:50;background:rgba(10,11,14,.82);backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
+.nav .in{max-width:1180px;margin:0 auto;padding:0 26px;height:66px;display:flex;align-items:center;justify-content:space-between}
+.brand{font-family:var(--serif);font-size:20px}.brand span{color:var(--accent)}
+.nav a.back{font-size:13px;letter-spacing:.1em;text-transform:uppercase;color:var(--soft)}.nav a.back:hover{color:var(--accent2)}
+.wrap{max-width:1180px;margin:0 auto;padding:0 26px}
+.head{padding:78px 0 30px;text-align:center;position:relative;overflow:hidden}
+.head::before{content:'';position:absolute;inset:0;background:radial-gradient(700px 320px at 50% -10%,rgba(79,140,255,.18),transparent 60%);pointer-events:none}
+.eyebrow{font-size:12px;letter-spacing:.32em;text-transform:uppercase;color:var(--accent2);font-weight:600}
+.head h1{font-family:var(--serif);font-weight:400;font-size:clamp(34px,5vw,56px);line-height:1.05;margin:16px 0 16px;letter-spacing:-.015em}
+.head p{color:var(--soft);font-size:18px;max-width:40em;margin:0 auto}
+.chips{display:flex;gap:10px;flex-wrap:wrap;justify-content:center;margin:34px 0 44px}
+.chip{border:1px solid var(--line2);background:var(--panel);color:var(--soft);border-radius:999px;padding:9px 16px;font-size:13px;cursor:pointer;transition:.2s}
+.chip:hover{border-color:var(--accent);color:var(--accent2)}
+.chip.active{background:linear-gradient(135deg,var(--accent2),var(--accent));color:#08122a;border-color:transparent;font-weight:600}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;padding-bottom:80px}
+.card{display:flex;flex-direction:column;border:1px solid var(--line);border-radius:16px;background:var(--panel);padding:26px;transition:transform .3s,border-color .3s;min-height:240px}
+.card:hover{transform:translateY(-4px);border-color:rgba(79,140,255,.4)}
+.card .tag{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent2);font-weight:600}
+.card h2{font-family:var(--serif);font-weight:500;font-size:20px;line-height:1.22;margin:12px 0 10px}
+.card p{color:var(--soft);font-size:14px;flex:1}
+.card .meta{color:var(--mute);font-size:12.5px;margin-top:14px}
+.card .links{display:flex;justify-content:space-between;align-items:center;margin-top:16px;padding-top:14px;border-top:1px solid var(--line)}
+.card .read{color:var(--accent2);font-size:13px;font-weight:600;letter-spacing:.04em}
+.card .pdf{color:var(--soft);font-size:12.5px;border:1px solid var(--line2);border-radius:999px;padding:5px 12px;cursor:pointer;transition:.2s}
+.card .pdf:hover{border-color:var(--accent);color:var(--accent2)}
+.card.soon{opacity:.6}.card.soon:hover{transform:none;border-color:var(--line)}
+.card .cs{color:var(--mute);font-size:12.5px;letter-spacing:.08em;text-transform:uppercase}
+footer{border-top:1px solid var(--line);padding:34px 0;color:var(--mute);font-size:13px}
+footer .in{max-width:1180px;margin:0 auto;padding:0 26px;display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
+footer a{color:var(--soft)}
+@media(max-width:900px){.grid{grid-template-columns:1fr}}
+</style></head><body>
+<div class="nav"><div class="in"><a href="../index.html" class="brand">Scott <span>Tischler</span></a><a href="../index.html" class="back">← Back to site</a></div></div>
+<div class="head"><div class="wrap">
+<span class="eyebrow">The AEO Library</span>
+<h1>Insights on AI Search &amp; Answer Engine Optimization</h1>
+<p>Practitioner-grade guides on becoming the business AI recommends. Free to read, free to download, written to help you build real authority. New articles added regularly on the way to 200+.</p>
+</div></div>
+<div class="wrap">
+<div class="chips"><button class="chip active" data-f="all">All</button><button class="chip" data-f="AEO Fundamentals">AEO Fundamentals</button><button class="chip" data-f="AI &amp; Search">AI &amp; Search</button><button class="chip" data-f="Agencies">Agencies</button><button class="chip" data-f="Business">Business</button><button class="chip" data-f="Content">Content</button><button class="chip" data-f="Entity Authority">Entity Authority</button><button class="chip" data-f="Experience">Experience</button><button class="chip" data-f="Fitness">Fitness</button><button class="chip" data-f="Founders">Founders</button><button class="chip" data-f="Franchise">Franchise</button><button class="chip" data-f="How AI Works">How AI Works</button><button class="chip" data-f="Industry">Industry</button><button class="chip" data-f="Jewelry">Jewelry</button><button class="chip" data-f="Local">Local</button><button class="chip" data-f="Measurement">Measurement</button><button class="chip" data-f="Original Research">Original Research</button><button class="chip" data-f="Personal Brand">Personal Brand</button><button class="chip" data-f="Playbook">Playbook</button><button class="chip" data-f="Real Estate">Real Estate</button><button class="chip" data-f="Research">Research</button><button class="chip" data-f="Strategy">Strategy</button><button class="chip" data-f="Technical">Technical</button><button class="chip" data-f="Trends">Trends</button><button class="chip" data-f="Trust">Trust</button></div>
+<div class="grid" id="grid">
+<a class="card" data-cat="Measurement" href="share-of-model.html">
+      <span class="tag">Measurement</span>
+      <h2>Share of Model: The AI-Visibility Metric That Replaces Keyword Rankings</h2>
+      <p>Keyword rank tells you nothing about whether AI recommends you. Share of Model does — the percentage of AI answers that actually name your brand. How to define, measure, and move it.</p>
+      <div class="meta">August 27, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/share-of-model.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Strategy" href="prompt-market-fit.html">
+      <span class="tag">Strategy</span>
+      <h2>Prompt-Market Fit: How to Find the AI Questions Actually Worth Winning</h2>
+      <p>Not every AI question is worth winning. Prompt-market fit is the overlap of real buyer intent, commercial value, and a realistic chance of being named. The method for finding it.</p>
+      <div class="meta">August 27, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/prompt-market-fit.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Original Research" href="ai-recommendation-study-2026.html">
+      <span class="tag">Original Research</span>
+      <h2>The AI Recommendation Study: What AI Actually Recommends (2026 Pilot)</h2>
+      <p>We asked AI engines real &quot;recommend me a business&quot; questions and recorded exactly what they named — how many, who, and what decided it. Original 2026 pilot data.</p>
+      <div class="meta">July 30, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/ai-recommendation-study-2026.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="AEO Fundamentals" href="what-is-answer-engine-optimization.html">
+      <span class="tag">AEO Fundamentals</span>
+      <h2>What Is Answer Engine Optimization (AEO)? The Definitive 2026 Guide</h2>
+      <p>Search stopped being a list of links and became a set of answers. AEO is the discipline that decides whether the answer names your brand — or your competitor&#x27;s.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/what-is-answer-engine-optimization.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Strategy" href="aeo-vs-seo.html">
+      <span class="tag">Strategy</span>
+      <h2>AEO vs. SEO: Why Ranking #1 No Longer Wins</h2>
+      <p>The blue link is being replaced by the synthesized answer. Here&#x27;s what changes when the buyer never sees your ranking, and a 90-day plan to become the source the AI cites.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/aeo-vs-seo.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="How AI Works" href="how-ai-decides-which-businesses-to-recommend.html">
+      <span class="tag">How AI Works</span>
+      <h2>How AI Systems Actually Decide Which Businesses to Recommend</h2>
+      <p>When an AI assistant names one business and ignores its competitors, that choice isn&#x27;t random — it&#x27;s the output of a chain of mechanics you can influence. Here&#x27;s what actually drives it, and what&#x27;s still inference.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/how-ai-decides-which-businesses-to-recommend.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Entity Authority" href="entity-authority.html">
+      <span class="tag">Entity Authority</span>
+      <h2>Entity Authority: The New Currency of Online Trust</h2>
+      <p>Search stopped being about keywords and became about entities — the people, companies, and places AI systems recognize as real and trustworthy. Here is how to become one of them.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/entity-authority.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Strategy" href="zero-click-era.html">
+      <span class="tag">Strategy</span>
+      <h2>The Zero-Click Era: How to Win When Nobody Clicks Through</h2>
+      <p>The search box is being replaced by an answer, and that answer rarely sends anyone to your site. Here is how to win when the click is no longer the prize.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/zero-click-era.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Playbook" href="get-cited-by-chatgpt-claude-perplexity.html">
+      <span class="tag">Playbook</span>
+      <h2>How to Get Your Business Cited by ChatGPT, Claude, and Perplexity</h2>
+      <p>The buyers you want are asking AI, not Google — and the machine only names a handful of sources. Here is exactly how to become one of them.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/get-cited-by-chatgpt-claude-perplexity.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="AI &amp; Search" href="i-asked-chatgpt-to-recommend-a-business.html">
+      <span class="tag">AI &amp; Search</span>
+      <h2>I Asked ChatGPT to Recommend a Business in My Town — Here&#x27;s What Actually Decided the Winner</h2>
+      <p>I typed one honest question into ChatGPT — &quot;recommend a business near me&quot; — and watched an algorithm quietly crown a winner. Then I spent a week reverse-engineering exactly why.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/i-asked-chatgpt-to-recommend-a-business.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="AI &amp; Search" href="competitor-recommended-by-ai.html">
+      <span class="tag">AI &amp; Search</span>
+      <h2>Your Competitor Is Being Recommended by AI Right Now — and You Have No Idea</h2>
+      <p>Somewhere today, a buyer asked ChatGPT who they should hire. It named a company. It probably wasn&#x27;t yours — and you&#x27;ll never see the lead you lost.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/competitor-recommended-by-ai.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Business" href="businesses-ai-will-kill-first.html">
+      <span class="tag">Business</span>
+      <h2>The Businesses AI Will Quietly Kill First — and How to Survive the Shift</h2>
+      <p>The extinction won&#x27;t be loud. No headline says &quot;AI killed the reseller.&quot; Revenue just softens quarter after quarter until the business is no longer viable. Here&#x27;s who&#x27;s most exposed — and the moves that make you AI-resilient.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/businesses-ai-will-kill-first.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Business" href="category-creation.html">
+      <span class="tag">Business</span>
+      <h2>Category Creation: How to Build a Company Nobody Can Compete With</h2>
+      <p>The best founders I know never win the category. They rename the problem so completely that the old category stops making sense — and the market has no honest choice but to come to them.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/category-creation.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Franchise" href="franchising-misunderstood-wealth.html">
+      <span class="tag">Franchise</span>
+      <h2>Why Franchising Is the Most Misunderstood Path to Wealth in America</h2>
+      <p>Most people think franchising is either a scam or a slam dunk. Both are wrong. Here&#x27;s the honest math on America&#x27;s most misunderstood wealth-building path — including the parts that can lose you money.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/franchising-misunderstood-wealth.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Franchise" href="before-you-buy-a-franchise.html">
+      <span class="tag">Franchise</span>
+      <h2>Before You Buy a Franchise: 7 Questions That Separate Winners From Cautionary Tales</h2>
+      <p>Most people who buy a franchise fall in love with the brand and skip the boring math. The boring math is where the winners and the cautionary tales part ways. Here are the seven questions I&#x27;d insist on answering before wiring a dime.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/before-you-buy-a-franchise.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Jewelry" href="lab-grown-vs-natural-diamonds.html">
+      <span class="tag">Jewelry</span>
+      <h2>Lab-Grown vs. Natural Diamonds: What Most Jewelers Won&#x27;t Tell You</h2>
+      <p>I&#x27;ve spent years at the bench and at the buying table sourcing stones. Here&#x27;s the unvarnished truth about lab-grown and natural diamonds that the sales floor tends to leave out.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/lab-grown-vs-natural-diamonds.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Jewelry" href="custom-engagement-ring-cost.html">
+      <span class="tag">Jewelry</span>
+      <h2>The Real Cost of a Custom Engagement Ring — Broken Down by Someone Who Builds Them</h2>
+      <p>I&#x27;ve built hundreds of custom rings. Here&#x27;s exactly where every dollar goes — and the markups nobody at the counter wants to explain to you.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/custom-engagement-ring-cost.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Fitness" href="discipline-over-motivation-training-after-40.html">
+      <span class="tag">Fitness</span>
+      <h2>Discipline Over Motivation: An Operator&#x27;s Guide to Training After 40</h2>
+      <p>Motivation got me to two national championships. It has never once gotten me through a Tuesday. Here&#x27;s what actually keeps you strong after 40 — in the gym and in the business.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/discipline-over-motivation-training-after-40.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Fitness" href="vertical-leap-title-lessons.html">
+      <span class="tag">Fitness</span>
+      <h2>What Winning a National Vertical-Leap Title Taught Me About Everything Else</h2>
+      <p>I once out-jumped more than 250,000 people to win a national title. The jump was the easy part. What it taught me about building a life and a business is the part I still use every single day.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/vertical-leap-title-lessons.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="AI &amp; Search" href="reviews-not-getting-recommended-by-ai.html">
+      <span class="tag">AI &amp; Search</span>
+      <h2>Why Your 5-Star Reviews Aren&#x27;t Getting You Recommended by AI</h2>
+      <p>Your 4.9-star average is a vanity metric to a large language model. When someone asks ChatGPT for &quot;the best physical therapist near me for a torn rotator cuff,&quot; the AI isn&#x27;t counting stars. It&#x27;s reading the sentences. Here&#x27;s what it&#x27;s actually looking for.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/reviews-not-getting-recommended-by-ai.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="AI &amp; Search" href="ai-is-rewriting-your-brand.html">
+      <span class="tag">AI &amp; Search</span>
+      <h2>AI Is Rewriting Your Brand Right Now — Here&#x27;s How to Take Back Control</h2>
+      <p>Right now, an AI assistant is telling a prospective customer what your company does, whether it&#x27;s any good, and whether to buy — and most of the time you have no idea what it&#x27;s saying. Here&#x27;s how the machines build their picture of you, and how to take the pen back.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/ai-is-rewriting-your-brand.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Business" href="zero-dollar-marketing-channel-2027.html">
+      <span class="tag">Business</span>
+      <h2>The $0 Marketing Channel Everyone Will Be Fighting Over by 2027</h2>
+      <p>Every marketing channel has a moment before the money floods in — a window when the ground is unclaimed and the smart players walk in and take it. Being the business AI recommends is in that window right now. It will not stay there.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/zero-dollar-marketing-channel-2027.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Business" href="moats-in-the-age-of-ai.html">
+      <span class="tag">Business</span>
+      <h2>Moats in the Age of AI: What Actually Protects a Business Now</h2>
+      <p>Half the moats we were taught to build are turning into puddles. The other half are getting deeper. If you can&#x27;t tell which is which right now, you&#x27;re defending the wrong castle.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/moats-in-the-age-of-ai.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Franchise" href="single-vs-multi-unit-franchise-math.html">
+      <span class="tag">Franchise</span>
+      <h2>Single-Unit vs. Multi-Unit: The Franchise Math That Builds Real Wealth</h2>
+      <p>Most people buy a franchise expecting to build wealth and accidentally buy themselves a job instead. The difference isn&#x27;t luck or the brand — it&#x27;s the math you run before you sign, and the discipline you hold after.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/single-vs-multi-unit-franchise-math.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Franchise" href="semi-absentee-franchise-myth.html">
+      <span class="tag">Franchise</span>
+      <h2>The Semi-Absentee Franchise Myth — and How to Actually Get There</h2>
+      <p>Nobody hands you a business that runs without you. But you can build one that does. Here&#x27;s the unglamorous, honest path from owner-operator to genuinely stepping back — and how to spot the brands selling you a fantasy.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/semi-absentee-franchise-myth.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Jewelry" href="buy-engagement-ring-without-getting-played.html">
+      <span class="tag">Jewelry</span>
+      <h2>How to Buy an Engagement Ring Without Getting Played: A Jeweler&#x27;s Field Guide</h2>
+      <p>I&#x27;ve spent years at the bench and behind the counter. Here&#x27;s exactly how the diamond business separates you from your money — and how to walk in informed, spend less, and walk out with something extraordinary.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/buy-engagement-ring-without-getting-played.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Jewelry" href="lost-art-of-plique-a-jour.html">
+      <span class="tag">Jewelry</span>
+      <h2>The Lost Art of Plique-à-Jour — and Why Handmade Jewelry Still Wins</h2>
+      <p>Hold a plique-à-jour piece up to a window and it lights up like a cathedral. Here&#x27;s why almost no one still makes it by hand — and why that&#x27;s exactly what makes it worth owning.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/lost-art-of-plique-a-jour.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Fitness" href="minimum-effective-dose-busy-founders.html">
+      <span class="tag">Fitness</span>
+      <h2>The Minimum Effective Dose: How Busy Founders Actually Stay in Shape</h2>
+      <p>You don&#x27;t need two hours a day. You need the smallest dose you&#x27;ll actually repeat for the next decade. Here&#x27;s the operator&#x27;s guide to staying strong when you have no time.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/minimum-effective-dose-busy-founders.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Fitness" href="strength-longevity-investment.html">
+      <span class="tag">Fitness</span>
+      <h2>Strength Is Your Best Longevity Investment — The Training Case for Your Next 30 Years</h2>
+      <p>I&#x27;ve spent my life measuring what the body can do — from a national-champion vertical leap to a heavyweight karate title. Here&#x27;s the honest case that strength, built patiently, is the best long-term investment most people never make.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/strength-longevity-investment.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Technical" href="structured-data-knowledge-graphs.html">
+      <span class="tag">Technical</span>
+      <h2>Structured Data &amp; Knowledge Graphs: Making Your Business Machine-Readable</h2>
+      <p>AI answer engines can only recommend a business they can unambiguously identify. Structured data and a coherent entity across the web are how you make yourself machine-readable.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/structured-data-knowledge-graphs.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Local" href="local-business-aeo.html">
+      <span class="tag">Local</span>
+      <h2>Local Business AEO: Becoming the AI&#x27;s Neighborhood Recommendation</h2>
+      <p>When someone asks an AI assistant for the best plumber or dentist nearby, one business gets named. This is the playbook for making that business yours.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/local-business-aeo.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Measurement" href="measuring-ai-referred-traffic.html">
+      <span class="tag">Measurement</span>
+      <h2>Measuring AI-Referred Traffic and Leads</h2>
+      <p>A practical framework for measuring whether AI answer engines are actually sending you business — from referral traffic and citation tracking to attribution in a zero-click world.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/measuring-ai-referred-traffic.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Research" href="the-epistemic-shift.html">
+      <span class="tag">Research</span>
+      <h2>The Epistemic Shift: From Ten Blue Links to AI Recommendations</h2>
+      <p>The way people find and trust information is changing at its foundation — from browsing and choosing among links to receiving a single synthesized recommendation, and it rewires how businesses earn credibility.</p>
+      <div class="meta">June 15, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/the-epistemic-shift.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Industry" href="aeo-for-service-businesses.html">
+      <span class="tag">Industry</span>
+      <h2>Answer Engine Optimization for Service Businesses</h2>
+      <p>A step-by-step field guide to Answer Engine Optimization for service businesses, covering the signals AI weighs and how to become the provider AI recommends.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/aeo-for-service-businesses.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Playbook" href="google-ai-overviews-playbook.html">
+      <span class="tag">Playbook</span>
+      <h2>Google AI Overviews: A Practical Optimization Playbook</h2>
+      <p>A concrete optimization playbook for earning inclusion and citation in Google AI Overviews, covering how Overviews pull sources, passage-level relevance, and authority.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/google-ai-overviews-playbook.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Trust" href="reviews-reputation-ai-trust.html">
+      <span class="tag">Trust</span>
+      <h2>Reviews, Reputation, and How AI Weighs Trust</h2>
+      <p>AI answer engines don&#x27;t just count your stars. They read sentiment, recency, consistency across platforms, and unstructured mentions to decide whether you&#x27;re recommendable.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/reviews-reputation-ai-trust.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Content" href="content-architecture-answer-engines.html">
+      <span class="tag">Content</span>
+      <h2>Content Architecture for Answer Engines</h2>
+      <p>Getting cited by AI is an architecture problem, not a writing problem. Here is how to structure pages so answer engines can extract, trust, and quote you.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/content-architecture-answer-engines.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Personal Brand" href="personal-brand-ai-will-recommend.html">
+      <span class="tag">Personal Brand</span>
+      <h2>Building a Personal Brand AI Will Recommend</h2>
+      <p>AI systems recommend people they can recognize as consistent, verifiable entities. Here is how to build a personal brand that language models name, cite, and recommend.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/personal-brand-ai-will-recommend.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Agencies" href="seo-agency-to-aeo-practice.html">
+      <span class="tag">Agencies</span>
+      <h2>From SEO Agency to AEO Practice: Repositioning for the AI Era</h2>
+      <p>SEO agencies that survive the AI era will reposition around answer engines. Here is what to keep, what to add, and how to package and price an AEO practice.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/seo-agency-to-aeo-practice.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Franchise" href="franchising-category-defining-business.html">
+      <span class="tag">Franchise</span>
+      <h2>Franchising a Category-Defining Service Business</h2>
+      <p>Category-defining service concepts franchise better than &quot;me-too&quot; copies because they own the language, the demand, and the answer buyers are searching for. Here is how to build one and scale it.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/franchising-category-defining-business.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Founders" href="founders-guide-category-creation.html">
+      <span class="tag">Founders</span>
+      <h2>The Founder&#x27;s Guide to Category Creation</h2>
+      <p>The most valuable position in any market is not being the best option in a category — it is being the category. Here is how founders name a new problem, frame the alternative, and become the default answer for both buyers and AI.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/founders-guide-category-creation.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Trends" href="future-of-search-2026-2030.html">
+      <span class="tag">Trends</span>
+      <h2>The Future of Search, 2026–2030: Predictions for Business Owners</h2>
+      <p>Search is shifting from a page of blue links to an AI assistant that answers, decides, and acts on the customer&#x27;s behalf. Here is how that plays out through 2030 and what business owners should do about it now.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/future-of-search-2026-2030.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Experience" href="lessons-20-years-martech.html">
+      <span class="tag">Experience</span>
+      <h2>Lessons from 20 Years in MarTech: What Actually Builds Authority</h2>
+      <p>After 20-plus years across American Express, MetLife, UBS, and building AIrecommend.ai, here are the durable principles that build real authority through every platform shift - and what turns out to be noise.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/lessons-20-years-martech.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="AI &amp; Search" href="chatgpt-shopping-ai-product-recommendations.html">
+      <span class="tag">AI &amp; Search</span>
+      <h2>How to Get Your Products Recommended in ChatGPT Shopping and AI Assistants</h2>
+      <p>AI assistants are becoming the new storefront, and the brands they name are winning sales without a single ad click. Here is how products get recommended and the playbook to become the pick.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/chatgpt-shopping-ai-product-recommendations.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Business" href="death-of-the-homepage.html">
+      <span class="tag">Business</span>
+      <h2>The Death of the Homepage: Where Your Website Traffic Is Really Going</h2>
+      <p>As AI answers replace clicks, the homepage is no longer the front door to your business — the answer is. Here is where your traffic is really going and how to adapt before the shift finishes.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/death-of-the-homepage.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Franchise" href="recession-proof-franchises.html">
+      <span class="tag">Franchise</span>
+      <h2>Recession-Resistant Franchises: What the Data Actually Supports</h2>
+      <p>No franchise is recession-proof, but some categories hold up far better than others. Here is how to tell the difference and how to stress-test the numbers before you sign.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/recession-proof-franchises.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Jewelry" href="moissanite-vs-diamond.html">
+      <span class="tag">Jewelry</span>
+      <h2>Moissanite vs. Diamond: An Honest Breakdown from a Jeweler</h2>
+      <p>Moissanite, natural diamond, and lab-grown diamond are three different products, not three grades of the same thing. Here is the honest comparison I give clients before they spend a dollar.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/moissanite-vs-diamond.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Fitness" href="three-lifts-after-40.html">
+      <span class="tag">Fitness</span>
+      <h2>The Three Lifts That Matter Most After 40</h2>
+      <p>After 40, you don&#x27;t need more exercises — you need the right few, done well, for a long time. Here are the three lifts I&#x27;d keep if I could keep nothing else, and exactly how to run them.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/three-lifts-after-40.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Playbook" href="prompts-customers-type-about-your-industry.html">
+      <span class="tag">Playbook</span>
+      <h2>The Exact Prompts Your Customers Are Typing Into AI About Your Industry</h2>
+      <p>Your buyers have stopped typing keywords and started asking AI full questions. This playbook shows how to discover those prompts, map the prompt space, and engineer your way into the answer.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/prompts-customers-type-about-your-industry.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Real Estate" href="house-hacking-first-property.html">
+      <span class="tag">Real Estate</span>
+      <h2>House Hacking: How to Buy Your First Property and Let It Pay for Itself</h2>
+      <p>House hacking is buying a home you live in while tenants cover most or all of the mortgage. Here is how it works, the loans that make it possible, and how to run the numbers honestly.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/house-hacking-first-property.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Real Estate" href="creative-financing-explained.html">
+      <span class="tag">Real Estate</span>
+      <h2>Creative Financing Explained: Seller Financing, Subject-To, and Lease Options</h2>
+      <p>Creative financing means structuring a real estate deal without a conventional bank loan. Here is how seller financing, subject-to, lease options, and wraps work — and how to do them ethically.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/creative-financing-explained.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Real Estate" href="reading-a-market-top.html">
+      <span class="tag">Real Estate</span>
+      <h2>How to Read a Market Top: What Selling Before 2008 Taught Me</h2>
+      <p>I sold most of my real estate portfolio into strength before the 2008 crash. Here are the signals I watched, the discipline it took, and an honest accounting of what was skill and what was luck.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/reading-a-market-top.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Real Estate" href="rent-by-the-room-coliving.html">
+      <span class="tag">Real Estate</span>
+      <h2>The Rent-by-the-Room Playbook: Co-Living Before It Was a Trend</h2>
+      <p>Renting a house by the room can multiply cash flow versus a single lease. I ran this model years before it had a name — here is the economics, the operations, and an honest look at the work.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/rent-by-the-room-coliving.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Real Estate" href="buying-commercial-warehouse.html">
+      <span class="tag">Real Estate</span>
+      <h2>Buying Your First Commercial Property: Lessons From a 48,000 SqFt Warehouse</h2>
+      <p>What I learned buying a 48,000-square-foot warehouse, and why commercial is a different game than residential.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/buying-commercial-warehouse.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Real Estate" href="brrrr-method-honest.html">
+      <span class="tag">Real Estate</span>
+      <h2>The BRRRR Method, Honestly: Where It Works and Where People Get Hurt</h2>
+      <p>BRRRR can build a portfolio fast or wipe you out. Here&#x27;s the honest version, from someone who has lived through both cycles.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/brrrr-method-honest.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Real Estate" href="real-estate-in-age-of-ai.html">
+      <span class="tag">Real Estate</span>
+      <h2>Real Estate Investing in the Age of AI: How Deals, Agents, and Buyers Are Changing</h2>
+      <p>AI is rewriting how deals get found, priced, and closed — here&#x27;s what actually changes for investors and what still comes down to human judgment.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/real-estate-in-age-of-ai.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Franchise" href="franchise-financing-options.html">
+      <span class="tag">Franchise</span>
+      <h2>How to Finance a Franchise: SBA Loans, ROBS, and Creative Options</h2>
+      <p>The real menu of ways to fund a franchise — SBA, retirement rollovers, home equity, creative structures — and how to weigh the risk of each.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/franchise-financing-options.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="AI &amp; Search" href="ai-agents-book-and-buy.html">
+      <span class="tag">AI &amp; Search</span>
+      <h2>When AI Agents Start Booking and Buying: Preparing Your Business for Agentic Commerce</h2>
+      <p>AI agents are moving from recommending to transacting — booking, purchasing, and comparing on the buyer&#x27;s behalf. Here is what your business must do to be the option an agent actually selects.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/ai-agents-book-and-buy.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Entity Authority" href="wikipedia-wikidata-authority.html">
+      <span class="tag">Entity Authority</span>
+      <h2>Wikipedia, Wikidata, and Why They Decide What AI Believes About You</h2>
+      <p>Wikipedia and Wikidata quietly train what AI believes about you. Here is why they carry so much weight, how notability actually works, and the honest way to build entity authority.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/wikipedia-wikidata-authority.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Strategy" href="aeo-myths-costing-visibility.html">
+      <span class="tag">Strategy</span>
+      <h2>5 AEO Myths That Are Quietly Costing You AI Visibility</h2>
+      <p>The most expensive AEO mistakes aren&#x27;t tactical — they&#x27;re the beliefs that stop you from acting at all.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/aeo-myths-costing-visibility.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="AI &amp; Search" href="perplexity-vs-chatgpt-vs-google-ai.html">
+      <span class="tag">AI &amp; Search</span>
+      <h2>Perplexity vs. ChatGPT vs. Google AI: Where Your Customers Actually Ask</h2>
+      <p>The three big answer engines don&#x27;t work the same way — and optimizing for all of them identically wastes effort you can&#x27;t afford.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/perplexity-vs-chatgpt-vs-google-ai.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Business" href="pricing-power-ai-era.html">
+      <span class="tag">Business</span>
+      <h2>Pricing Power in the AI Era: Why Being the Recommendation Lets You Charge More</h2>
+      <p>When an AI assistant names you as the answer, the buyer stops comparison shopping — and that shift, not a feature list, is what lets you charge more. Here is how being the recommendation becomes pricing power.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/pricing-power-ai-era.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Business" href="reputation-compounding-ai-era.html">
+      <span class="tag">Business</span>
+      <h2>Why Reputation Is the Only Asset That Compounds in the AI Era</h2>
+      <p>Tactics decay, algorithms change, and channels disappear — but reputation compounds, resists copying, and is exactly what AI reaches for when it decides who to recommend. Here is how to build it on purpose.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/reputation-compounding-ai-era.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Business" href="small-business-ai-playbook-2026.html">
+      <span class="tag">Business</span>
+      <h2>The Small Business AI Playbook for 2026</h2>
+      <p>The practical, ROI-ranked moves that let a small business use AI to cut work and get recommended by AI in 2026.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/small-business-ai-playbook-2026.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Franchise" href="first-90-days-franchise-owner.html">
+      <span class="tag">Franchise</span>
+      <h2>The First 90 Days as a Franchise Owner: A Survival Guide</h2>
+      <p>What actually matters in your first 90 days as a franchise owner — the moves that protect cash, build a team, and get you found.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/first-90-days-franchise-owner.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Jewelry" href="diamond-4cs-decoded.html">
+      <span class="tag">Jewelry</span>
+      <h2>The 4Cs Decoded: Which Actually Matter Most When You Buy a Diamond</h2>
+      <p>The 4Cs aren&#x27;t equal — here&#x27;s where your money actually buys beauty, and where the industry gets you to overpay.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/diamond-4cs-decoded.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Jewelry" href="does-fine-jewelry-hold-value.html">
+      <span class="tag">Jewelry</span>
+      <h2>Does Fine Jewelry Hold Value? An Honest Look at Jewelry as an Asset</h2>
+      <p>Most jewelry loses most of its value the moment you leave the store — but some pieces hold up surprisingly well. Here&#x27;s the honest breakdown.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/does-fine-jewelry-hold-value.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Fitness" href="training-around-injuries-after-40.html">
+      <span class="tag">Fitness</span>
+      <h2>Training Around Injuries After 40: How to Keep Progressing Without Breaking Down</h2>
+      <p>You can keep building strength and muscle past 40 while managing nagging injuries. Here is how I do it — substitutions, warm-ups, load management, tempo, and knowing when to push.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/training-around-injuries-after-40.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Fitness" href="nutrition-for-busy-professionals.html">
+      <span class="tag">Fitness</span>
+      <h2>The No-Nonsense Nutrition Guide for Busy Professionals</h2>
+      <p>A simple, sustainable way to eat well when your calendar is full — built on protein, a few defaults, and habits that survive travel and long days, not another restrictive diet.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/nutrition-for-busy-professionals.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Real Estate" href="first-rental-property-analysis.html">
+      <span class="tag">Real Estate</span>
+      <h2>How to Analyze Your First Rental Property in 15 Minutes</h2>
+      <p>A fast, honest framework for screening your first rental deal without fooling yourself on the numbers.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/first-rental-property-analysis.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Real Estate" href="subject-to-deals-explained.html">
+      <span class="tag">Real Estate</span>
+      <h2>Subject-To Deals Explained: The Creative Finance Strategy Most Investors Fear</h2>
+      <p>What subject-to really is, when it works, the risks that scare people off, and how careful practitioners handle them.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/subject-to-deals-explained.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Real Estate" href="self-storage-investing.html">
+      <span class="tag">Real Estate</span>
+      <h2>Self-Storage Investing: The Boring Asset That Quietly Builds Wealth</h2>
+      <p>Self-storage is the unglamorous asset that keeps cash flowing when flashier property types stall — here&#x27;s how the economics really work, how to get in, and how to evaluate a facility.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/self-storage-investing.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Real Estate" href="raising-private-money.html">
+      <span class="tag">Real Estate</span>
+      <h2>Raising Private Money: How to Fund Real Estate Deals Without a Bank</h2>
+      <p>Private money lets you fund deals a bank won&#x27;t touch — but only if you present them right, structure them fairly, and stay on the correct side of securities law. Here&#x27;s how it actually works.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/raising-private-money.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Real Estate" href="tax-strategies-real-estate-investors.html">
+      <span class="tag">Real Estate</span>
+      <h2>The Tax Advantages That Make Real Estate Different From Every Other Investment</h2>
+      <p>Depreciation, cost segregation, 1031 exchanges, and real estate professional status can turn a good deal into a great one — here&#x27;s how they actually work.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/tax-strategies-real-estate-investors.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Playbook" href="answer-engine-audit-diy.html">
+      <span class="tag">Playbook</span>
+      <h2>How to Audit Your Business&#x27;s AI Visibility in One Afternoon</h2>
+      <p>A practical, do-it-yourself audit you can run this afternoon to find out whether AI assistants recommend your business — and how to close the gaps.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/answer-engine-audit-diy.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Technical" href="schema-markup-that-matters.html">
+      <span class="tag">Technical</span>
+      <h2>The Schema Markup That Actually Moves AI Visibility</h2>
+      <p>Not all structured data is worth your time. Here are the schema.org types that actually help language models understand who you are, what you sell, and why they should name you.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/schema-markup-that-matters.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="AI &amp; Search" href="ai-recommendation-b2b.html">
+      <span class="tag">AI &amp; Search</span>
+      <h2>How B2B Buyers Now Use AI to Build Their Shortlist</h2>
+      <p>The vendor shortlist is now being built by an AI before a buyer ever fills out your form. Here&#x27;s how that shortlist gets assembled — and how to make sure your name is on it.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/ai-recommendation-b2b.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Strategy" href="first-mover-advantage-aeo.html">
+      <span class="tag">Strategy</span>
+      <h2>The AEO First-Mover Advantage Won&#x27;t Last — Here&#x27;s the Window</h2>
+      <p>Being early to AEO isn&#x27;t a vanity metric — it compounds, because AI systems anchor on the entities and sources they already trust. Here&#x27;s why the window is real, and how long it stays open.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/first-mover-advantage-aeo.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Technical" href="llms-txt-explained.html">
+      <span class="tag">Technical</span>
+      <h2>What Is llms.txt? The New Standard for Talking to AI Crawlers</h2>
+      <p>llms.txt is a proposed standard for giving AI systems a clean, curated map of your site&#x27;s most important content. Here&#x27;s what it is, what it isn&#x27;t, and how to write one.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/llms-txt-explained.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Business" href="personal-brand-founder-moat.html">
+      <span class="tag">Business</span>
+      <h2>Your Personal Brand Is the Founder Moat AI Can&#x27;t Copy</h2>
+      <p>AI can generate infinite content, but it can&#x27;t manufacture a real person with a track record. A credible founder brand is the one advantage that gets more valuable as everything else gets automated.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/personal-brand-founder-moat.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Business" href="referrals-in-the-ai-era.html">
+      <span class="tag">Business</span>
+      <h2>Word of Mouth at Machine Scale: Referrals in the AI Era</h2>
+      <p>The referral never went away — it got automated. AI answer engines are now the friend everyone asks for a recommendation, and they build their answers from the mentions, reviews, and citations you earn.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/referrals-in-the-ai-era.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Business" href="build-authority-from-zero.html">
+      <span class="tag">Business</span>
+      <h2>How to Build Authority From Zero in a Crowded Market</h2>
+      <p>The honest, operator&#x27;s playbook for earning real authority when nobody knows your name yet — narrow your lane, publish genuine expertise, earn third-party citations, and compound over years, not weeks.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/build-authority-from-zero.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Franchise" href="franchise-vs-startup.html">
+      <span class="tag">Franchise</span>
+      <h2>Franchise vs. Startup: The Honest Trade-offs Nobody Explains</h2>
+      <p>A balanced, no-hype breakdown of franchise versus startup — the real trade-offs in control, risk, cost, speed, and upside — so you can decide which path actually fits you. Both can fail; the goal is choosing the right one for you.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/franchise-vs-startup.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Franchise" href="reading-franchise-disclosure-document.html">
+      <span class="tag">Franchise</span>
+      <h2>How to Read a Franchise Disclosure Document Like a Pro</h2>
+      <p>The FDD is the single most important document in any franchise deal. Here&#x27;s how to read it the way experienced buyers and their advisors actually do — and what separates a real opportunity from a well-packaged trap.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/reading-franchise-disclosure-document.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Jewelry" href="custom-jewelry-process.html">
+      <span class="tag">Jewelry</span>
+      <h2>From Idea to Heirloom: How a Custom Jewelry Piece Is Actually Made</h2>
+      <p>What actually happens between an idea in your head and a finished piece on your hand. A maker walks through the real custom jewelry process — the design, the stones, the bench work, and what makes a piece heirloom-quality.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/custom-jewelry-process.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Jewelry" href="caring-for-fine-jewelry.html">
+      <span class="tag">Jewelry</span>
+      <h2>How to Care for Fine Jewelry So It Lasts Generations</h2>
+      <p>Practical, jeweler-tested habits that keep rings, chains, and heirloom stones bright and secure for decades.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/caring-for-fine-jewelry.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Fitness" href="building-muscle-after-40-science.html">
+      <span class="tag">Fitness</span>
+      <h2>Building Muscle After 40: What the Science Actually Says</h2>
+      <p>An honest, hype-free look at how muscle actually gets built after 40, and what changes versus what does not.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/building-muscle-after-40-science.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Fitness" href="recovery-is-the-real-performance-enhancer.html">
+      <span class="tag">Fitness</span>
+      <h2>Recovery Is the Real Performance Enhancer: Sleep, Stress, and Training</h2>
+      <p>Training breaks you down; recovery is where you actually build. Here&#x27;s how sleep, stress, nutrition, and deloads turn work into results — especially after 40.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/recovery-is-the-real-performance-enhancer.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Fitness" href="staying-consistent-for-decades.html">
+      <span class="tag">Fitness</span>
+      <h2>How to Stay Consistent for Decades, Not Weeks</h2>
+      <p>Motivation fades in weeks. Systems and identity last decades. Here&#x27;s how I&#x27;ve stayed consistent through titles, injuries, busy seasons, and life past 40.</p>
+      <div class="meta">July 28, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/staying-consistent-for-decades.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="AI &amp; Search" href="agentic-commerce-guide.html">
+      <span class="tag">AI &amp; Search</span>
+      <h2>Agentic Commerce Is Here: How to Get Your Business Bought by AI Agents</h2>
+      <p>AI agents are starting to browse, compare, and buy on people&#x27;s behalf. Here&#x27;s how to make sure your business is the one they choose.</p>
+      <div class="meta">July 30, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/agentic-commerce-guide.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="AI &amp; Search" href="mcp-explained-for-business.html">
+      <span class="tag">AI &amp; Search</span>
+      <h2>What Is MCP (Model Context Protocol)? AI Agents&#x27; Plumbing, Explained for Business Owners</h2>
+      <p>MCP is the quiet standard letting AI agents plug into real tools and live data. Here&#x27;s what it means for how your business shows up to AI.</p>
+      <div class="meta">July 30, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/mcp-explained-for-business.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="AI &amp; Search" href="ai-agents-changing-buying.html">
+      <span class="tag">AI &amp; Search</span>
+      <h2>How AI Agents Are Quietly Taking Over the Buying Decision</h2>
+      <p>Your next customer may never see your website. It will be an AI agent acting on their behalf, and it decides differently than a human does.</p>
+      <div class="meta">July 30, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/ai-agents-changing-buying.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Strategy" href="geo-vs-aeo-vs-seo-2026.html">
+      <span class="tag">Strategy</span>
+      <h2>GEO vs. AEO vs. SEO in 2026: The Only Framework You Need</h2>
+      <p>Three acronyms, endless confusion. Here is the definitive framework for how GEO, AEO, and SEO actually differ and how to prioritize them in 2026.</p>
+      <div class="meta">July 30, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/geo-vs-aeo-vs-seo-2026.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Strategy" href="two-channel-search-google-and-ai.html">
+      <span class="tag">Strategy</span>
+      <h2>The Two-Channel Reality: Winning Google and AI Search at the Same Time</h2>
+      <p>You no longer get to choose between Google and AI search. You have to win both at the same time, and they reward different things.</p>
+      <div class="meta">July 30, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/two-channel-search-google-and-ai.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Business" href="vertical-ai-agents-industry.html">
+      <span class="tag">Business</span>
+      <h2>Why Vertical AI Agents Will Beat General AI in Your Industry</h2>
+      <p>A general model knows a little about everything. A vertical agent knows your industry cold — and for real business work, that difference is decisive.</p>
+      <div class="meta">July 30, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/vertical-ai-agents-industry.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Business" href="small-language-models-advantage.html">
+      <span class="tag">Business</span>
+      <h2>Small Language Models: The Cheaper AI Advantage Most Businesses Are Missing</h2>
+      <p>Why small language models often beat giant ones for specific business tasks — and how a normal company should decide when to use them.</p>
+      <div class="meta">July 30, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/small-language-models-advantage.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Business" href="ai-governance-for-businesses.html">
+      <span class="tag">Business</span>
+      <h2>AI Governance for Normal Businesses: What the EU AI Act and Agent Risks Actually Mean for You</h2>
+      <p>A plain-English guide to AI governance for small and mid-sized businesses — what new rules and agent risks mean, and how to adopt AI responsibly without a legal team.</p>
+      <div class="meta">July 30, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/ai-governance-for-businesses.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Playbook" href="get-recommended-by-ai-agents.html">
+      <span class="tag">Playbook</span>
+      <h2>How to Make Sure AI Agents Recommend and Choose Your Business</h2>
+      <p>A practical playbook for making your business the one AI agents recommend, shortlist, and buy from — before your competitors get there first.</p>
+      <div class="meta">July 30, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/get-recommended-by-ai-agents.pdf'">⤓ PDF</span></div>
+    </a>
+<a class="card" data-cat="Research" href="state-of-ai-search-2026.html">
+      <span class="tag">Research</span>
+      <h2>The State of AI Search in 2026: The Numbers Every Business Owner Should Know</h2>
+      <p>The numbers behind AI search in 2026 — who&#x27;s using it, who commands the traffic, and what the shift to answer engines means for every business owner.</p>
+      <div class="meta">July 30, 2026</div>
+      <div class="links"><span class="read">Read article →</span><span class="pdf" onclick="event.preventDefault();event.stopPropagation();window.location.href='pdf/state-of-ai-search-2026.pdf'">⤓ PDF</span></div>
+    </a>
+</div>
+</div>
+<footer><div class="in"><div>© 2026 Scott Tischler. All rights reserved.</div><div><a href="../index.html">Home</a> · <a href="/privacy.html">Privacy</a> · <a href="https://airecommend.ai" target="_blank" rel="noopener">AIrecommend.ai</a> · <a href="mailto:scott@airecommend.ai">Contact</a></div></div></footer>
+<script defer src="/track.js"></script>
+<script>
+const chips=document.querySelectorAll('.chip'),cards=document.querySelectorAll('.card');
+chips.forEach(c=>c.addEventListener('click',()=>{
+  chips.forEach(x=>x.classList.remove('active'));c.classList.add('active');
+  const f=c.dataset.f;
+  cards.forEach(card=>{card.style.display=(f==='all'||card.dataset.cat===f)?'':'none';});
+}));
+</script>
+</body></html>
