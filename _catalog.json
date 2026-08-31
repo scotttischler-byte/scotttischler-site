@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"aeo-for-ecommerce",
+"AEO for E-Commerce: How to Be the Product AI Recommends",
+"Playbook",
+"2026-08-31"
+],
+[
+"why-forums-win-ai-citations",
+"Why Forums and Communities Win AI Citations \u2014 and How to Show Up Right",
+"AI & Search",
+"2026-08-31"
+],
+[
 "schema-markup-ai-engines",
 "The Schema Markup AI Engines Actually Use (and the Kind They Ignore)",
 "Technical",
@@ -620,6 +632,8 @@
 ]
 ],
 "live": [
+"aeo-for-ecommerce",
+"why-forums-win-ai-citations",
 "schema-markup-ai-engines",
 "the-brand-consistency-audit",
 "the-corroboration-effect",
