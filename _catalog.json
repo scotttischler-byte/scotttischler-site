@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"schema-markup-ai-engines",
+"The Schema Markup AI Engines Actually Use (and the Kind They Ignore)",
+"Technical",
+"2026-08-31"
+],
+[
+"the-brand-consistency-audit",
+"The Brand Consistency Audit: Find Every Place the Web Contradicts You",
+"Entity Authority",
+"2026-08-31"
+],
+[
 "the-corroboration-effect",
 "The Corroboration Effect: Why AI Trusts What the Whole Web Says About You",
 "How AI Works",
@@ -608,6 +620,8 @@
 ]
 ],
 "live": [
+"schema-markup-ai-engines",
+"the-brand-consistency-audit",
 "the-corroboration-effect",
 "why-ai-skips-your-best-page",
 "share-of-model",

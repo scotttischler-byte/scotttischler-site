@@ -8,6 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Jul 2026 09:00:00 +0000</lastBuildDate>
     <item>
+      <title>The Schema Markup AI Engines Actually Use (and the Kind They Ignore)</title>
+      <link>https://scotttischler.com/articles/schema-markup-ai-engines.html</link>
+      <guid>https://scotttischler.com/articles/schema-markup-ai-engines.html</guid>
+      <category>Technical</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
+      <description>Structured data isn&#x27;t a ranking trick anymore — it&#x27;s how you hand AI a clean, machine-readable version of your facts. Here&#x27;s the schema that matters for AEO.</description>
+    </item>
+    <item>
+      <title>The Brand Consistency Audit: Find Every Place the Web Contradicts You</title>
+      <link>https://scotttischler.com/articles/the-brand-consistency-audit.html</link>
+      <guid>https://scotttischler.com/articles/the-brand-consistency-audit.html</guid>
+      <category>Entity Authority</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
+      <description>AI engines hedge when your story is fragmented across the web. This audit finds every inconsistent description, name, and fact — so the model tells one clean story.</description>
+    </item>
+    <item>
       <title>The Corroboration Effect: Why AI Trusts What the Whole Web Says About You</title>
       <link>https://scotttischler.com/articles/the-corroboration-effect.html</link>
       <guid>https://scotttischler.com/articles/the-corroboration-effect.html</guid>
