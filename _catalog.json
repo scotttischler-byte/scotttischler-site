@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"the-corroboration-effect",
+"The Corroboration Effect: Why AI Trusts What the Whole Web Says About You",
+"How AI Works",
+"2026-08-31"
+],
+[
+"why-ai-skips-your-best-page",
+"Why AI Skips Your Best Page (and How to Fix It in an Afternoon)",
+"Playbook",
+"2026-08-31"
+],
+[
 "share-of-model",
 "Share of Model: The AI-Visibility Metric That Replaces Keyword Rankings",
 "Measurement",
@@ -596,6 +608,8 @@
 ]
 ],
 "live": [
+"the-corroboration-effect",
+"why-ai-skips-your-best-page",
 "share-of-model",
 "prompt-market-fit",
 "founders-guide-category-creation",

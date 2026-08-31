@@ -1,0 +1,30 @@
+{
+ "slug": "the-brand-consistency-audit",
+ "cat": "Entity Authority",
+ "title": "The Brand Consistency Audit: Find Every Place the Web Contradicts You",
+ "desc": "AI engines hedge when your story is fragmented across the web. This audit finds every inconsistent description, name, and fact — so the model tells one clean story.",
+ "read": "7 min read",
+ "takeaways": [
+  "Answer engines build a picture of you from every source that mentions you; contradictions between those sources make the model hedge or omit you.",
+  "The most common entity problems are boringly fixable: name variations, outdated descriptions, inconsistent categories, and stale bios.",
+  "Run the audit like you'd audit a competitor — search yourself across engines and read what actually comes back, not what you wish it said.",
+  "Every contradiction you resolve removes a reason for the model to be uncertain about you, which is often faster than creating new content.",
+  "Standardize one canonical description and propagate it everywhere you appear — profiles, directories, bios, press.",
+  "This is EEAT and AEO hygiene at once: a consistent, verifiable identity is what both search and answer engines reward."
+ ],
+ "faq": [
+  [
+   "Why does brand inconsistency hurt AI visibility?",
+   "Answer engines assemble what they know about you from many sources. When those sources disagree — different descriptions, an old name, conflicting facts — the model can't form a confident picture, so it hedges or leaves you out in favor of an entity with a cleaner, more consistent story. Consistency is how a machine approximates trust."
+  ],
+  [
+   "How do I actually run a brand consistency audit?",
+   "Search your name and brand across ChatGPT, Gemini, Perplexity and Google, plus your key profiles and directory listings, and record how you're described in each. Look for name variations, outdated taglines, wrong categories, conflicting bios and stale facts. The list of mismatches is your fix list."
+  ],
+  [
+   "What do I fix first?",
+   "Start with identity basics that appear everywhere: your name spelled and formatted one way, one canonical description, the correct category, and current bios. These propagate the widest and remove the most ambiguity for the least effort."
+  ]
+ ],
+ "body": "<h2>The web is telling several versions of your story</h2>\n<p>Here's a quiet problem almost every business has and almost none audits for: the web is describing you in several slightly different ways at once, and the AI engines notice. Your homepage says one thing, an old directory listing says another, a profile from three years ago uses a tagline you retired, your name appears with and without a middle initial, your category is described three different ways across five sites. To you these are trivia. To a model trying to form a confident picture of who you are, they're contradictions — and contradictions make it hedge.</p>\n<p>Answer engines assemble their understanding of you from every source that mentions you. When those sources agree, the model treats your story as settled fact and states it plainly. When they disagree, it does what it's trained to do with uncertainty: it softens, qualifies, or picks a competitor whose story is cleaner. You can lose the answer not because you're worse, but because you're <em>ambiguous</em> — and ambiguity is entirely fixable.</p>\n<h2>What to look for</h2>\n<p>The contradictions that matter are unglamorous and specific.</p>\n<ul>\n<li><strong>Name variations.</strong> Every version of your name and brand should be one canonical form. Middle initials, abbreviations, \"LLC\" or not, alternate spellings — pick one and standardize.</li>\n<li><strong>Description drift.</strong> How you describe what you do should be one clear sentence, repeated. Count how many different one-liners the web currently uses for you; the number is usually higher than you'd guess.</li>\n<li><strong>Category confusion.</strong> If different sources file you under different categories, the model can't decide what kind of business you are — which \"best X\" questions you belong in.</li>\n<li><strong>Stale facts and bios.</strong> Old titles, former locations, retired products, outdated credentials. Each is a small landmine that contradicts your current truth.</li>\n</ul>\n<h2>Run it like a competitor audit</h2>\n<p>The trick is to look at yourself coldly, the way you'd size up a rival. Search your name and brand across the major engines and read what actually comes back — the descriptions, the facts, the framing — not what you intend to be true. Pull up your key profiles and directory listings and compare them side by side. Write down every mismatch. That list of contradictions is your roadmap, and it's usually shorter and more fixable than people fear.</p>\n<h2>Fix, then propagate</h2>\n<p>Once you have the list, the work is consolidation. Write one canonical description of who you are and what you do — the version you'd want an AI to repeat verbatim — and then push that exact framing everywhere you have a presence. Correct the name variations. Update the stale bios. Retire the old taglines. You're not creating anything new; you're making the whole web tell one story instead of five.</p>\n<p>This is where AEO and EEAT converge. A consistent, verifiable, current identity is exactly what search engines mean by trustworthiness and what answer engines need to cite you confidently. The same audit serves both. My honest experience: for a lot of businesses, this cleanup moves the needle faster than any amount of new content, because the expertise was never the problem — the fragmentation was. Tell one story, everywhere, and give the machines something they can repeat without flinching.</p>"
+}
