@@ -4,3 +4,4 @@ __pycache__/
 .indexnow-key
 articles_today.py
 gen_pdfs_new.py
+articles/__wtest.tmp

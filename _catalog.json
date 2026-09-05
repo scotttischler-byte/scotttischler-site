@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"ai-recommends-people-not-brands",
+"AI Recommends People, Not Just Brands",
+"Entity Authority",
+"2026-09-05"
+],
+[
+"ai-visibility-stack-2026",
+"The AI Visibility Stack: What Actually Moves the Needle in 2026",
+"Strategy",
+"2026-09-05"
+],
+[
 "aeo-for-ecommerce",
 "AEO for E-Commerce: How to Be the Product AI Recommends",
 "Playbook",
@@ -632,6 +644,8 @@
 ]
 ],
 "live": [
+"ai-recommends-people-not-brands",
+"ai-visibility-stack-2026",
 "aeo-for-ecommerce",
 "why-forums-win-ai-citations",
 "schema-markup-ai-engines",
