@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"robots-txt-mistakes-ai-crawlers",
+"The robots.txt Mistakes That Make AI Skip You Entirely",
+"Technical",
+"2026-09-08"
+],
+[
+"the-prompt-set-new-keyword-research",
+"The Prompt Set: Your New Keyword Research",
+"Measurement",
+"2026-09-08"
+],
+[
 "the-one-surface-ai-convergence",
 "The One Surface: Search, Chat, Shopping and Local Are Merging",
 "AI & Search",
@@ -656,6 +668,8 @@
 ]
 ],
 "live": [
+"robots-txt-mistakes-ai-crawlers",
+"the-prompt-set-new-keyword-research",
 "the-one-surface-ai-convergence",
 "freshness-signals-ai-visibility",
 "ai-recommends-people-not-brands",
