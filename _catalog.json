@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"the-seven-citation-slots",
+"Citation Scarcity: Winning When AI Only Names a Handful of Sources",
+"Strategy",
+"2026-09-08"
+],
+[
+"search-is-shrinking-what-it-means",
+"Traditional Search Is Shrinking \u2014 What the Shift Actually Means for You",
+"AI & Search",
+"2026-09-08"
+],
+[
 "earned-media-beats-your-website",
 "Earned Media Now Beats Your Website for AI Visibility",
 "Strategy",
@@ -680,6 +692,8 @@
 ]
 ],
 "live": [
+"the-seven-citation-slots",
+"search-is-shrinking-what-it-means",
 "earned-media-beats-your-website",
 "ai-visibility-measurement-gap",
 "robots-txt-mistakes-ai-crawlers",
