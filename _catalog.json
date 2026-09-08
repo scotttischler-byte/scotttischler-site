@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"earned-media-beats-your-website",
+"Earned Media Now Beats Your Website for AI Visibility",
+"Strategy",
+"2026-09-08"
+],
+[
+"ai-visibility-measurement-gap",
+"You Can't See Whether AI Recommends You \u2014 And That's the Real Problem",
+"Measurement",
+"2026-09-08"
+],
+[
 "robots-txt-mistakes-ai-crawlers",
 "The robots.txt Mistakes That Make AI Skip You Entirely",
 "Technical",
@@ -668,6 +680,8 @@
 ]
 ],
 "live": [
+"earned-media-beats-your-website",
+"ai-visibility-measurement-gap",
 "robots-txt-mistakes-ai-crawlers",
 "the-prompt-set-new-keyword-research",
 "the-one-surface-ai-convergence",
