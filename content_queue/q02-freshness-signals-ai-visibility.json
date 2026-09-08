@@ -1,0 +1,31 @@
+{
+ "slug": "freshness-signals-ai-visibility",
+ "cat": "Technical",
+ "title": "Freshness Signals: Why 'Last Updated' Now Pulls Weight in AI Answers",
+ "desc": "AI engines favor current sources. How freshness and maintenance signals affect whether you get cited — and how to use them honestly.",
+ "read": "7 min read",
+ "card": "AI answers lean toward recent, actively maintained sources. Freshness is a real signal now — but faking it backfires.",
+ "body": "<p><strong>When an AI engine chooses among sources, recency breaks ties. A current, actively maintained page signals a live authority; a stale one signals a source that may no longer be reliable.</strong> Freshness has quietly become a real factor in whether you get cited — and like most real signals, it rewards honest maintenance and punishes gaming.</p>\n\n<p>The logic is intuitive once you put yourself in the model's position. It's trying to give a correct, current answer. Given two comparable sources, one updated recently and one untouched for years, the recent one is the safer bet — the world changes, and a maintained source is more likely to reflect the change. That's not a quirk; it's sound reasoning, which is exactly why it's durable and worth building around.</p>\n\n<h2>What freshness actually signals</h2>\n\n<p>It's worth being precise, because \"freshness\" gets misunderstood as \"publish constantly.\" What the signal really captures is whether a source is <em>alive</em> — actively maintained, kept accurate, and still engaged with its subject. A definitive piece from a while ago can still get cited if it's clearly still correct and maintained. A flood of shallow new posts doesn't help if none of them is worth citing. Freshness is about ongoing reliability, not raw output.</p>\n\n<p>That distinction matters because it tells you where to spend. The highest-value freshness work is usually keeping your best, most-cited pages current — the cornerstone content that already earns attention — rather than chasing a publishing treadmill of thin new pieces that dilute more than they add.</p>\n\n<h2>How to use freshness honestly</h2>\n\n<ul>\n<li><strong>Maintain your cornerstone content.</strong> Revisit your most important pages on a real schedule, update what's changed, and let the \"last updated\" reflect genuine revision.</li>\n<li><strong>Publish with real cadence.</strong> A steady rhythm of substantive new work signals a live authority — but only if each piece is worth citing.</li>\n<li><strong>Update accurately, not cosmetically.</strong> Changing a date without changing the content is the kind of gaming engines increasingly discount, and it erodes the trust you're trying to build.</li>\n<li><strong>Retire or fix what's wrong.</strong> Stale, inaccurate pages don't just fail to help — they can actively undermine how a model reads your reliability.</li>\n</ul>\n\n<h2>The honest line</h2>\n\n<p>The temptation with any ranking signal is to fake it — here, to stamp fresh dates on unchanged content or churn out filler to look active. Resist it. Cosmetic freshness is detectable, discounted, and corrosive to the credibility that actually earns citations. Real freshness — genuine maintenance and a real publishing rhythm of work worth reading — is one of the more achievable advantages available, precisely because so many sources let their best content go stale. Keep your best pages alive and show up consistently, and you'll clear a bar a surprising number of competitors quietly fail.</p>",
+ "takeaways": [
+  "AI engines favor current, actively maintained sources — recency breaks ties when choosing among comparable sources.",
+  "Freshness signals whether a source is alive and reliable, not whether it publishes constantly; a maintained older piece can still get cited.",
+  "The highest-value work is keeping your best, most-cited cornerstone pages accurate and current, not chasing a thin-content treadmill.",
+  "Update accurately, not cosmetically — stamping fresh dates on unchanged content is detectable and discounted.",
+  "Stale, inaccurate pages can actively undermine how a model reads your reliability, so fix or retire them.",
+  "Real freshness is an achievable edge because so many competitors let their best content go stale."
+ ],
+ "faq": [
+  [
+   "Does publishing more often improve AI visibility?",
+   "Only if each piece is genuinely worth citing. Freshness signals whether a source is alive and reliable, not raw volume. A steady cadence of substantive work helps, but a flood of thin posts doesn't — and can dilute your authority. Keeping your best existing pages accurate and current is usually higher-leverage than chasing output."
+  ],
+  [
+   "Can I just update the date on my pages to look fresh?",
+   "No. Changing a 'last updated' date without genuinely revising the content is cosmetic freshness, which engines increasingly detect and discount, and it erodes the credibility that earns citations. Freshness only helps when it reflects real maintenance — accurate updates to content that actually changed."
+  ],
+  [
+   "What's the highest-value freshness work?",
+   "Maintaining your cornerstone content: revisit your most important, most-cited pages on a real schedule, update what's genuinely changed, and fix or retire anything stale or inaccurate. Because so many sources let their best content go stale, honest maintenance clears a bar many competitors quietly fail."
+  ]
+ ]
+}

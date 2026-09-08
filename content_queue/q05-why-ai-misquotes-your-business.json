@@ -1,0 +1,31 @@
+{
+ "slug": "why-ai-misquotes-your-business",
+ "cat": "Entity Authority",
+ "title": "Why AI Misquotes Your Business — And How to Fix It",
+ "desc": "AI answers sometimes state confidently wrong facts about you. Why it happens, why it's dangerous, and how to correct the record at the source.",
+ "read": "8 min read",
+ "card": "Being mentioned by AI isn't always good news — sometimes it's confidently wrong about you. Here's how the errors happen and how to fix them.",
+ "body": "<p><strong>Getting mentioned by AI feels like a win — until the mention is wrong. AI answers sometimes state incorrect facts about a business with complete confidence: the wrong location, an outdated price, a service you don't offer, a description that fits a competitor.</strong> This is more common and more damaging than most owners realize, and the fix isn't arguing with the AI — it's correcting the record it reads.</p>\n\n<p>Here's why it deserves attention: a confident wrong answer can be worse than no answer. If an AI tells a potential customer you're in the wrong city, don't offer the thing they need, or cost something you don't, they may cross you off before you ever know you were considered. And because it happens inside an answer you can't see, you can be losing business to a misquote for months without a single clue in your analytics.</p>\n\n<h2>Why it happens</h2>\n\n<p>Understanding the cause points to the fix. AI answers assemble facts from across the web, and they inherit whatever's out there — including the contradictions and stale data. The usual culprits:</p>\n\n<ul>\n<li><strong>Inconsistent facts across sources.</strong> When your name, location, hours, or offering say different things in different places, the model may pick the wrong version, or blend them.</li>\n<li><strong>Stale information.</strong> Old listings, outdated pages, and cached descriptions the world moved past but the internet still carries.</li>\n<li><strong>Confusion with similar entities.</strong> Another business with a similar name, or a competitor in your category, whose details get attributed to you.</li>\n<li><strong>Thin first-party signal.</strong> If your own authoritative information is sparse or unclear, the model fills the gap with whatever it can find, right or wrong.</li>\n</ul>\n\n<p>Notice the theme: almost every cause is a consistency or clarity problem in the source material. The AI isn't malfunctioning — it's faithfully reflecting a messy, contradictory record. Which means the lever is the record, not the model.</p>\n\n<h2>How to fix it</h2>\n\n<ul>\n<li><strong>Establish a clear canonical source.</strong> One authoritative page that states your key facts unambiguously, marked up so machines read them cleanly. Give the model an obvious right answer to prefer.</li>\n<li><strong>Make your facts identical everywhere.</strong> Audit your site, listings, and profiles and reconcile every contradiction. Consistency is what lets the model trust one version.</li>\n<li><strong>Update or fix stale sources.</strong> Track down the outdated listings and pages carrying old information and correct them where you can.</li>\n<li><strong>Strengthen your entity distinctness.</strong> Make it unmistakable which entity you are versus similarly named ones, so your facts don't get cross-attributed.</li>\n<li><strong>Build corroboration for the correct facts.</strong> The more credible sources state the right version, the more confident the model becomes in it over the wrong one.</li>\n</ul>\n\n<h2>The mindset</h2>\n\n<p>You can't edit the AI's answer directly, and you shouldn't try to trick it. What you can do is make the correct version of your facts the clearest, most consistent, best-corroborated version available — so that when the model assembles an answer, the right facts are the easy ones to reach for. Fixing a misquote is really just entity hygiene under pressure: clean, consistent, corroborated facts, published where the machine looks. Start by finding out what the major engines currently say about you. You may be surprised — and you can't fix an error you don't know is out there.</p>",
+ "takeaways": [
+  "AI answers sometimes state confidently wrong facts about a business — wrong location, stale price, a service you don't offer — and it's more common than owners realize.",
+  "A confident wrong answer can be worse than none: customers cross you off inside an answer you never see, with no trace in your analytics.",
+  "Causes are almost always source-side: inconsistent facts, stale information, confusion with similar entities, or thin first-party signal.",
+  "The AI isn't malfunctioning — it's reflecting a messy record, so the lever is the record, not the model.",
+  "Fix it with entity hygiene: a clear canonical source, identical facts everywhere, updated stale listings, distinct entity identity, and corroboration for the correct facts.",
+  "You can't edit the answer — you make the correct facts the clearest, most consistent, best-corroborated version so the model reaches for them."
+ ],
+ "faq": [
+  [
+   "Why does AI state wrong facts about my business?",
+   "Because it assembles facts from across the web and inherits whatever's there, including contradictions and stale data. The usual causes are inconsistent facts across your sources, outdated listings, confusion with similarly named businesses, and thin first-party information that leaves the model filling gaps. It's reflecting a messy record, not malfunctioning."
+  ],
+  [
+   "Can I make the AI correct a mistake about me?",
+   "Not directly — you can't edit its answer. What you can do is fix the underlying record: establish a clear canonical source of your key facts, make them identical everywhere, update stale listings, sharpen your entity distinctness, and build corroboration for the correct version. That makes the right facts the easiest ones for the model to reach for."
+  ],
+  [
+   "How would I even know if AI is misquoting me?",
+   "You have to check directly, because it happens inside answers your analytics can't see. Ask the major AI engines about your business — your location, offerings, pricing, and category — and record what they say. Confident errors are common, and you can't correct one you don't know exists."
+  ]
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "slug": "the-prompt-set-new-keyword-research",
+ "cat": "Measurement",
+ "title": "The Prompt Set: Your New Keyword Research",
+ "desc": "Keywords told you what people typed into search. A prompt set tells you what they ask AI. How to build the instrument that anchors AI visibility.",
+ "read": "8 min read",
+ "card": "Keywords were the unit of SEO. Prompts are the unit of AEO. Here's how to build the prompt set everything else hangs on.",
+ "body": "<p><strong>For twenty years, keyword research was the starting point of getting found. In the age of AI answers, the equivalent foundation is a prompt set — the actual questions your customers ask an AI when they're trying to find or choose a business like yours.</strong> Get this right and everything downstream has an anchor. Skip it and you're optimizing blind.</p>\n\n<p>The parallel to keyword research is exact, and useful. Keywords told you the language real people used to search, so you could show up for it and measure whether you did. A prompt set does the same job for AI: it captures the real questions people pose to answer engines, so you can check whether you're named and improve where you're not. The unit changed from a keyword to a prompt, but the discipline — study real demand, then serve and measure it — is the same.</p>\n\n<h2>Why prompts differ from keywords</h2>\n\n<p>Prompts aren't just longer keywords, and treating them that way misses the point. People type fragments into search — \"best CRM small business\" — but they ask AI full, natural questions, often with context: \"I run a 10-person agency, which CRM should I use and why.\" Prompts carry intent, constraints, and situation that bare keywords strip out. That richness is an opportunity: it tells you not just what people want to know but the circumstances they're deciding in, which is exactly what you need to be the right answer.</p>\n\n<p>Prompts also chain. A customer rarely asks one question — they ask a first one, then a follow-up shaped by the answer. A good prompt set captures those conversations, not just isolated queries, because being named in the follow-up can matter as much as the opener.</p>\n\n<h2>How to build one</h2>\n\n<ul>\n<li><strong>Start from real buying intent.</strong> Write the questions a customer actually asks when trying to find, compare, or choose someone like you — not the questions you wish they asked.</li>\n<li><strong>Cover the whole journey.</strong> Research questions, comparison questions, \"who should I hire\" questions, \"is [you] any good\" questions, and \"[competitor] alternatives\" questions.</li>\n<li><strong>Include the hard ones.</strong> The competitor comparisons and the prompts where you're unsure you'd win. Those teach you the most.</li>\n<li><strong>Use real language.</strong> Phrase them the way a person actually would, with the context and constraints they'd include.</li>\n<li><strong>Keep it focused.</strong> A few dozen well-chosen prompts beats hundreds of vague ones. This is a working instrument, not a data dump.</li>\n</ul>\n\n<h2>The discipline that makes it work</h2>\n\n<p>The prompt set is only as honest as you make it, and this is where most people undermine themselves. It's tempting to load it with softball prompts you already win — the ones that make you look good. That's worse than useless, because it gives you false confidence about your real position. A prompt set rigged to flatter you is a broken instrument. Include the prompts you're afraid of; those are the ones with something to teach.</p>\n\n<p>Once you have the set, it becomes the backbone of everything: you run it through the AI engines to see where you stand, you track it over time to see whether your work is paying off, and you use the gaps to decide what content to build and what corroboration to earn. Like keyword research before it, the prompt set isn't the strategy — it's the foundation the strategy is built on. Build it honestly, keep it current, and let it point you at the work that matters.</p>",
+ "takeaways": [
+  "A prompt set — the real questions customers ask AI to find or choose a business like yours — is the AEO equivalent of keyword research.",
+  "The discipline is the same as SEO's: study real demand, then serve and measure it; only the unit changed from keyword to prompt.",
+  "Prompts aren't just longer keywords — they carry intent, constraints, and situation, and they chain into follow-up conversations.",
+  "Build from real buying intent across the whole journey, in real language, kept focused to a few dozen working prompts.",
+  "Include the hard and competitor prompts you're unsure you'd win — a prompt set rigged to flatter you is a broken instrument.",
+  "The set becomes the backbone: run it to see where you stand, track it over time, and use gaps to decide what to build and corroborate."
+ ],
+ "faq": [
+  [
+   "What is a prompt set?",
+   "It's the collection of real questions your customers ask an AI assistant when trying to find, compare, or choose a business like yours — the AEO equivalent of a keyword list. You run it through answer engines to see whether you're named, track it over time, and use the gaps to guide your content and corroboration work."
+  ],
+  [
+   "How are prompts different from keywords?",
+   "Keywords are the fragments people type into search ('best CRM small business'). Prompts are the full, natural questions people ask AI, often with context and constraints ('I run a 10-person agency, which CRM should I use and why'). Prompts carry more intent and situation, and they chain into follow-up questions, so a good set captures conversations, not just isolated queries."
+  ],
+  [
+   "What's the most common mistake building a prompt set?",
+   "Stacking it with softball prompts you already win. That gives false confidence and makes the instrument useless for improvement. Include the hard prompts — competitor comparisons and the ones you're unsure you'd win — because those reveal where you actually stand and what to fix. An honest prompt set is the whole point."
+  ]
+ ]
+}

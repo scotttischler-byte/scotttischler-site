@@ -1,0 +1,31 @@
+{
+ "slug": "owning-a-prompt-micro-authority",
+ "cat": "Strategy",
+ "title": "Owning a Prompt: The Case for Micro-Authority in AI Search",
+ "desc": "You can't be the answer to everything. But you can own specific prompts completely. The case for narrow, deep micro-authority.",
+ "read": "8 min read",
+ "card": "Trying to be the answer to everything is how you become the answer to nothing. Own a prompt instead.",
+ "body": "<p><strong>The businesses winning AI visibility aren't the ones trying to be the answer to everything. They're the ones who picked specific prompts and became impossible to leave out of them.</strong> In a world where AI answers name only a handful of sources, narrow and deep beats broad and shallow — and that's an enormous opportunity for anyone willing to focus.</p>\n\n<p>The old search instinct was breadth: rank for as many terms as possible, catch traffic wherever it fell. Citation scarcity inverts that. When an AI answer cites just a few sources, being mildly relevant to a thousand questions loses to being the definitive answer to fifty. The generalist gets left out; the recognized authority on a specific question gets named. Micro-authority — being undeniable on a narrow set of prompts — is how smaller players win against bigger, broader competitors.</p>\n\n<h2>Why narrow wins</h2>\n\n<p>It comes down to how the model chooses. Trying to cite as few sources as possible, it reaches for the ones that most completely and credibly answer the specific question. On any given prompt, the focused expert who has covered it with unusual depth, clarity, and corroboration simply is the better source — and the model can tell. Breadth can't compete with that on a specific question, because attention and authority spread thin don't concentrate anywhere enough to win.</p>\n\n<p>This is genuinely good news if you're not the biggest player in your space. In a breadth game, budget wins. In a depth game decided prompt by prompt, focus wins — and focus is available to anyone. You don't need to outspend the market leader. You need to out-specialize them on the questions you choose to own.</p>\n\n<h2>How to own a prompt</h2>\n\n<ul>\n<li><strong>Choose deliberately.</strong> Pick the specific questions where you can genuinely be the best answer — the ones matched to real expertise and real buying intent, where you have a right to win.</li>\n<li><strong>Go deeper than anyone.</strong> Cover your chosen prompts with more depth, clarity, and honesty than any competitor bothers to. Depth is the moat.</li>\n<li><strong>Be cleanly extractable.</strong> Lead with the answer, make it self-contained, structure it so the model can lift exactly what it needs.</li>\n<li><strong>Earn corroboration on that topic.</strong> Become the name others reference on your chosen questions, so the model's trust in you on them compounds.</li>\n<li><strong>Defend the slot.</strong> Keep your owned prompts current and deep as others notice and try to compete. Ownership is maintained, not won once.</li>\n</ul>\n\n<h2>The strategic discipline</h2>\n\n<p>The hard part isn't the tactics — it's the focus. Owning a prompt requires the discipline to say no to the ones you can't win, and to resist spreading yourself across every question in your category. That's uncomfortable, because it feels like leaving opportunity on the table. But trying to own everything is precisely how you own nothing: your effort dilutes below the threshold that wins any single prompt.</p>\n\n<p>Be honest about where you can actually be undeniable. You probably can't be a top-cited source on every question in your field — nobody can. But you can almost certainly dominate some of them. Pick those deliberately, go deeper than anyone, earn the corroboration, and defend the ground. A handful of prompts owned decisively is worth more than broad, shallow presence that never makes the cut — because in an AI answer, only the few named sources are ever seen. Start with one prompt you can genuinely own, and become impossible to leave out of it.</p>",
+ "takeaways": [
+  "In a world where AI names only a few sources, owning specific prompts completely beats being mildly relevant to everything.",
+  "Citation scarcity inverts the old breadth instinct: being the definitive answer to fifty questions beats being mildly relevant to a thousand.",
+  "The model reaches for the source that most completely answers a specific question — depth concentrates authority where breadth can't compete.",
+  "Micro-authority favors smaller players: in a depth game decided prompt by prompt, focus wins and focus is available to anyone.",
+  "Own a prompt by choosing deliberately, going deeper than anyone, being cleanly extractable, earning topic corroboration, and defending the slot.",
+  "The hard part is focus — trying to own everything is how you own nothing, because effort dilutes below the winning threshold."
+ ],
+ "faq": [
+  [
+   "What does 'owning a prompt' mean?",
+   "It means becoming the definitive, hard-to-leave-out source for a specific question customers ask AI — covering it with more depth, clarity, and corroboration than anyone else. Rather than being mildly relevant to many questions, you become undeniable on a chosen few, which is what wins in a world where AI answers cite only a handful of sources."
+  ],
+  [
+   "Why does narrow focus beat broad coverage in AI search?",
+   "Because AI answers cite few sources and reach for the one that most completely answers a specific question. A focused expert who has covered a prompt with unusual depth genuinely is the better source on it, and breadth spread thin can't concentrate enough authority to compete. It's a depth game decided prompt by prompt, which favors focus over sheer budget."
+  ],
+  [
+   "How do I choose which prompts to own?",
+   "Be honest about where you can be undeniable. Pick specific questions matched to real expertise and real buying intent — ones you have a genuine right to win — and say no to the rest. Then go deeper than any competitor, make your answer cleanly extractable, earn corroboration on that topic, and keep it current. A few prompts owned decisively beat broad, shallow presence."
+  ]
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "slug": "content-refresh-playbook-ai",
+ "cat": "Playbook",
+ "title": "The Content Refresh Playbook for AI Visibility",
+ "desc": "Your existing content is an underused AI-visibility asset. A practical playbook for refreshing what you already have to get cited more.",
+ "read": "7 min read",
+ "card": "Your best AI-visibility opportunity might be the content you already published. How to refresh it into citable shape.",
+ "body": "<p><strong>The highest-return AI-visibility work for most businesses isn't new content — it's fixing the content they already have. You've likely got pages that rank, get traffic, and answer real questions, but weren't written for how AI engines extract and cite. Refreshing them is faster and often more effective than starting from scratch.</strong></p>\n\n<p>The reason this beats new content is leverage. A page that already has authority and traffic is a page AI engines can already find and are inclined to trust. It's most of the way there. Refreshing it for extractability is a small change to an asset that's already working — versus a new page that has to earn trust and discovery from zero. Start with what you've got.</p>\n\n<h2>What to refresh first</h2>\n\n<p>Prioritize by opportunity, not age. The best refresh candidates are pages that already earn attention on questions that matter, but underperform in AI answers. In practice: your most-visited pages, the ones targeting your highest-intent questions, and anything you know customers care about that isn't getting named in AI responses. A great page nobody extracts is a bigger opportunity than a mediocre page nobody reads.</p>\n\n<h2>The refresh checklist</h2>\n\n<ul>\n<li><strong>Lead with the answer.</strong> Move the direct answer to the top. Many older pages bury the payoff under setup; AI engines extract the top-of-page answer far more readily.</li>\n<li><strong>Make passages self-contained.</strong> Rewrite key sections so each stands on its own when lifted out of context — because that's exactly how an answer engine uses them.</li>\n<li><strong>Add or fix structure.</strong> Clear headings, logical hierarchy, and a question-and-answer shape where it fits, so the machine can navigate and extract cleanly.</li>\n<li><strong>Update accuracy and recency.</strong> Correct anything stale, refresh examples, and let the update reflect genuine revision — freshness is a real signal.</li>\n<li><strong>Add appropriate structured data.</strong> Schema that declares what the content is, so the model doesn't have to infer it.</li>\n<li><strong>Reconcile facts.</strong> Make sure the page agrees with your canonical facts and doesn't contradict your other pages.</li>\n</ul>\n\n<h2>How to work it</h2>\n\n<p>Treat it as a rolling program, not a one-time sprint. Work through your priority pages on a schedule, refresh a batch, then measure whether their presence in AI answers improves. That feedback loop is the point — it tells you which refreshes worked and sharpens the next batch. Over time you're not just improving individual pages; you're learning what makes your content citable in your specific category, which compounds.</p>\n\n<p>The honest caveat: refreshing means genuinely improving, not cosmetically tweaking. Changing a date and moving a comma won't move anything and can erode trust if it's a pattern. Real refreshes make the page a better, clearer, more extractable answer than it was. Do that to the content you already have, and you'll often find your fastest AI-visibility gains were sitting in your own archive the whole time.</p>",
+ "takeaways": [
+  "The highest-return AI-visibility work is often refreshing existing content, not creating new — it leverages pages that already have authority and traffic.",
+  "A page that already ranks and gets trusted is most of the way there; refreshing it for extraction beats making a new page earn trust from zero.",
+  "Prioritize by opportunity: your most-visited and highest-intent pages that underperform in AI answers, not simply your oldest ones.",
+  "The refresh checklist: lead with the answer, make passages self-contained, fix structure, update accuracy, add schema, and reconcile facts.",
+  "Work it as a rolling program with a measurement loop — refresh a batch, check AI-answer presence, and let results sharpen the next batch.",
+  "Refresh means genuinely improving, not cosmetic tweaks; real revision makes a page a better, more extractable answer."
+ ],
+ "faq": [
+  [
+   "Why refresh old content instead of writing new?",
+   "Because existing pages that already rank and get traffic have authority and discoverability AI engines can already use — they're most of the way there. Refreshing one for extractability is a small change to a working asset, whereas a new page must earn trust and discovery from scratch. For most businesses, the archive holds the fastest AI-visibility gains."
+  ],
+  [
+   "Which pages should I refresh first?",
+   "Prioritize by opportunity, not age: your most-visited pages, the ones targeting your highest-intent customer questions, and anything you know customers care about that isn't getting named in AI answers. A high-traffic page that AI never extracts is a bigger opportunity than an old page nobody reads."
+  ],
+  [
+   "What actually counts as a refresh?",
+   "Genuinely improving the page: moving the direct answer to the top, rewriting key passages to be self-contained, fixing structure and headings, updating accuracy and examples, adding appropriate schema, and reconciling facts with your other pages. Cosmetic tweaks like changing a date won't help and can erode trust if habitual — the revision has to make the page a better, more extractable answer."
+  ]
+ ]
+}
