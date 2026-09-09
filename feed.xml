@@ -8,6 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Jul 2026 09:00:00 +0000</lastBuildDate>
     <item>
+      <title>How AI Breaks Ties Between Two Equally Good Sources</title>
+      <link>https://scotttischler.com/articles/how-ai-breaks-ties-between-sources.html</link>
+      <guid>https://scotttischler.com/articles/how-ai-breaks-ties-between-sources.html</guid>
+      <category>How AI Works</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Wed, 09 Sep 2026 09:00:00 +0000</pubDate>
+      <description>When two sources are equally relevant, what makes AI cite one over the other? The tiebreakers that decide close calls.</description>
+    </item>
+    <item>
+      <title>Answer Formatting: What AI Extracts Cleanly and What It Skips</title>
+      <link>https://scotttischler.com/articles/answer-formatting-for-extraction.html</link>
+      <guid>https://scotttischler.com/articles/answer-formatting-for-extraction.html</guid>
+      <category>Technical</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Wed, 09 Sep 2026 09:00:00 +0000</pubDate>
+      <description>How you format an answer changes whether AI can lift it. Lists, tables, direct statements, and the structures answer engines pull from.</description>
+    </item>
+    <item>
       <title>The Alternatives Query: Showing Up When Someone Searches Your Competitor</title>
       <link>https://scotttischler.com/articles/the-alternatives-query-competitor.html</link>
       <guid>https://scotttischler.com/articles/the-alternatives-query-competitor.html</guid>

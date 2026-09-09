@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"how-ai-breaks-ties-between-sources",
+"How AI Breaks Ties Between Two Equally Good Sources",
+"How AI Works",
+"2026-09-09"
+],
+[
+"answer-formatting-for-extraction",
+"Answer Formatting: What AI Extracts Cleanly and What It Skips",
+"Technical",
+"2026-09-09"
+],
+[
 "the-alternatives-query-competitor",
 "The Alternatives Query: Showing Up When Someone Searches Your Competitor",
 "Playbook",
@@ -752,6 +764,8 @@
 ]
 ],
 "live": [
+"how-ai-breaks-ties-between-sources",
+"answer-formatting-for-extraction",
 "the-alternatives-query-competitor",
 "own-the-definition-ai-cites",
 "what-chatgpt-sees-on-your-site",
