@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"digital-pr-for-founders",
+"Digital PR for Founders: Getting Quoted Without a PR Firm",
+"Playbook",
+"2026-09-09"
+],
+[
+"content-refresh-playbook-ai",
+"The Content Refresh Playbook for AI Visibility",
+"Playbook",
+"2026-09-09"
+],
+[
 "your-seo-is-the-foundation-for-aeo",
 "Your SEO Isn't Dead \u2014 It's the Foundation Your AEO Is Built On",
 "Strategy",
@@ -704,6 +716,8 @@
 ]
 ],
 "live": [
+"digital-pr-for-founders",
+"content-refresh-playbook-ai",
 "your-seo-is-the-foundation-for-aeo",
 "why-ai-misquotes-your-business",
 "the-seven-citation-slots",
