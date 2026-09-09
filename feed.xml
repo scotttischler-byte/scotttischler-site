@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Jul 2026 09:00:00 +0000</lastBuildDate>
     <item>
+      <title>When AI Confuses You With Someone Else — The Disambiguation Problem</title>
+      <link>https://scotttischler.com/articles/entity-disambiguation-ai-confusion.html</link>
+      <guid>https://scotttischler.com/articles/entity-disambiguation-ai-confusion.html</guid>
+      <category>Entity Authority</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Wed, 09 Sep 2026 09:00:00 +0000</pubDate>
+      <description>Similar names, shared categories, and thin signals make AI mix up entities. How to make sure the model knows exactly which one you are.</description>
+    </item>
+    <item>
       <title>How AI Breaks Ties Between Two Equally Good Sources</title>
       <link>https://scotttischler.com/articles/how-ai-breaks-ties-between-sources.html</link>
       <guid>https://scotttischler.com/articles/how-ai-breaks-ties-between-sources.html</guid>
