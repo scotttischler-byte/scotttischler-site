@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"the-alternatives-query-competitor",
+"The Alternatives Query: Showing Up When Someone Searches Your Competitor",
+"Playbook",
+"2026-09-09"
+],
+[
+"own-the-definition-ai-cites",
+"Own the Definition: Becoming the Source AI Uses to Explain Your Category",
+"Entity Authority",
+"2026-09-09"
+],
+[
 "what-chatgpt-sees-on-your-site",
 "What ChatGPT Actually Sees When It Looks at Your Site",
 "How AI Works",
@@ -740,6 +752,8 @@
 ]
 ],
 "live": [
+"the-alternatives-query-competitor",
+"own-the-definition-ai-cites",
 "what-chatgpt-sees-on-your-site",
 "the-comparison-query-x-vs-y",
 "how-ai-handles-conflicting-reviews",
