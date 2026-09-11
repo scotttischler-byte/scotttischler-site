@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"quotability-write-what-ai-repeats",
+"Quotability: How to Write a Sentence AI Will Repeat Verbatim",
+"Playbook",
+"2026-09-11"
+],
+[
+"the-question-behind-the-question-intent",
+"The Question Behind the Question: Intent in AI Search",
+"Strategy",
+"2026-09-11"
+],
+[
 "entity-disambiguation-ai-confusion",
 "When AI Confuses You With Someone Else \u2014 The Disambiguation Problem",
 "Entity Authority",
@@ -770,6 +782,8 @@
 ]
 ],
 "live": [
+"quotability-write-what-ai-repeats",
+"the-question-behind-the-question-intent",
 "entity-disambiguation-ai-confusion",
 "how-ai-breaks-ties-between-sources",
 "answer-formatting-for-extraction",
