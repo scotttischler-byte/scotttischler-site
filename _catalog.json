@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"answer-volatility-ai-recommendations",
+"Answer Volatility: Why AI Recommends You One Day and Skips You the Next",
+"Measurement",
+"2026-09-18"
+],
+[
+"how-ai-retrieves-answers-rag",
+"How AI Actually Finds Its Answers: RAG, Grounding, and Who Gets Cited",
+"How AI Works",
+"2026-09-18"
+],
+[
 "become-the-expert-ai-names",
 "How to Become the Expert AI Names in Your Field",
 "Entity Authority",
@@ -794,6 +806,8 @@
 ]
 ],
 "live": [
+"answer-volatility-ai-recommendations",
+"how-ai-retrieves-answers-rag",
 "become-the-expert-ai-names",
 "get-into-ai-training-data",
 "quotability-write-what-ai-repeats",

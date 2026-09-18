@@ -8,6 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Jul 2026 09:00:00 +0000</lastBuildDate>
     <item>
+      <title>Answer Volatility: Why AI Recommends You One Day and Skips You the Next</title>
+      <link>https://scotttischler.com/articles/answer-volatility-ai-recommendations.html</link>
+      <guid>https://scotttischler.com/articles/answer-volatility-ai-recommendations.html</guid>
+      <category>Measurement</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 09:00:00 +0000</pubDate>
+      <description>AI assistants return different recommendations run to run. Why that volatility exists, why single checks mislead, and how to measure frequency instead.</description>
+    </item>
+    <item>
+      <title>How AI Actually Finds Its Answers: RAG, Grounding, and Who Gets Cited</title>
+      <link>https://scotttischler.com/articles/how-ai-retrieves-answers-rag.html</link>
+      <guid>https://scotttischler.com/articles/how-ai-retrieves-answers-rag.html</guid>
+      <category>How AI Works</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 09:00:00 +0000</pubDate>
+      <description>Retrieval-augmented generation is the machine that decides who AI cites. A plain-English breakdown of how it works and how to be the source it pulls.</description>
+    </item>
+    <item>
       <title>How to Become the Expert AI Names in Your Field</title>
       <link>https://scotttischler.com/articles/become-the-expert-ai-names.html</link>
       <guid>https://scotttischler.com/articles/become-the-expert-ai-names.html</guid>
