@@ -8,6 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Jul 2026 09:00:00 +0000</lastBuildDate>
     <item>
+      <title>How AI Builds Its “Best Of” Lists — and How to Get On Them</title>
+      <link>https://scotttischler.com/articles/how-ai-builds-best-of-lists.html</link>
+      <guid>https://scotttischler.com/articles/how-ai-builds-best-of-lists.html</guid>
+      <category>How AI Works</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 09:00:00 +0000</pubDate>
+      <description>A practitioner&#x27;s breakdown of how ChatGPT, Perplexity and Google&#x27;s AI assemble their “best X” shortlists — and the specific signals that get a business included instead of skipped.</description>
+    </item>
+    <item>
+      <title>Multimodal Search: Getting Recommended When Customers Search With a Photo</title>
+      <link>https://scotttischler.com/articles/multimodal-ai-search-visibility.html</link>
+      <guid>https://scotttischler.com/articles/multimodal-ai-search-visibility.html</guid>
+      <category>AI &amp; Search</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 09:00:00 +0000</pubDate>
+      <description>What actually happens when a customer searches with an image or screenshot instead of typing, and the practical work that decides whether AI can identify you and then recommend you.</description>
+    </item>
+    <item>
       <title>Answer Volatility: Why AI Recommends You One Day and Skips You the Next</title>
       <link>https://scotttischler.com/articles/answer-volatility-ai-recommendations.html</link>
       <guid>https://scotttischler.com/articles/answer-volatility-ai-recommendations.html</guid>

@@ -14,6 +14,31 @@
   </url>
 
   <url>
+    <loc>https://scotttischler.com/articles/how-ai-builds-best-of-lists.html</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://scotttischler.com/articles/pdf/how-ai-builds-best-of-lists.pdf</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://scotttischler.com/articles/multimodal-ai-search-visibility.html</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://scotttischler.com/articles/pdf/multimodal-ai-search-visibility.pdf</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
     <loc>https://scotttischler.com/articles/answer-volatility-ai-recommendations.html</loc>
     <lastmod>2026-09-18</lastmod>
     <changefreq>monthly</changefreq>

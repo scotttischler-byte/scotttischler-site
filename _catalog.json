@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"how-ai-builds-best-of-lists",
+"How AI Builds Its \u201cBest Of\u201d Lists \u2014 and How to Get On Them",
+"How AI Works",
+"2026-09-18"
+],
+[
+"multimodal-ai-search-visibility",
+"Multimodal Search: Getting Recommended When Customers Search With a Photo",
+"AI & Search",
+"2026-09-18"
+],
+[
 "answer-volatility-ai-recommendations",
 "Answer Volatility: Why AI Recommends You One Day and Skips You the Next",
 "Measurement",
@@ -806,6 +818,8 @@
 ]
 ],
 "live": [
+"how-ai-builds-best-of-lists",
+"multimodal-ai-search-visibility",
 "answer-volatility-ai-recommendations",
 "how-ai-retrieves-answers-rag",
 "become-the-expert-ai-names",
