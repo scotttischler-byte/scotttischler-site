@@ -8,6 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Jul 2026 09:00:00 +0000</lastBuildDate>
     <item>
+      <title>Why AI Recommends the Safe Choice — and How to Become It</title>
+      <link>https://scotttischler.com/articles/why-ai-recommends-the-safe-choice.html</link>
+      <guid>https://scotttischler.com/articles/why-ai-recommends-the-safe-choice.html</guid>
+      <category>How AI Works</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Sat, 19 Sep 2026 09:00:00 +0000</pubDate>
+      <description>A practitioner&#x27;s look at the risk-aversion baked into how ChatGPT, Gemini and Perplexity recommend — why models default to the defensible choice, and the concrete signals that make your business the one they feel safe putting their name behind.</description>
+    </item>
+    <item>
+      <title>Voice Is Back: Winning the Single Spoken Answer AI Gives</title>
+      <link>https://scotttischler.com/articles/optimizing-for-voice-ai-answers.html</link>
+      <guid>https://scotttischler.com/articles/optimizing-for-voice-ai-answers.html</guid>
+      <category>AI &amp; Search</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Sat, 19 Sep 2026 09:00:00 +0000</pubDate>
+      <description>Voice assistants running on modern language models return a single spoken recommendation — no list, no links, no second place. A practitioner&#x27;s breakdown of how voice AEO differs from screen-based answers and how to become the one name the assistant says out loud.</description>
+    </item>
+    <item>
       <title>How AI Builds Its “Best Of” Lists — and How to Get On Them</title>
       <link>https://scotttischler.com/articles/how-ai-builds-best-of-lists.html</link>
       <guid>https://scotttischler.com/articles/how-ai-builds-best-of-lists.html</guid>

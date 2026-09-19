@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"why-ai-recommends-the-safe-choice",
+"Why AI Recommends the Safe Choice \u2014 and How to Become It",
+"How AI Works",
+"2026-09-19"
+],
+[
+"optimizing-for-voice-ai-answers",
+"Voice Is Back: Winning the Single Spoken Answer AI Gives",
+"AI & Search",
+"2026-09-19"
+],
+[
 "how-ai-builds-best-of-lists",
 "How AI Builds Its \u201cBest Of\u201d Lists \u2014 and How to Get On Them",
 "How AI Works",
@@ -818,6 +830,8 @@
 ]
 ],
 "live": [
+"why-ai-recommends-the-safe-choice",
+"optimizing-for-voice-ai-answers",
 "how-ai-builds-best-of-lists",
 "multimodal-ai-search-visibility",
 "answer-volatility-ai-recommendations",
