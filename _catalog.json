@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"original-data-aeo-citation-magnet",
+"Original Data Is the AEO Asset Almost Nobody Publishes",
+"Playbook",
+"2026-09-20"
+],
+[
+"youtube-transcripts-ai-citations",
+"Your YouTube Transcripts Are Quietly Feeding AI Answers",
+"AI & Search",
+"2026-09-20"
+],
+[
 "why-ai-recommends-the-safe-choice",
 "Why AI Recommends the Safe Choice \u2014 and How to Become It",
 "How AI Works",
@@ -830,6 +842,8 @@
 ]
 ],
 "live": [
+"original-data-aeo-citation-magnet",
+"youtube-transcripts-ai-citations",
 "why-ai-recommends-the-safe-choice",
 "optimizing-for-voice-ai-answers",
 "how-ai-builds-best-of-lists",
