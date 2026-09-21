@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"google-ai-mode-visibility",
+"Google AI Mode: How to Get Named in Google's Conversational Search",
+"AI & Search",
+"2026-09-21"
+],
+[
+"third-party-lists-ai-recommendations",
+"The List Behind the List: How AI Reuses Third-Party 'Best Of' Rankings",
+"Playbook",
+"2026-09-21"
+],
+[
 "original-data-aeo-citation-magnet",
 "Original Data Is the AEO Asset Almost Nobody Publishes",
 "Playbook",
@@ -842,6 +854,8 @@
 ]
 ],
 "live": [
+"google-ai-mode-visibility",
+"third-party-lists-ai-recommendations",
 "original-data-aeo-citation-magnet",
 "youtube-transcripts-ai-citations",
 "why-ai-recommends-the-safe-choice",
