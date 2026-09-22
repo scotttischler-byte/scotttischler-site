@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"why-ai-wont-recommend-anyone",
+"The Recommendation Refusal: Why AI Won't Name Anyone \u2014 and How to Become the One It Names",
+"How AI Works",
+"2026-09-22"
+],
+[
+"podcast-guesting-ai-citations",
+"The Podcast Citation: How Guest Appearances Feed the AI That Recommends You",
+"Playbook",
+"2026-09-22"
+],
+[
 "google-ai-mode-visibility",
 "Google AI Mode: How to Get Named in Google's Conversational Search",
 "AI & Search",
@@ -854,6 +866,8 @@
 ]
 ],
 "live": [
+"why-ai-wont-recommend-anyone",
+"podcast-guesting-ai-citations",
 "google-ai-mode-visibility",
 "third-party-lists-ai-recommendations",
 "original-data-aeo-citation-magnet",
