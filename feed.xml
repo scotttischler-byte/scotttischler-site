@@ -8,6 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Jul 2026 09:00:00 +0000</lastBuildDate>
     <item>
+      <title>Citation Churn: Why AI Quietly Stops Recommending You</title>
+      <link>https://scotttischler.com/articles/citation-churn-why-ai-drops-you.html</link>
+      <guid>https://scotttischler.com/articles/citation-churn-why-ai-drops-you.html</guid>
+      <category>Strategy</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Thu, 24 Sep 2026 09:00:00 +0000</pubDate>
+      <description>AI named you last quarter and doesn&#x27;t now, with nothing changed on your site. What citation churn is, why it happens, and how to recover the slot.</description>
+    </item>
+    <item>
+      <title>What Does AI Think You&#x27;re Known For? The Attribute-Extraction Problem</title>
+      <link>https://scotttischler.com/articles/what-ai-thinks-youre-known-for.html</link>
+      <guid>https://scotttischler.com/articles/what-ai-thinks-youre-known-for.html</guid>
+      <category>How AI Works</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Thu, 24 Sep 2026 09:00:00 +0000</pubDate>
+      <description>AI doesn&#x27;t just decide whether to name you — it decides what to call you. How models extract your attributes, why they get it wrong, and how to shape it.</description>
+    </item>
+    <item>
       <title>The Modifier Problem: How AI Routes “Best,” “Cheapest,” and “Luxury” Queries</title>
       <link>https://scotttischler.com/articles/modifier-queries-ai-recommendations.html</link>
       <guid>https://scotttischler.com/articles/modifier-queries-ai-recommendations.html</guid>

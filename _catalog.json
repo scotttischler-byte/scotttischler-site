@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"citation-churn-why-ai-drops-you",
+"Citation Churn: Why AI Quietly Stops Recommending You",
+"Strategy",
+"2026-09-24"
+],
+[
+"what-ai-thinks-youre-known-for",
+"What Does AI Think You're Known For? The Attribute-Extraction Problem",
+"How AI Works",
+"2026-09-24"
+],
+[
 "modifier-queries-ai-recommendations",
 "The Modifier Problem: How AI Routes \u201cBest,\u201d \u201cCheapest,\u201d and \u201cLuxury\u201d Queries",
 "Playbook",
@@ -878,6 +890,8 @@
 ]
 ],
 "live": [
+"citation-churn-why-ai-drops-you",
+"what-ai-thinks-youre-known-for",
 "modifier-queries-ai-recommendations",
 "winning-the-follow-up-turn",
 "why-ai-wont-recommend-anyone",
