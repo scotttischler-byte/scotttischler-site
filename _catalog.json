@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"deep-research-mode-citations",
+"How to Get Cited in AI Deep Research (ChatGPT, Gemini, Perplexity)",
+"AI & Search",
+"2026-09-25"
+],
+[
+"ai-memory-personalized-recommendations",
+"How AI Memory and Personalization Change Who Gets Recommended",
+"How AI Works",
+"2026-09-25"
+],
+[
 "citation-churn-why-ai-drops-you",
 "Citation Churn: Why AI Quietly Stops Recommending You",
 "Strategy",
@@ -890,6 +902,8 @@
 ]
 ],
 "live": [
+"deep-research-mode-citations",
+"ai-memory-personalized-recommendations",
 "citation-churn-why-ai-drops-you",
 "what-ai-thinks-youre-known-for",
 "modifier-queries-ai-recommendations",
