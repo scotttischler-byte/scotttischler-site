@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"sameness-problem-ai-competitors",
+"The Sameness Problem: Why AI Can't Tell You Apart From Your Competitors",
+"Strategy",
+"2026-09-29"
+],
+[
+"negative-recommendation-ai-warns-away",
+"When AI Warns People Away From You: The Negative Recommendation",
+"How AI Works",
+"2026-09-29"
+],
+[
 "deep-research-mode-citations",
 "How to Get Cited in AI Deep Research (ChatGPT, Gemini, Perplexity)",
 "AI & Search",
@@ -902,6 +914,8 @@
 ]
 ],
 "live": [
+"sameness-problem-ai-competitors",
+"negative-recommendation-ai-warns-away",
 "deep-research-mode-citations",
 "ai-memory-personalized-recommendations",
 "citation-churn-why-ai-drops-you",
