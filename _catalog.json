@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"query-fan-out-hidden-searches",
+"Query Fan-Out: How One AI Question Becomes a Dozen Hidden Searches",
+"How AI Works",
+"2026-09-30"
+],
+[
+"sample-size-ai-visibility-testing",
+"How Many Times Should You Test a Prompt? Sample Size for AI Visibility",
+"Measurement",
+"2026-09-30"
+],
+[
 "sameness-problem-ai-competitors",
 "The Sameness Problem: Why AI Can't Tell You Apart From Your Competitors",
 "Strategy",
@@ -914,6 +926,8 @@
 ]
 ],
 "live": [
+"query-fan-out-hidden-searches",
+"sample-size-ai-visibility-testing",
 "sameness-problem-ai-competitors",
 "negative-recommendation-ai-warns-away",
 "deep-research-mode-citations",

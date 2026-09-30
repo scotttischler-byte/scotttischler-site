@@ -8,6 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Jul 2026 09:00:00 +0000</lastBuildDate>
     <item>
+      <title>Query Fan-Out: How One AI Question Becomes a Dozen Hidden Searches</title>
+      <link>https://scotttischler.com/articles/query-fan-out-hidden-searches.html</link>
+      <guid>https://scotttischler.com/articles/query-fan-out-hidden-searches.html</guid>
+      <category>How AI Works</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+      <description>A practitioner&#x27;s breakdown of query fan-out — how ChatGPT, Gemini and Google AI decompose a single question into many hidden sub-searches, why that breaks keyword thinking, and how to be a retrievable, corroborated answer across the whole cluster.</description>
+    </item>
+    <item>
+      <title>How Many Times Should You Test a Prompt? Sample Size for AI Visibility</title>
+      <link>https://scotttischler.com/articles/sample-size-ai-visibility-testing.html</link>
+      <guid>https://scotttischler.com/articles/sample-size-ai-visibility-testing.html</guid>
+      <category>Measurement</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+      <description>A practitioner&#x27;s guide to sample size in AI visibility testing — why a single ChatGPT or Perplexity check proves nothing, how many runs it takes to trust an appearance rate, and how to read the number without fooling yourself with noise.</description>
+    </item>
+    <item>
       <title>The Sameness Problem: Why AI Can&#x27;t Tell You Apart From Your Competitors</title>
       <link>https://scotttischler.com/articles/sameness-problem-ai-competitors.html</link>
       <guid>https://scotttischler.com/articles/sameness-problem-ai-competitors.html</guid>
