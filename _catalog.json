@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"why-ai-wont-quote-your-prices",
+"Why AI Won't Quote Your Prices \u2014 and How to Fix It",
+"Playbook",
+"2026-10-01"
+],
+[
+"specialist-vs-generalist-ai-recommendations",
+"Specialist or Generalist? How AI Decides Which One to Recommend",
+"How AI Works",
+"2026-10-01"
+],
+[
 "query-fan-out-hidden-searches",
 "Query Fan-Out: How One AI Question Becomes a Dozen Hidden Searches",
 "How AI Works",
@@ -926,6 +938,8 @@
 ]
 ],
 "live": [
+"why-ai-wont-quote-your-prices",
+"specialist-vs-generalist-ai-recommendations",
 "query-fan-out-hidden-searches",
 "sample-size-ai-visibility-testing",
 "sameness-problem-ai-competitors",
