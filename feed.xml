@@ -8,6 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Jul 2026 09:00:00 +0000</lastBuildDate>
     <item>
+      <title>Author Authority: Building a Byline AI Will Trust and Cite</title>
+      <link>https://scotttischler.com/articles/author-authority-ai-citations.html</link>
+      <guid>https://scotttischler.com/articles/author-authority-ai-citations.html</guid>
+      <category>Entity Authority</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Fri, 02 Oct 2026 09:00:00 +0000</pubDate>
+      <description>AI is shifting trust from domains to people. The consistent, verifiable byline that makes AI name you as the source — and the schema and off-site work behind it.</description>
+    </item>
+    <item>
+      <title>PDFs, Whitepapers and Decks: The AI Citation Sources You&#x27;re Ignoring</title>
+      <link>https://scotttischler.com/articles/pdfs-whitepapers-ai-citations.html</link>
+      <guid>https://scotttischler.com/articles/pdfs-whitepapers-ai-citations.html</guid>
+      <category>Technical</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Fri, 02 Oct 2026 09:00:00 +0000</pubDate>
+      <description>AI engines read PDFs, whitepapers and decks — but only if they can. The fixable plumbing problems that keep your best data out of AI answers, and how to solve them.</description>
+    </item>
+    <item>
       <title>Why AI Won&#x27;t Quote Your Prices — and How to Fix It</title>
       <link>https://scotttischler.com/articles/why-ai-wont-quote-your-prices.html</link>
       <guid>https://scotttischler.com/articles/why-ai-wont-quote-your-prices.html</guid>

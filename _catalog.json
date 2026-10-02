@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"author-authority-ai-citations",
+"Author Authority: Building a Byline AI Will Trust and Cite",
+"Entity Authority",
+"2026-10-02"
+],
+[
+"pdfs-whitepapers-ai-citations",
+"PDFs, Whitepapers and Decks: The AI Citation Sources You're Ignoring",
+"Technical",
+"2026-10-02"
+],
+[
 "why-ai-wont-quote-your-prices",
 "Why AI Won't Quote Your Prices \u2014 and How to Fix It",
 "Playbook",
@@ -938,6 +950,8 @@
 ]
 ],
 "live": [
+"author-authority-ai-citations",
+"pdfs-whitepapers-ai-citations",
 "why-ai-wont-quote-your-prices",
 "specialist-vs-generalist-ai-recommendations",
 "query-fan-out-hidden-searches",
