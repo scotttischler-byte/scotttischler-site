@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"mentioned-vs-recommended-ai",
+"Mentioned vs. Recommended: Why AI Names You but Doesn't Pick You",
+"How AI Works",
+"2026-10-03"
+],
+[
+"how-long-until-ai-cites-you",
+"How Long Until AI Cites You? The Crawl-to-Citation Lag Explained",
+"Measurement",
+"2026-10-03"
+],
+[
 "author-authority-ai-citations",
 "Author Authority: Building a Byline AI Will Trust and Cite",
 "Entity Authority",
@@ -950,6 +962,8 @@
 ]
 ],
 "live": [
+"mentioned-vs-recommended-ai",
+"how-long-until-ai-cites-you",
 "author-authority-ai-citations",
 "pdfs-whitepapers-ai-citations",
 "why-ai-wont-quote-your-prices",

@@ -14,6 +14,31 @@
   </url>
 
   <url>
+    <loc>https://scotttischler.com/articles/mentioned-vs-recommended-ai.html</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://scotttischler.com/articles/pdf/mentioned-vs-recommended-ai.pdf</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://scotttischler.com/articles/how-long-until-ai-cites-you.html</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://scotttischler.com/articles/pdf/how-long-until-ai-cites-you.pdf</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
     <loc>https://scotttischler.com/articles/author-authority-ai-citations.html</loc>
     <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
