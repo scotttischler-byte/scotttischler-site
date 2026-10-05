@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"branded-vs-unbranded-prompts-ai",
+"Branded vs. Unbranded Prompts: Winning the AI Answer Before They Know Your Name",
+"Strategy",
+"2026-10-05"
+],
+[
+"co-citation-company-you-keep-ai",
+"The Company You Keep: How Co-Citation Tells AI You Belong",
+"How AI Works",
+"2026-10-05"
+],
+[
 "mentioned-vs-recommended-ai",
 "Mentioned vs. Recommended: Why AI Names You but Doesn't Pick You",
 "How AI Works",
@@ -962,6 +974,8 @@
 ]
 ],
 "live": [
+"branded-vs-unbranded-prompts-ai",
+"co-citation-company-you-keep-ai",
 "mentioned-vs-recommended-ai",
 "how-long-until-ai-cites-you",
 "author-authority-ai-citations",
