@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"rebrand-domain-migration-ai-visibility",
+"You Rebranded. AI Still Remembers the Old You.",
+"Entity Authority",
+"2026-10-05"
+],
+[
+"syndication-duplicate-content-ai-citations",
+"Who Gets the Citation When Your Article Runs in Three Places",
+"Technical",
+"2026-10-05"
+],
+[
 "branded-vs-unbranded-prompts-ai",
 "Branded vs. Unbranded Prompts: Winning the AI Answer Before They Know Your Name",
 "Strategy",
@@ -974,6 +986,8 @@
 ]
 ],
 "live": [
+"rebrand-domain-migration-ai-visibility",
+"syndication-duplicate-content-ai-citations",
 "branded-vs-unbranded-prompts-ai",
 "co-citation-company-you-keep-ai",
 "mentioned-vs-recommended-ai",
