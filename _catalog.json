@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"multilingual-ai-visibility",
+"The Customers Asking About You in Another Language",
+"Strategy",
+"2026-10-06"
+],
+[
+"the-about-page-entity-anchor",
+"Your About Page Is Doing More Work Than You Think",
+"Entity Authority",
+"2026-10-06"
+],
+[
 "rebrand-domain-migration-ai-visibility",
 "You Rebranded. AI Still Remembers the Old You.",
 "Entity Authority",
@@ -986,6 +998,8 @@
 ]
 ],
 "live": [
+"multilingual-ai-visibility",
+"the-about-page-entity-anchor",
 "rebrand-domain-migration-ai-visibility",
 "syndication-duplicate-content-ai-citations",
 "branded-vs-unbranded-prompts-ai",
