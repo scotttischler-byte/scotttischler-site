@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"multi-location-ai-visibility",
+"One Brand, Ten Addresses: Multi-Location AI Visibility",
+"Playbook",
+"2026-10-07"
+],
+[
+"publishing-less-thin-pages-dilute",
+"The Case for Publishing Less",
+"Strategy",
+"2026-10-07"
+],
+[
 "gated-content-ai-cant-read",
 "Why AI Won't Recommend What It Can't Read: Paywalls, Logins, and Gates",
 "Technical",
@@ -1010,6 +1022,8 @@
 ]
 ],
 "live": [
+"multi-location-ai-visibility",
+"publishing-less-thin-pages-dilute",
 "gated-content-ai-cant-read",
 "why-ai-defaults-to-national-brands",
 "multilingual-ai-visibility",
