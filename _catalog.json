@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"gated-content-ai-cant-read",
+"Why AI Won't Recommend What It Can't Read: Paywalls, Logins, and Gates",
+"Technical",
+"2026-10-07"
+],
+[
+"why-ai-defaults-to-national-brands",
+"Why AI Defaults to National Brands \u2014 and How Local Businesses Break In",
+"How AI Works",
+"2026-10-07"
+],
+[
 "multilingual-ai-visibility",
 "The Customers Asking About You in Another Language",
 "Strategy",
@@ -998,6 +1010,8 @@
 ]
 ],
 "live": [
+"gated-content-ai-cant-read",
+"why-ai-defaults-to-national-brands",
 "multilingual-ai-visibility",
 "the-about-page-entity-anchor",
 "rebrand-domain-migration-ai-visibility",

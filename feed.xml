@@ -8,6 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Jul 2026 09:00:00 +0000</lastBuildDate>
     <item>
+      <title>Why AI Won&#x27;t Recommend What It Can&#x27;t Read: Paywalls, Logins, and Gates</title>
+      <link>https://scotttischler.com/articles/gated-content-ai-cant-read.html</link>
+      <guid>https://scotttischler.com/articles/gated-content-ai-cant-read.html</guid>
+      <category>Technical</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Wed, 07 Oct 2026 09:00:00 +0000</pubDate>
+      <description>An AI assistant can only recommend what it can fetch, read, and quote. A paywall, a login, an email form, a cookie wall, or a JavaScript-only page stops the machine at the door — so your best content loses to a competitor&#x27;s thinner but open answer. The fix: open the answer, gate the artifact.</description>
+    </item>
+    <item>
+      <title>Why AI Defaults to National Brands — and How Local Businesses Break In</title>
+      <link>https://scotttischler.com/articles/why-ai-defaults-to-national-brands.html</link>
+      <guid>https://scotttischler.com/articles/why-ai-defaults-to-national-brands.html</guid>
+      <category>How AI Works</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Wed, 07 Oct 2026 09:00:00 +0000</pubDate>
+      <description>AI assistants lean toward big national brands not because they&#x27;re better but because they&#x27;re safer guesses — the most corroborated, least risky thing to say when the model isn&#x27;t sure. Understanding that it&#x27;s a confidence problem, not a quality judgment, is the key to breaking the default and getting your local business named.</description>
+    </item>
+    <item>
       <title>The Customers Asking About You in Another Language</title>
       <link>https://scotttischler.com/articles/multilingual-ai-visibility.html</link>
       <guid>https://scotttischler.com/articles/multilingual-ai-visibility.html</guid>
