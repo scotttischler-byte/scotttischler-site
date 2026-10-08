@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"ai-misclassifies-your-category",
+"When AI Files You Under the Wrong Category \u2014 and Why You Vanish",
+"Entity Authority",
+"2026-10-08"
+],
+[
+"ai-visibility-regulated-industries",
+"AI Plays It Safe in Regulated Industries \u2014 How to Get Named Anyway",
+"Strategy",
+"2026-10-08"
+],
+[
 "multi-location-ai-visibility",
 "One Brand, Ten Addresses: Multi-Location AI Visibility",
 "Playbook",
@@ -1022,6 +1034,8 @@
 ]
 ],
 "live": [
+"ai-misclassifies-your-category",
+"ai-visibility-regulated-industries",
 "multi-location-ai-visibility",
 "publishing-less-thin-pages-dilute",
 "gated-content-ai-cant-read",
