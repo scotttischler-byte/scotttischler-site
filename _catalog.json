@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"associations-memberships-ai-trust",
+"Borrowed Credibility: Associations, Memberships and Accreditation",
+"Entity Authority",
+"2026-10-08"
+],
+[
+"seasonal-business-ai-visibility",
+"When Your Whole Year Happens in Three Months",
+"Strategy",
+"2026-10-08"
+],
+[
 "ai-misclassifies-your-category",
 "When AI Files You Under the Wrong Category \u2014 and Why You Vanish",
 "Entity Authority",
@@ -1034,6 +1046,8 @@
 ]
 ],
 "live": [
+"associations-memberships-ai-trust",
+"seasonal-business-ai-visibility",
 "ai-misclassifies-your-category",
 "ai-visibility-regulated-industries",
 "multi-location-ai-visibility",
