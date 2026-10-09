@@ -8,6 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Jul 2026 09:00:00 +0000</lastBuildDate>
     <item>
+      <title>Do Backlinks Still Matter for AI Recommendations?</title>
+      <link>https://scotttischler.com/articles/do-backlinks-matter-ai-recommendations.html</link>
+      <guid>https://scotttischler.com/articles/do-backlinks-matter-ai-recommendations.html</guid>
+      <category>How AI Works</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 09:00:00 +0000</pubDate>
+      <description>Backlinks were the currency of SEO. In AI recommendations they still matter, but their job has changed from a score you accumulate to corroboration a model can read. Here&#x27;s what links do now, which ones count, and where your effort actually pays.</description>
+    </item>
+    <item>
+      <title>What Happens to Your AI Visibility When the Model Updates</title>
+      <link>https://scotttischler.com/articles/surviving-ai-model-updates.html</link>
+      <guid>https://scotttischler.com/articles/surviving-ai-model-updates.html</guid>
+      <category>Measurement</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Fri, 09 Oct 2026 09:00:00 +0000</pubDate>
+      <description>AI visibility isn&#x27;t static. When a model updates or retrains, who it names can shift overnight. Here&#x27;s what actually changes under the hood, how to separate a real model change from run-to-run noise, and the kind of visibility that survives the next update.</description>
+    </item>
+    <item>
       <title>Borrowed Credibility: Associations, Memberships and Accreditation</title>
       <link>https://scotttischler.com/articles/associations-memberships-ai-trust.html</link>
       <guid>https://scotttischler.com/articles/associations-memberships-ai-trust.html</guid>
