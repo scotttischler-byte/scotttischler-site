@@ -14,6 +14,31 @@
   </url>
 
   <url>
+    <loc>https://scotttischler.com/articles/ai-crawler-server-logs.html</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://scotttischler.com/articles/pdf/ai-crawler-server-logs.pdf</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://scotttischler.com/articles/knowledge-cutoff-new-business.html</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://scotttischler.com/articles/pdf/knowledge-cutoff-new-business.pdf</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
     <loc>https://scotttischler.com/articles/google-business-profile-ai-signal.html</loc>
     <lastmod>2026-10-11</lastmod>
     <changefreq>monthly</changefreq>

@@ -8,6 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Jul 2026 09:00:00 +0000</lastBuildDate>
     <item>
+      <title>What Your Server Logs Reveal: Tracking the AI Crawlers Deciding Whether You Get Cited</title>
+      <link>https://scotttischler.com/articles/ai-crawler-server-logs.html</link>
+      <guid>https://scotttischler.com/articles/ai-crawler-server-logs.html</guid>
+      <category>Technical</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Sun, 11 Oct 2026 09:00:00 +0000</pubDate>
+      <description>Your server logs show exactly which AI crawlers visit, what they read, and what they skip. Here is how to read them and act on what you find.</description>
+    </item>
+    <item>
+      <title>Knowledge Cutoffs: Why AI Doesn&#x27;t Know Your Business Exists Yet — and How to Fix It</title>
+      <link>https://scotttischler.com/articles/knowledge-cutoff-new-business.html</link>
+      <guid>https://scotttischler.com/articles/knowledge-cutoff-new-business.html</guid>
+      <category>How AI Works</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Sun, 11 Oct 2026 09:00:00 +0000</pubDate>
+      <description>A model&#x27;s training cutoff means new businesses are invisible to its memory. Here&#x27;s why that happens and the retrieval path that gets you named anyway.</description>
+    </item>
+    <item>
       <title>Your Google Business Profile Is an AI Signal Now</title>
       <link>https://scotttischler.com/articles/google-business-profile-ai-signal.html</link>
       <guid>https://scotttischler.com/articles/google-business-profile-ai-signal.html</guid>

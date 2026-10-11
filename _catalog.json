@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"ai-crawler-server-logs",
+"What Your Server Logs Reveal: Tracking the AI Crawlers Deciding Whether You Get Cited",
+"Technical",
+"2026-10-11"
+],
+[
+"knowledge-cutoff-new-business",
+"Knowledge Cutoffs: Why AI Doesn't Know Your Business Exists Yet \u2014 and How to Fix It",
+"How AI Works",
+"2026-10-11"
+],
+[
 "google-business-profile-ai-signal",
 "Your Google Business Profile Is an AI Signal Now",
 "Entity Authority",
@@ -1070,6 +1082,8 @@
 ]
 ],
 "live": [
+"ai-crawler-server-logs",
+"knowledge-cutoff-new-business",
 "google-business-profile-ai-signal",
 "page-speed-core-web-vitals-ai",
 "do-backlinks-matter-ai-recommendations",
