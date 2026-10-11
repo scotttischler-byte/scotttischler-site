@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"google-business-profile-ai-signal",
+"Your Google Business Profile Is an AI Signal Now",
+"Entity Authority",
+"2026-10-11"
+],
+[
+"page-speed-core-web-vitals-ai",
+"Do Core Web Vitals and Page Speed Matter for AI Citations?",
+"Technical",
+"2026-10-11"
+],
+[
 "do-backlinks-matter-ai-recommendations",
 "Do Backlinks Still Matter for AI Recommendations?",
 "How AI Works",
@@ -1058,6 +1070,8 @@
 ]
 ],
 "live": [
+"google-business-profile-ai-signal",
+"page-speed-core-web-vitals-ai",
 "do-backlinks-matter-ai-recommendations",
 "surviving-ai-model-updates",
 "associations-memberships-ai-trust",
