@@ -8,6 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Jul 2026 09:00:00 +0000</lastBuildDate>
     <item>
+      <title>Why AI Hedges on Some Businesses and Commits Hard to Others</title>
+      <link>https://scotttischler.com/articles/ai-confidence-why-ai-hedges.html</link>
+      <guid>https://scotttischler.com/articles/ai-confidence-why-ai-hedges.html</guid>
+      <category>How AI Works</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 09:00:00 +0000</pubDate>
+      <description>When ChatGPT, Gemini, Perplexity, or Google&#x27;s AI answers hedge on your business, the qualified language is a diagnostic — it tells you how your evidence looks from the outside. Here&#x27;s what drives a confident recommendation and how to earn one.</description>
+    </item>
+    <item>
+      <title>Your Social Profiles Are Entity Signals: What LinkedIn, X, and the Rest Tell AI About You</title>
+      <link>https://scotttischler.com/articles/social-profiles-ai-authority-signal.html</link>
+      <guid>https://scotttischler.com/articles/social-profiles-ai-authority-signal.html</guid>
+      <category>Entity Authority</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 09:00:00 +0000</pubDate>
+      <description>Your public profiles are a second audience&#x27;s evidence: ChatGPT, Gemini, Perplexity, and Google&#x27;s AI read LinkedIn, X, and YouTube to confirm who you are. Here&#x27;s why consistency across them matters more than follower count — and how to audit and fix yours.</description>
+    </item>
+    <item>
       <title>What Your Server Logs Reveal: Tracking the AI Crawlers Deciding Whether You Get Cited</title>
       <link>https://scotttischler.com/articles/ai-crawler-server-logs.html</link>
       <guid>https://scotttischler.com/articles/ai-crawler-server-logs.html</guid>

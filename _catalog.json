@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"ai-confidence-why-ai-hedges",
+"Why AI Hedges on Some Businesses and Commits Hard to Others",
+"How AI Works",
+"2026-10-12"
+],
+[
+"social-profiles-ai-authority-signal",
+"Your Social Profiles Are Entity Signals: What LinkedIn, X, and the Rest Tell AI About You",
+"Entity Authority",
+"2026-10-12"
+],
+[
 "ai-crawler-server-logs",
 "What Your Server Logs Reveal: Tracking the AI Crawlers Deciding Whether You Get Cited",
 "Technical",
@@ -1082,6 +1094,8 @@
 ]
 ],
 "live": [
+"ai-confidence-why-ai-hedges",
+"social-profiles-ai-authority-signal",
 "ai-crawler-server-logs",
 "knowledge-cutoff-new-business",
 "google-business-profile-ai-signal",
