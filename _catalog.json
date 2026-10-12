@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"case-studies-ai-citation-asset",
+"Case Studies Are Citation Assets: Writing the Proof AI Quotes Back",
+"Playbook",
+"2026-10-12"
+],
+[
+"ai-visibility-without-a-website",
+"AI Visibility When You Barely Have a Website",
+"Strategy",
+"2026-10-12"
+],
+[
 "ai-confidence-why-ai-hedges",
 "Why AI Hedges on Some Businesses and Commits Hard to Others",
 "How AI Works",
@@ -1094,6 +1106,8 @@
 ]
 ],
 "live": [
+"case-studies-ai-citation-asset",
+"ai-visibility-without-a-website",
 "ai-confidence-why-ai-hedges",
 "social-profiles-ai-authority-signal",
 "ai-crawler-server-logs",
