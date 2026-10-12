@@ -129,3 +129,14 @@ const STRIPE_PAYMENT_LINK = "";
     } else document.querySelector("#soon").hidden = false;
   });
 })();
+(function () {
+  const b = document.querySelector(".hero-snd"), v = document.querySelector(".hero-vid");
+  if (!b || !v) return;
+  b.addEventListener("click", () => {
+    const on = v.muted;
+    v.muted = !on;
+    b.textContent = on ? "Sound on" : "Sound off";
+    b.setAttribute("aria-pressed", on ? "true" : "false");
+    if (on) { v.currentTime = 0; v.play().catch(() => {}); }
+  });
+})();
