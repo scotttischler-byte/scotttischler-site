@@ -83,3 +83,30 @@ const CONTACT_EMAIL = "hello@diamondlocs.com";
     });
   }
 })();
+
+/* Lookbook films: play when visible, muted by default, sound on request */
+(function () {
+  const boxes = document.querySelectorAll(".reelbox");
+  if (!boxes.length) return;
+  const calm = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const vids = [];
+  boxes.forEach((box) => {
+    const v = box.querySelector("video");
+    const b = box.querySelector(".snd");
+    vids.push(v);
+    if (calm) { v.controls = true; if (b) b.remove(); return; }
+    if (b) b.addEventListener("click", () => {
+      const on = v.muted;
+      vids.forEach((o) => { if (o !== v) { o.muted = true; const ob = o.parentElement.querySelector(".snd"); if (ob) { ob.textContent = "Sound off"; ob.setAttribute("aria-pressed", "false"); } } });
+      v.muted = !on;
+      b.textContent = on ? "Sound on" : "Sound off";
+      b.setAttribute("aria-pressed", on ? "true" : "false");
+      if (on) v.play().catch(() => {});
+    });
+    if ("IntersectionObserver" in window) {
+      new IntersectionObserver((es) => es.forEach((e) => {
+        if (e.isIntersecting) v.play().catch(() => {}); else v.pause();
+      }), { threshold: 0.4 }).observe(box);
+    } else v.play().catch(() => {});
+  });
+})();
