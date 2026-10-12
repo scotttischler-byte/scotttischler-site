@@ -229,3 +229,4 @@ footer{border-top:1px solid var(--line);padding:80px 0 40px;background:var(--ink
 .payrow{display:grid;gap:14px;justify-items:start}
 
 .reels .reel.wide{grid-column:1/-1;max-width:1040px;margin-inline:auto;width:100%}
+.hero-vid{transform:none;animation:none;object-position:50% 40%}
