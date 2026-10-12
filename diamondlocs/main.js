@@ -2,6 +2,8 @@
 
 // Where inquiries are sent. CHANGE THIS to the business inbox before launch.
 const CONTACT_EMAIL = "hello@diamondlocs.com";
+// Stripe Payment Link for the pre-order deposit (https://buy.stripe.com/...). Leave "" until the link exists.
+const STRIPE_PAYMENT_LINK = "";
 
 (function () {
   const nav = document.querySelector(".nav");
@@ -108,5 +110,22 @@ const CONTACT_EMAIL = "hello@diamondlocs.com";
         if (e.isIntersecting) v.play().catch(() => {}); else v.pause();
       }), { threshold: 0.4 }).observe(box);
     } else v.play().catch(() => {});
+  });
+})();
+
+/* Pre-order: prepares the order email, then reveals the Stripe deposit button */
+(function () {
+  const f = document.querySelector("#preorder");
+  if (!f) return;
+  f.addEventListener("submit", (e) => {
+    e.preventDefault();
+    const d = new FormData(f);
+    const body = `PRE-ORDER\nName: ${d.get("name")}\nEmail: ${d.get("email")}\nPhone: ${d.get("phone") || "-"}\n` +
+      `Piece: ${d.get("piece")}\nQuantity: ${d.get("qty")}\nBirth month / stone: ${d.get("stone") || "-"}\n\n${d.get("notes") || ""}`;
+    window.location.href = `mailto:${CONTACT_EMAIL}?subject=${encodeURIComponent("Pre-order — " + d.get("piece"))}&body=${encodeURIComponent(body)}`;
+    if (STRIPE_PAYMENT_LINK) {
+      document.querySelector("#paylink").href = STRIPE_PAYMENT_LINK;
+      document.querySelector("#pay").hidden = false;
+    } else document.querySelector("#soon").hidden = false;
   });
 })();

@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Pre-Order — Diamond Locs</title>
+<meta name="description" content="Pre-order the Gem-Loc and secure your place in the first production run.">
+<link rel="canonical" href="https://diamondlocs.com/preorder.html">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Pre-Order — Diamond Locs">
+<meta property="og:description" content="Pre-order the Gem-Loc and secure your place in the first production run.">
+<meta property="og:image" content="https://diamondlocs.com/img/gem-loc-rose.jpg">
+<meta name="theme-color" content="#0c0b0d">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&family=Jost:wght@300;400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+<header class="nav"><div class="wrap nav-in">
+  <a class="brand" href="index.html" aria-label="Diamond Locs home">Diamond <b>Locs</b></a>
+  <button class="burger" aria-label="Menu" aria-expanded="false"><span></span><span></span></button>
+  <nav class="links" aria-label="Main"><a href="collection.html">Collection</a><a href="lookbook.html">Lookbook</a><a href="craft.html">Craft</a><a href="bespoke.html">Bespoke</a><a href="team.html">The Team</a><a href="preorder.html" aria-current=page>Pre-Order</a><a href="contact.html">Contact</a></nav>
+</div></header>
+<main>
+
+<section class="page-head"><div class="wrap rv">
+  <span class="eyebrow">Pre-Order</span>
+  <h1>Reserve your <em>Gem-Loc</em></h1>
+  <p>Choose your piece and stone, then secure your place in the first production run with a deposit.</p>
+</div></section>
+<section><div class="narrow rv">
+  <form id="preorder">
+    <div class="two">
+      <div class="field"><label for="po-name">Name</label><input id="po-name" name="name" required autocomplete="name"></div>
+      <div class="field"><label for="po-email">Email</label><input id="po-email" name="email" type="email" required autocomplete="email"></div>
+    </div>
+    <div class="two">
+      <div class="field"><label for="po-piece">Piece</label>
+        <select id="po-piece" name="piece"><option>Signature Gem-Loc, Diamond</option><option>Signature Gem-Loc, Rose</option><option>Papillon butterfly, Rose</option><option>Papillon butterfly, Diamond</option><option>Féerie fairy, Butterfly</option><option>Féerie fairy, Bloom</option><option>Companion, Rose</option><option>Companion, Noir</option><option>Bespoke commission</option></select></div>
+      <div class="field"><label for="po-qty">Quantity</label><input id="po-qty" name="qty" type="number" min="1" max="20" value="1" required></div>
+    </div>
+    <div class="two">
+      <div class="field"><label for="po-stone">Birth month or stone</label><input id="po-stone" name="stone" placeholder="e.g. April, diamond"></div>
+      <div class="field"><label for="po-phone">Phone (optional)</label><input id="po-phone" name="phone" type="tel" autocomplete="tel"></div>
+    </div>
+    <div class="field"><label for="po-notes">Notes</label><textarea id="po-notes" name="notes" placeholder="Loc width, metal preference, occasion"></textarea></div>
+    <div><button class="btn solid" type="submit">Continue to deposit</button></div>
+    <p class="fine">Step 1 prepares your pre-order email. Step 2 is payment through Stripe, where your card details are entered on Stripe’s own secure page. Diamond Locs never sees or stores them.</p>
+    <div id="pay" hidden class="payrow">
+      <p class="fine" style="color:var(--gold-2)">Send the email that just opened, then complete your deposit.</p>
+      <a id="paylink" class="btn solid" href="#" target="_blank" rel="noopener">Pay deposit with Stripe</a>
+    </div>
+    <p id="soon" class="fine" hidden style="color:var(--gold-2)">Secure online deposits open very soon. Your pre-order email will reserve your place until then.</p>
+  </form>
+</div></section>
+
+</main>
+<footer><div class="wrap">
+  <div class="foot">
+    <div>
+      <a class="brand" href="index.html">Diamond <b>Locs</b></a>
+      <p class="muted" style="max-width:26rem">Fine jewelry for the loc. Designed and made by a jeweler of thirty years.</p>
+    </div>
+    <div><h4>Explore</h4><ul>
+      <li><a href="collection.html">The Collection</a></li>
+      <li><a href="lookbook.html">Lookbook</a></li>
+      <li><a href="craft.html">The Craft</a></li>
+      <li><a href="bespoke.html">Bespoke &amp; Birthstones</a></li>
+      <li><a href="about.html">The Maker</a></li>
+      <li><a href="team.html">The Team</a></li>
+      <li><a href="preorder.html">Pre-Order</a></li></ul></div>
+    <div><h4>Contact</h4><ul>
+      <li><a href="contact.html">Private inquiries</a></li>
+      <li><a href="contact.html#appointments">Appointments</a></li></ul></div>
+  </div>
+  <div class="legal"><span>© 2026 Diamond Locs. All rights reserved.</span>
+  <span>Diamond Locs™ and Gem-Loc™ are trademarks of Diamond Locs.</span></div>
+</div></footer>
+<script src="main.js"></script>
+</body>
+</html>
