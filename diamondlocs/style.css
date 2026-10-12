@@ -208,3 +208,10 @@ footer{border-top:1px solid var(--line);padding:80px 0 40px;background:var(--ink
 .vidlink{position:relative;display:block}
 .vidlink .play{position:absolute;left:50%;top:50%;width:72px;height:72px;margin:-36px 0 0 -36px;border:1px solid var(--gold-2);border-radius:50%;background:rgba(12,11,13,.45);backdrop-filter:blur(6px)}
 .vidlink .play::after{content:"";position:absolute;left:29px;top:22px;border-left:18px solid var(--ivory);border-top:14px solid transparent;border-bottom:14px solid transparent}
+
+/* portraits */
+.faces{display:grid;grid-template-columns:repeat(3,1fr);gap:clamp(12px,2vw,26px);max-width:1040px;margin:0 auto}
+.face{overflow:hidden;background:var(--ink-2)}
+.face img{width:100%;aspect-ratio:560/752;object-fit:cover;transition:transform 1.4s var(--ease)}
+.face:hover img{transform:scale(1.04)}
+@media(max-width:640px){.faces{grid-template-columns:repeat(2,1fr)}}
