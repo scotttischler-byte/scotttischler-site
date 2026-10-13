@@ -1,6 +1,7 @@
 /* NBA Hardwood Dog Tags — site behavior. No trackers, no cookies, no third-party scripts. */
 const FALLBACK_EMAIL = "scott.tischler@gmail.com"; // reservations open the visitor's own email app until a form endpoint exists
 const FORM_ENDPOINT = ""; // optional: a Cloudflare Worker URL that accepts JSON reservations
+const DEPOSIT_LINK = ""; // paste the payment link for the optional waitlist deposit here (e.g. a Stripe Payment Link)
 const KICKSTARTER_URL = ""; // paste the live campaign link here when published
 
 (function () {
@@ -70,11 +71,12 @@ const KICKSTARTER_URL = ""; // paste the live campaign link here when published
       e.preventDefault();
       if (!cart.length) { const t = T.find((x) => x[1] === sel.value); cart.push({ k: t[1] + fsel.value, team: t[0], fin: FIN[fsel.value], q: qty }); render(); }
       const d = new FormData(f), lines = cart.map((c) => `${c.q} x ${c.team} — ${c.fin}`).join("\n");
-      const body = `Name: ${d.get("first")} ${d.get("last")}\nEmail: ${d.get("email")}\nMobile: ${d.get("phone") || "-"}\n\nReservation (no payment taken):\n${lines}`;
+      const body = `Name: ${d.get("first")} ${d.get("last")}\nEmail: ${d.get("email")}\nMobile: ${d.get("phone") || "-"}\n\nKickstarter waitlist request (no payment taken):\n${lines}`;
       const ok = document.getElementById("sent");
-      if (FORM_ENDPOINT) { try { await fetch(FORM_ENDPOINT, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ first: d.get("first"), last: d.get("last"), email: d.get("email"), phone: d.get("phone"), cart }) }); ok.hidden = false; return; } catch (_) {} }
-      window.location.href = `mailto:${FALLBACK_EMAIL}?subject=${encodeURIComponent("NBA Hardwood Dog Tags reservation")}&body=${encodeURIComponent(body)}`;
-      ok.hidden = false;
+      const showDep = () => { ok.hidden = false; if (DEPOSIT_LINK) { const dl = document.getElementById("deplink"); dl.href = DEPOSIT_LINK; document.getElementById("dep").hidden = false; } else { document.getElementById("depsoon").hidden = false; } };
+      if (FORM_ENDPOINT) { try { await fetch(FORM_ENDPOINT, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ first: d.get("first"), last: d.get("last"), email: d.get("email"), phone: d.get("phone"), cart }) }); showDep(); return; } catch (_) {} }
+      window.location.href = `mailto:${FALLBACK_EMAIL}?subject=${encodeURIComponent("NBA Hardwood Dog Tags waitlist")}&body=${encodeURIComponent(body)}`;
+      showDep();
     });
     render();
   }
