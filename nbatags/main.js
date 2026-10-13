@@ -27,7 +27,7 @@ const KICKSTARTER_URL = ""; // paste the live campaign link here when published
       const ok = (conf === "all" || c.dataset.conf === conf) && (!q || c.dataset.name.includes(q));
       c.classList.toggle("hide", !ok);
       const img = c.querySelector("img"); const want = c.dataset.img + "-" + fin + ".jpg";
-      if (!img.getAttribute("src").endsWith(want)) img.src = "img/renders/" + want;
+      if (!img.getAttribute("src").split("?")[0].endsWith(want)) img.src = "img/renders/" + want + "?v=2";
       c.href = "preorder.html?team=" + c.dataset.slug + "&finish=" + fin;
       c.querySelector("span").textContent = fin === "gold" ? "24K Gold" : fin[0].toUpperCase() + fin.slice(1);
     });
@@ -57,7 +57,7 @@ const KICKSTARTER_URL = ""; // paste the live campaign link here when published
     let qty = 1; const cart = [];
     const img = document.getElementById("rimg"), qn = document.getElementById("qty"), list = document.getElementById("cart"), tot = document.getElementById("tot");
     const render = () => {
-      const t = T.find((x) => x[1] === sel.value); img.src = "img/renders/" + t[1] + "-" + fsel.value + ".jpg"; img.alt = t[0] + " — " + FIN[fsel.value] + " (concept render)"; qn.textContent = qty;
+      const t = T.find((x) => x[1] === sel.value); img.src = "img/renders/" + t[1] + "-" + fsel.value + ".jpg?v=2"; img.alt = t[0] + " — " + FIN[fsel.value] + " (concept render)"; qn.textContent = qty;
       list.innerHTML = cart.map((c, i) => `<li><span>${c.q} × ${c.team} — ${c.fin}</span><button type="button" data-i="${i}" aria-label="Remove">✕</button></li>`).join("");
       tot.textContent = cart.reduce((a, c) => a + c.q, 0);
     };
