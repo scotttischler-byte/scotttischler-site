@@ -15,7 +15,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&family=Jost:wght@300;400&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css?v=3">
+<link rel="stylesheet" href="style.css?v=4">
 
 </head>
 <body>
@@ -27,12 +27,22 @@
 <main>
 
 <section class="page-head"><div class="wrap"><span class="eyebrow">Kickstarter waitlist · limited first run</span><h1>Join the <em>waitlist</em></h1><p>The first run is cut from a single court panel. Pick your team and finish, join the list, and we email you before the Kickstarter opens to the public. A deposit is optional and moves you up the line.</p></div></section>
+<section style="padding-top:10px"><div class="wrap">
+  <div class="steps rv">
+    <div class="step"><span class="eyebrow">01</span><h3>First in line</h3><p class="muted">Waitlist members are emailed before the Kickstarter opens to the public.</p></div>
+    <div class="step"><span class="eyebrow">02</span><h3>Your team, your finish</h3><p class="muted">Tell us the teams you want now so we know what to make. Silver, black or 24K gold.</p></div>
+    <div class="step"><span class="eyebrow">03</span><h3>Real court maple</h3><p class="muted">The first run is cut from one NBA court panel. When it is gone, that run is over.</p></div>
+    <div class="step"><span class="eyebrow">04</span><h3>Priority deposit</h3><p class="muted">Add a $25 deposit and you are offered the early tags first. Refundable until the Kickstarter opens.</p></div>
+  </div>
+  <p class="center rv" style="margin-top:34px"><a class="btn solid" href="https://buy.stripe.com/4gMbJ1c450NL8J5aWr1ck0m" rel="noopener" id="depnow">Hold my place · $25 deposit</a></p>
+  <p class="fine center">Secure checkout by Stripe. Prefer to wait? Join the free waitlist below.</p>
+</div></section>
 <section style="padding-top:40px"><div class="wrap prev">
-  <div class="rv"><img id="rimg" src="img/renders/los-angeles-lakers-gold.jpg?v=2" alt="Selected tag, concept render"><p class="fine" style="margin-top:12px">Concept render. Approved team artwork is applied before production.</p></div>
+  <div class="rv"><img id="rimg" data-static="1" src="img/tags-table.jpg" alt="Gold, black and silver NBA hardwood dog tags with maple hardwood backs" style="width:100%;height:auto"><p class="fine" style="margin-top:12px">Real photo of our tags. Your team and finish are confirmed when the Kickstarter opens.</p></div>
   <form id="reserve" class="rv d1">
     <div class="field"><label for="team">1 · Team</label><select id="team"></select></div>
     <div class="field"><label for="finish">2 · Finish</label><select id="finish"><option value="gold">24K Gold</option><option value="silver">Silver</option><option value="black">Black</option></select></div>
-    <div class="field"><label>3 · How many</label><div class="qty"><button type="button" id="minus" aria-label="Fewer">−</button><b id="qty">1</b><button type="button" id="plus" aria-label="More">+</button><button type="button" class="btn" id="add">Add to my reservation</button></div></div>
+    <div class="field"><label>3 · How many</label><div class="qty"><button type="button" id="minus" aria-label="Fewer">−</button><b id="qty">1</b><button type="button" id="plus" aria-label="More">+</button><button type="button" class="btn" id="add">Add to my list</button></div></div>
     <ul class="cart" id="cart"></ul>
     <div class="field"><label for="first">4 · Your details</label><input id="first" name="first" placeholder="First name" required autocomplete="given-name"></div>
     <div class="field"><input id="last" name="last" placeholder="Last name" required autocomplete="family-name"></div>
@@ -60,6 +70,6 @@
   <div class="legal"><span>© 2024 NBA Properties Inc. All rights reserved.</span>
   <span>Team names and marks belong to their owners. Images marked concept render are illustrations; approved team artwork is applied before production. Reservations are not purchases.</span></div>
 </div></footer>
-<script src="main.js?v=3"></script>
+<script src="main.js?v=4"></script>
 </body>
 </html>

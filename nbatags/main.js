@@ -1,7 +1,7 @@
 /* NBA Hardwood Dog Tags — site behavior. No trackers, no cookies, no third-party scripts. */
 const FALLBACK_EMAIL = "scott.tischler@gmail.com"; // reservations open the visitor's own email app until a form endpoint exists
 const FORM_ENDPOINT = ""; // optional: a Cloudflare Worker URL that accepts JSON reservations
-const DEPOSIT_LINK = ""; // paste the payment link for the optional waitlist deposit here (e.g. a Stripe Payment Link)
+const DEPOSIT_LINK = "https://buy.stripe.com/4gMbJ1c450NL8J5aWr1ck0m"; // paste the payment link for the optional waitlist deposit here (e.g. a Stripe Payment Link)
 const KICKSTARTER_URL = ""; // paste the live campaign link here when published
 
 (function () {
@@ -58,7 +58,7 @@ const KICKSTARTER_URL = ""; // paste the live campaign link here when published
     let qty = 1; const cart = [];
     const img = document.getElementById("rimg"), qn = document.getElementById("qty"), list = document.getElementById("cart"), tot = document.getElementById("tot");
     const render = () => {
-      const t = T.find((x) => x[1] === sel.value); img.src = "img/renders/" + t[1] + "-" + fsel.value + ".jpg?v=2"; img.alt = t[0] + " — " + FIN[fsel.value] + " (concept render)"; qn.textContent = qty;
+      const t = T.find((x) => x[1] === sel.value); if (!img.dataset.static) { img.src = "img/renders/" + t[1] + "-" + fsel.value + ".jpg?v=2"; img.alt = t[0] + " — " + FIN[fsel.value] + " (concept render)"; } qn.textContent = qty;
       list.innerHTML = cart.map((c, i) => `<li><span>${c.q} × ${c.team} — ${c.fin}</span><button type="button" data-i="${i}" aria-label="Remove">✕</button></li>`).join("");
       tot.textContent = cart.reduce((a, c) => a + c.q, 0);
     };
