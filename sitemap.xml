@@ -14,6 +14,31 @@
   </url>
 
   <url>
+    <loc>https://scotttischler.com/articles/how-ai-chunks-your-content.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://scotttischler.com/articles/pdf/how-ai-chunks-your-content.pdf</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://scotttischler.com/articles/ai-verification-query-is-this-legit.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://scotttischler.com/articles/pdf/ai-verification-query-is-this-legit.pdf</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
     <loc>https://scotttischler.com/articles/case-studies-ai-citation-asset.html</loc>
     <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>

@@ -8,6 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Jul 2026 09:00:00 +0000</lastBuildDate>
     <item>
+      <title>How AI Chunks Your Content — and Why It Only Ever Quotes One Passage</title>
+      <link>https://scotttischler.com/articles/how-ai-chunks-your-content.html</link>
+      <guid>https://scotttischler.com/articles/how-ai-chunks-your-content.html</guid>
+      <category>How AI Works</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Tue, 13 Oct 2026 09:00:00 +0000</pubDate>
+      <description>Answer engines break your page into small passages, embed each one, and retrieve the single chunk that best matches the question. The unit that gets cited isn&#x27;t your article — it&#x27;s one paragraph of it. Here&#x27;s how chunking actually works, why your best sentence often loses to a worse one, and how to write passages that win retrieval.</description>
+    </item>
+    <item>
+      <title>When Someone Asks AI &#x27;Is This Business Legit?&#x27; — Winning the Verification Query</title>
+      <link>https://scotttischler.com/articles/ai-verification-query-is-this-legit.html</link>
+      <guid>https://scotttischler.com/articles/ai-verification-query-is-this-legit.html</guid>
+      <category>Strategy</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Tue, 13 Oct 2026 09:00:00 +0000</pubDate>
+      <description>There&#x27;s a query type that doesn&#x27;t try to discover you — it tries to vet you. A buyer already has your name and asks AI whether you&#x27;re legitimate, whether your reviews are real, whether you&#x27;re a scam. Losing it quietly kills deals you thought you&#x27;d already won. Here&#x27;s what answer engines check when asked if a business is trustworthy, how a &#x27;be careful&#x27; answer gets generated, and how to make sure you pass the background check.</description>
+    </item>
+    <item>
       <title>Case Studies Are Citation Assets: Writing the Proof AI Quotes Back</title>
       <link>https://scotttischler.com/articles/case-studies-ai-citation-asset.html</link>
       <guid>https://scotttischler.com/articles/case-studies-ai-citation-asset.html</guid>

@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"how-ai-chunks-your-content",
+"How AI Chunks Your Content \u2014 and Why It Only Ever Quotes One Passage",
+"How AI Works",
+"2026-10-13"
+],
+[
+"ai-verification-query-is-this-legit",
+"When Someone Asks AI 'Is This Business Legit?' \u2014 Winning the Verification Query",
+"Strategy",
+"2026-10-13"
+],
+[
 "case-studies-ai-citation-asset",
 "Case Studies Are Citation Assets: Writing the Proof AI Quotes Back",
 "Playbook",
@@ -1106,6 +1118,8 @@
 ]
 ],
 "live": [
+"how-ai-chunks-your-content",
+"ai-verification-query-is-this-legit",
 "case-studies-ai-citation-asset",
 "ai-visibility-without-a-website",
 "ai-confidence-why-ai-hedges",
