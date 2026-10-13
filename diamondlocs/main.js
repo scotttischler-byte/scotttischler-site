@@ -3,7 +3,7 @@
 // Where inquiries are sent. CHANGE THIS to the business inbox before launch.
 const CONTACT_EMAIL = "hello@diamondlocs.com";
 // Stripe Payment Link for the pre-order deposit (https://buy.stripe.com/...). Leave "" until the link exists.
-const STRIPE_PAYMENT_LINK = "";
+const STRIPE_PAYMENT_LINK = "https://buy.stripe.com/eVqaEXfgh3ZX6AXfcH1ck0n";
 
 (function () {
   const nav = document.querySelector(".nav");
@@ -120,9 +120,9 @@ const STRIPE_PAYMENT_LINK = "";
   f.addEventListener("submit", (e) => {
     e.preventDefault();
     const d = new FormData(f);
-    const body = `PRE-ORDER\nName: ${d.get("name")}\nEmail: ${d.get("email")}\nPhone: ${d.get("phone") || "-"}\n` +
+    const body = `WAITLIST\nName: ${d.get("name")}\nEmail: ${d.get("email")}\nPhone: ${d.get("phone") || "-"}\n` +
       `Piece: ${d.get("piece")}\nQuantity: ${d.get("qty")}\nBirth month / stone: ${d.get("stone") || "-"}\n\n${d.get("notes") || ""}`;
-    window.location.href = `mailto:${CONTACT_EMAIL}?subject=${encodeURIComponent("Pre-order — " + d.get("piece"))}&body=${encodeURIComponent(body)}`;
+    window.location.href = `mailto:${CONTACT_EMAIL}?subject=${encodeURIComponent("Waitlist — " + d.get("piece"))}&body=${encodeURIComponent(body)}`;
     if (STRIPE_PAYMENT_LINK) {
       document.querySelector("#paylink").href = STRIPE_PAYMENT_LINK;
       document.querySelector("#pay").hidden = false;
