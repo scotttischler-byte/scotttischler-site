@@ -8,6 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Jul 2026 09:00:00 +0000</lastBuildDate>
     <item>
+      <title>How Reasoning Models Decide Who to Cite</title>
+      <link>https://scotttischler.com/articles/reasoning-models-ai-citations.html</link>
+      <guid>https://scotttischler.com/articles/reasoning-models-ai-citations.html</guid>
+      <category>How AI Works</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Wed, 14 Oct 2026 09:00:00 +0000</pubDate>
+      <description>Reasoning models deliberate before they answer, and that extra step changes which sources make it into the final citation. What it rewards, and how to earn it.</description>
+    </item>
+    <item>
+      <title>Topical Authority: Why Going Deep on One Subject Beats Being Everywhere</title>
+      <link>https://scotttischler.com/articles/topical-authority-ai-citations.html</link>
+      <guid>https://scotttischler.com/articles/topical-authority-ai-citations.html</guid>
+      <category>Strategy</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Wed, 14 Oct 2026 09:00:00 +0000</pubDate>
+      <description>Answer engines cite the source they read as the authority on a specific topic. Why going deep on one subject beats spreading thin, and how to build the depth that earns citations.</description>
+    </item>
+    <item>
       <title>How AI Chunks Your Content — and Why It Only Ever Quotes One Passage</title>
       <link>https://scotttischler.com/articles/how-ai-chunks-your-content.html</link>
       <guid>https://scotttischler.com/articles/how-ai-chunks-your-content.html</guid>
