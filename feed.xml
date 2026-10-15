@@ -8,6 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Jul 2026 09:00:00 +0000</lastBuildDate>
     <item>
+      <title>When Someone Asks AI &#x27;How Much Does This Cost?&#x27; — Winning the Pricing Query</title>
+      <link>https://scotttischler.com/articles/ai-answers-pricing-questions.html</link>
+      <guid>https://scotttischler.com/articles/ai-answers-pricing-questions.html</guid>
+      <category>Strategy</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 09:00:00 +0000</pubDate>
+      <description>Pricing is one of the first things buyers ask AI. If you stay silent, the model guesses or quotes a competitor. How to own the cost conversation.</description>
+    </item>
+    <item>
+      <title>Multi-Source Synthesis: What AI Does When It Blends Three Sources Into One Answer</title>
+      <link>https://scotttischler.com/articles/multi-source-synthesis-ai.html</link>
+      <guid>https://scotttischler.com/articles/multi-source-synthesis-ai.html</guid>
+      <category>How AI Works</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 09:00:00 +0000</pubDate>
+      <description>AI answers rarely come from one page. The model stitches several sources into a single response — and where you land in that blend decides whether you&#x27;re the voice or the footnote.</description>
+    </item>
+    <item>
       <title>How Reasoning Models Decide Who to Cite</title>
       <link>https://scotttischler.com/articles/reasoning-models-ai-citations.html</link>
       <guid>https://scotttischler.com/articles/reasoning-models-ai-citations.html</guid>

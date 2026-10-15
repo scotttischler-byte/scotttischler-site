@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"ai-answers-pricing-questions",
+"When Someone Asks AI 'How Much Does This Cost?' \u2014 Winning the Pricing Query",
+"Strategy",
+"2026-10-15"
+],
+[
+"multi-source-synthesis-ai",
+"Multi-Source Synthesis: What AI Does When It Blends Three Sources Into One Answer",
+"How AI Works",
+"2026-10-15"
+],
+[
 "reasoning-models-ai-citations",
 "How Reasoning Models Decide Who to Cite",
 "How AI Works",
@@ -1130,6 +1142,8 @@
 ]
 ],
 "live": [
+"ai-answers-pricing-questions",
+"multi-source-synthesis-ai",
 "reasoning-models-ai-citations",
 "topical-authority-ai-citations",
 "how-ai-chunks-your-content",
