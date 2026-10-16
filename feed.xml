@@ -8,6 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Jul 2026 09:00:00 +0000</lastBuildDate>
     <item>
+      <title>When AI Thinks You&#x27;re Out of Business: The Stale-Signal Problem</title>
+      <link>https://scotttischler.com/articles/ai-thinks-youre-out-of-business.html</link>
+      <guid>https://scotttischler.com/articles/ai-thinks-youre-out-of-business.html</guid>
+      <category>Technical</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 09:00:00 +0000</pubDate>
+      <description>AI doesn&#x27;t just misquote businesses — sometimes it quietly treats them as closed or defunct. The stale signals that trip the wire, and how to clear them.</description>
+    </item>
+    <item>
+      <title>Why AI Recommends You to One Person and Not Another</title>
+      <link>https://scotttischler.com/articles/why-ai-answers-differ-between-users.html</link>
+      <guid>https://scotttischler.com/articles/why-ai-answers-differ-between-users.html</guid>
+      <category>How AI Works</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Fri, 16 Oct 2026 09:00:00 +0000</pubDate>
+      <description>Same prompt, different people, different recommendations. The real reasons AI answers vary between users — and how to test your visibility without fooling yourself.</description>
+    </item>
+    <item>
       <title>When Someone Asks AI &#x27;How Much Does This Cost?&#x27; — Winning the Pricing Query</title>
       <link>https://scotttischler.com/articles/ai-answers-pricing-questions.html</link>
       <guid>https://scotttischler.com/articles/ai-answers-pricing-questions.html</guid>

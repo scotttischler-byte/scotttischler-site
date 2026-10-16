@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"ai-thinks-youre-out-of-business",
+"When AI Thinks You're Out of Business: The Stale-Signal Problem",
+"Technical",
+"2026-10-16"
+],
+[
+"why-ai-answers-differ-between-users",
+"Why AI Recommends You to One Person and Not Another",
+"How AI Works",
+"2026-10-16"
+],
+[
 "ai-answers-pricing-questions",
 "When Someone Asks AI 'How Much Does This Cost?' \u2014 Winning the Pricing Query",
 "Strategy",
@@ -1142,6 +1154,8 @@
 ]
 ],
 "live": [
+"ai-thinks-youre-out-of-business",
+"why-ai-answers-differ-between-users",
 "ai-answers-pricing-questions",
 "multi-source-synthesis-ai",
 "reasoning-models-ai-citations",
