@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"is-it-worth-it-query-ai",
+"The \u201cIs It Worth It?\u201d Query: Winning the Value-Judgment Question in AI Answers",
+"Strategy",
+"2026-10-16"
+],
+[
+"zero-review-problem-ai-trust",
+"The Zero-Review Problem: Earning AI Trust Before the Reviews Arrive",
+"Entity Authority",
+"2026-10-16"
+],
+[
 "ai-thinks-youre-out-of-business",
 "When AI Thinks You're Out of Business: The Stale-Signal Problem",
 "Technical",
@@ -1154,6 +1166,8 @@
 ]
 ],
 "live": [
+"is-it-worth-it-query-ai",
+"zero-review-problem-ai-trust",
 "ai-thinks-youre-out-of-business",
 "why-ai-answers-differ-between-users",
 "ai-answers-pricing-questions",
