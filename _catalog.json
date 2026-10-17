@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"ai-answers-timeline-questions",
+"The \u201cHow Long Does It Take?\u201d Query: Winning the Timeline Question in AI Answers",
+"Strategy",
+"2026-10-17"
+],
+[
+"guarantees-warranties-ai-trust",
+"Your Guarantee Is a Trust Signal AI Can Read: Risk-Reversal and AI Recommendations",
+"Entity Authority",
+"2026-10-17"
+],
+[
 "is-it-worth-it-query-ai",
 "The \u201cIs It Worth It?\u201d Query: Winning the Value-Judgment Question in AI Answers",
 "Strategy",
@@ -1166,6 +1178,8 @@
 ]
 ],
 "live": [
+"ai-answers-timeline-questions",
+"guarantees-warranties-ai-trust",
 "is-it-worth-it-query-ai",
 "zero-review-problem-ai-trust",
 "ai-thinks-youre-out-of-business",
