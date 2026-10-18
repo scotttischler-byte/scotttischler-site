@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"invisible-sources-grounding-vs-citations",
+"The Citation You Can't See: How AI Uses Sources It Never Links",
+"How AI Works",
+"2026-10-18"
+],
+[
+"the-switching-query-ai-recommendations",
+"The Switching Query: How AI Answers \u201cShould I Leave My Current Provider?\u201d",
+"Strategy",
+"2026-10-18"
+],
+[
 "ai-answers-timeline-questions",
 "The \u201cHow Long Does It Take?\u201d Query: Winning the Timeline Question in AI Answers",
 "Strategy",
@@ -1178,6 +1190,8 @@
 ]
 ],
 "live": [
+"invisible-sources-grounding-vs-citations",
+"the-switching-query-ai-recommendations",
 "ai-answers-timeline-questions",
 "guarantees-warranties-ai-trust",
 "is-it-worth-it-query-ai",

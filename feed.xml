@@ -8,6 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Jul 2026 09:00:00 +0000</lastBuildDate>
     <item>
+      <title>The Citation You Can&#x27;t See: How AI Uses Sources It Never Links</title>
+      <link>https://scotttischler.com/articles/invisible-sources-grounding-vs-citations.html</link>
+      <guid>https://scotttischler.com/articles/invisible-sources-grounding-vs-citations.html</guid>
+      <category>How AI Works</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Sun, 18 Oct 2026 09:00:00 +0000</pubDate>
+      <description>There are two layers to every AI answer: the sources it read (grounding) and the few it displays (citations). You can move an answer without ever getting linked. Here&#x27;s how that works and what to optimize for.</description>
+    </item>
+    <item>
+      <title>The Switching Query: How AI Answers “Should I Leave My Current Provider?”</title>
+      <link>https://scotttischler.com/articles/the-switching-query-ai-recommendations.html</link>
+      <guid>https://scotttischler.com/articles/the-switching-query-ai-recommendations.html</guid>
+      <category>Strategy</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Sun, 18 Oct 2026 09:00:00 +0000</pubDate>
+      <description>The switching query comes from someone already committed to an incumbent, asking if leaving is worth the pain. AI treats it as risk, not features. Here&#x27;s how to win it from either side.</description>
+    </item>
+    <item>
       <title>The “How Long Does It Take?” Query: Winning the Timeline Question in AI Answers</title>
       <link>https://scotttischler.com/articles/ai-answers-timeline-questions.html</link>
       <guid>https://scotttischler.com/articles/ai-answers-timeline-questions.html</guid>
