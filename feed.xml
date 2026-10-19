@@ -8,6 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Jul 2026 09:00:00 +0000</lastBuildDate>
     <item>
+      <title>When the Web Says Two Different Things About You: How AI Resolves Conflicting Facts</title>
+      <link>https://scotttischler.com/articles/how-ai-resolves-conflicting-facts.html</link>
+      <guid>https://scotttischler.com/articles/how-ai-resolves-conflicting-facts.html</guid>
+      <category>Entity Authority</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 19 Oct 2026 09:00:00 +0000</pubDate>
+      <description>Your site, your LinkedIn, an old directory and a stale press hit rarely agree. When AI finds conflicting facts about you, it hedges or picks wrong. How to collapse the conflict.</description>
+    </item>
+    <item>
+      <title>Why AI Names Three and Stops: How the Recommendation Shortlist Gets Built</title>
+      <link>https://scotttischler.com/articles/why-ai-picks-a-shortlist-of-three.html</link>
+      <guid>https://scotttischler.com/articles/why-ai-picks-a-shortlist-of-three.html</guid>
+      <category>How AI Works</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Mon, 19 Oct 2026 09:00:00 +0000</pubDate>
+      <description>Ask AI for a recommendation and you usually get two to four names, not twenty. Understanding how the model makes that cut tells you exactly what it takes to be in the set.</description>
+    </item>
+    <item>
       <title>The Citation You Can&#x27;t See: How AI Uses Sources It Never Links</title>
       <link>https://scotttischler.com/articles/invisible-sources-grounding-vs-citations.html</link>
       <guid>https://scotttischler.com/articles/invisible-sources-grounding-vs-citations.html</guid>

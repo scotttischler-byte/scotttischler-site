@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"how-ai-resolves-conflicting-facts",
+"When the Web Says Two Different Things About You: How AI Resolves Conflicting Facts",
+"Entity Authority",
+"2026-10-19"
+],
+[
+"why-ai-picks-a-shortlist-of-three",
+"Why AI Names Three and Stops: How the Recommendation Shortlist Gets Built",
+"How AI Works",
+"2026-10-19"
+],
+[
 "invisible-sources-grounding-vs-citations",
 "The Citation You Can't See: How AI Uses Sources It Never Links",
 "How AI Works",
@@ -1190,6 +1202,8 @@
 ]
 ],
 "live": [
+"how-ai-resolves-conflicting-facts",
+"why-ai-picks-a-shortlist-of-three",
 "invisible-sources-grounding-vs-citations",
 "the-switching-query-ai-recommendations",
 "ai-answers-timeline-questions",
