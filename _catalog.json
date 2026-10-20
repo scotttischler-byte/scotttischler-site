@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"ai-answers-how-do-i-queries",
+"The \u201cHow Do I\u201d Query: Becoming the Process AI Walks People Through",
+"Strategy",
+"2026-10-20"
+],
+[
+"newsletters-substack-ai-citations",
+"Your Newsletter Is a Citation Source: How Substack and Email Archives Feed AI Answers",
+"Playbook",
+"2026-10-20"
+],
+[
 "how-ai-resolves-conflicting-facts",
 "When the Web Says Two Different Things About You: How AI Resolves Conflicting Facts",
 "Entity Authority",
@@ -1202,6 +1214,8 @@
 ]
 ],
 "live": [
+"ai-answers-how-do-i-queries",
+"newsletters-substack-ai-citations",
 "how-ai-resolves-conflicting-facts",
 "why-ai-picks-a-shortlist-of-three",
 "invisible-sources-grounding-vs-citations",
