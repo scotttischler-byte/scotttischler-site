@@ -8,6 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Jul 2026 09:00:00 +0000</lastBuildDate>
     <item>
+      <title>The Aggregator Layer: How Third-Party Databases Quietly Feed AI What It Knows About You</title>
+      <link>https://scotttischler.com/articles/aggregator-layer-ai-data.html</link>
+      <guid>https://scotttischler.com/articles/aggregator-layer-ai-data.html</guid>
+      <category>Entity Authority</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
+      <description>Most of what AI knows about your business comes from third-party databases and directories, not your site. How to find and fix that invisible layer.</description>
+    </item>
+    <item>
+      <title>The Attribution Problem: When AI Credits Your Work to Someone More Famous</title>
+      <link>https://scotttischler.com/articles/ai-attributes-your-work-to-someone-else.html</link>
+      <guid>https://scotttischler.com/articles/ai-attributes-your-work-to-someone-else.html</guid>
+      <category>How AI Works</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
+      <description>You originated the idea, but AI credits a more famous name. Why models collapse credit toward prominence, and how to keep your name attached to your own work.</description>
+    </item>
+    <item>
       <title>The “How Do I” Query: Becoming the Process AI Walks People Through</title>
       <link>https://scotttischler.com/articles/ai-answers-how-do-i-queries.html</link>
       <guid>https://scotttischler.com/articles/ai-answers-how-do-i-queries.html</guid>

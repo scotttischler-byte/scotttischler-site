@@ -14,6 +14,31 @@
   </url>
 
   <url>
+    <loc>https://scotttischler.com/articles/aggregator-layer-ai-data.html</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://scotttischler.com/articles/pdf/aggregator-layer-ai-data.pdf</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://scotttischler.com/articles/ai-attributes-your-work-to-someone-else.html</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://scotttischler.com/articles/pdf/ai-attributes-your-work-to-someone-else.pdf</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
     <loc>https://scotttischler.com/articles/ai-answers-how-do-i-queries.html</loc>
     <lastmod>2026-10-20</lastmod>
     <changefreq>monthly</changefreq>

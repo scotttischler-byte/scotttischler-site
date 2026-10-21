@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"aggregator-layer-ai-data",
+"The Aggregator Layer: How Third-Party Databases Quietly Feed AI What It Knows About You",
+"Entity Authority",
+"2026-10-21"
+],
+[
+"ai-attributes-your-work-to-someone-else",
+"The Attribution Problem: When AI Credits Your Work to Someone More Famous",
+"How AI Works",
+"2026-10-21"
+],
+[
 "ai-answers-how-do-i-queries",
 "The \u201cHow Do I\u201d Query: Becoming the Process AI Walks People Through",
 "Strategy",
@@ -1214,6 +1226,8 @@
 ]
 ],
 "live": [
+"aggregator-layer-ai-data",
+"ai-attributes-your-work-to-someone-else",
 "ai-answers-how-do-i-queries",
 "newsletters-substack-ai-citations",
 "how-ai-resolves-conflicting-facts",
