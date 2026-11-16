@@ -1,6 +1,12 @@
 {
 "catalog": [
 [
+"help-center-documentation-ai-citations",
+"Your Help Center Is an Answer Source: Writing Support Docs AI Can Quote",
+"Playbook",
+"2026-11-16"
+],
+[
 "aggregator-layer-ai-data",
 "The Aggregator Layer: How Third-Party Databases Quietly Feed AI What It Knows About You",
 "Entity Authority",
@@ -1226,6 +1232,7 @@
 ]
 ],
 "live": [
+"help-center-documentation-ai-citations",
 "aggregator-layer-ai-data",
 "ai-attributes-your-work-to-someone-else",
 "ai-answers-how-do-i-queries",
