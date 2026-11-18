@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"charts-infographics-ai-citations",
+"What AI Does With Your Charts: Turning Infographics and Data Visuals Into Answer Sources",
+"Playbook",
+"2026-11-18"
+],
+[
+"the-downsides-query-ai",
+"The Downsides Query: How AI Answers \u201cWhat Are the Cons of Working With You?\u201d",
+"Strategy",
+"2026-11-18"
+],
+[
 "help-center-documentation-ai-citations",
 "Your Help Center Is an Answer Source: Writing Support Docs AI Can Quote",
 "Playbook",
@@ -1232,6 +1244,8 @@
 ]
 ],
 "live": [
+"charts-infographics-ai-citations",
+"the-downsides-query-ai",
 "help-center-documentation-ai-citations",
 "aggregator-layer-ai-data",
 "ai-attributes-your-work-to-someone-else",
