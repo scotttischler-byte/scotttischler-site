@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"awards-certifications-ai-trust-signals",
+"What AI Does With Your Awards and Certifications: Turning Trust Badges Into Citable Authority",
+"Entity Authority",
+"2026-11-20"
+],
+[
+"the-process-query-what-its-like-ai",
+"The Process Query: How AI Answers 'What's It Like to Work With You?'",
+"Strategy",
+"2026-11-20"
+],
+[
 "charts-infographics-ai-citations",
 "What AI Does With Your Charts: Turning Infographics and Data Visuals Into Answer Sources",
 "Playbook",
@@ -1244,6 +1256,8 @@
 ]
 ],
 "live": [
+"awards-certifications-ai-trust-signals",
+"the-process-query-what-its-like-ai",
 "charts-infographics-ai-citations",
 "the-downsides-query-ai",
 "help-center-documentation-ai-citations",
