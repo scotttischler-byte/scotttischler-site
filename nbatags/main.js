@@ -1,7 +1,7 @@
 /* NBA Hardwood Dog Tags — site behavior. No trackers, no cookies, no third-party scripts. */
 const FALLBACK_EMAIL = "scott.tischler@gmail.com"; // reservations open the visitor's own email app until a form endpoint exists
 const FORM_ENDPOINT = ""; // optional: a Cloudflare Worker URL that accepts JSON reservations
-const DEPOSIT_LINK = "https://buy.stripe.com/4gMbJ1c450NL8J5aWr1ck0m"; // paste the payment link for the optional waitlist deposit here (e.g. a Stripe Payment Link)
+const DEPOSIT_LINK = "https://buy.stripe.com/4gMbJ1c450NL8J5aWr1ck0m"; // $25 priority link; $1 and $100 links live in preorder.html
 const KICKSTARTER_URL = ""; // paste the live campaign link here when published
 
 (function () {

@@ -15,8 +15,18 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&family=Jost:wght@300;400&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css?v=4">
+<link rel="stylesheet" href="style.css?v=5">
 
+<style>
+.ladder{display:grid;gap:16px;grid-template-columns:repeat(3,1fr);margin-top:30px}
+.lv{border:1px solid var(--line);padding:26px 22px;text-align:center;display:flex;flex-direction:column;gap:10px}
+.lv.feat{border-color:#c9a45c}
+.lv .amt{font-family:"Cormorant Garamond",serif;font-size:2.6rem;line-height:1}
+.lv ul{list-style:none;padding:0;margin:6px 0 12px;font-size:.92rem;opacity:.85}
+.lv li{padding:3px 0}
+.lv .btn{margin-top:auto}
+@media(max-width:760px){.ladder{grid-template-columns:1fr}}
+</style>
 </head>
 <body>
 <header class="nav"><div class="wrap nav-in">
@@ -32,13 +42,17 @@
     <div class="step"><span class="eyebrow">01</span><h3>First in line</h3><p class="muted">Waitlist members are emailed before the Kickstarter opens to the public.</p></div>
     <div class="step"><span class="eyebrow">02</span><h3>Your team, your finish</h3><p class="muted">Tell us the teams you want now so we know what to make. Silver, black or 24K gold.</p></div>
     <div class="step"><span class="eyebrow">03</span><h3>Real court maple</h3><p class="muted">The first run is cut from one NBA court panel. When it is gone, that run is over.</p></div>
-    <div class="step"><span class="eyebrow">04</span><h3>Priority deposit</h3><p class="muted">Add a $25 deposit and you are offered the early tags first. Refundable until the Kickstarter opens.</p></div>
+    <div class="step"><span class="eyebrow">04</span><h3>Priority deposit</h3><p class="muted">Choose a $1, $25 or $100 deposit. It is credited toward your pledge and refundable until the Kickstarter opens.</p></div>
   </div>
-  <p class="center rv" style="margin-top:34px"><a class="btn solid" href="https://buy.stripe.com/4gMbJ1c450NL8J5aWr1ck0m" rel="noopener" id="depnow">Hold my place · $25 deposit</a></p>
-  <p class="fine center">Secure checkout by Stripe. Prefer to wait? Join the free waitlist below.</p>
+  <div class="ladder rv">
+    <div class="lv"><span class="eyebrow">Hold my spot</span><div class="amt">$1</div><ul><li>Your place on the waitlist</li><li>Email before public launch</li><li>Credited toward your pledge</li></ul><a class="btn" href="https://buy.stripe.com/eVq4gz1pr3ZXgbx8Oj1ck0B" rel="noopener">Hold my spot · $1</a></div>
+    <div class="lv feat"><span class="eyebrow">Priority</span><div class="amt">$25</div><ul><li>Everything in $1</li><li>Offered the early tags first</li><li>Credited toward your pledge</li></ul><a class="btn solid" href="https://buy.stripe.com/4gMbJ1c450NL8J5aWr1ck0m" rel="noopener" id="depnow">Priority · $25 deposit</a></div>
+    <div class="lv"><span class="eyebrow">Founder</span><div class="amt">$100</div><ul><li>Everything in $25</li><li>First-hour early access at launch</li><li>Your edition number</li></ul><a class="btn" href="https://buy.stripe.com/00w5kD1prgMJ3oLaWr1ck0C" rel="noopener">Founder · $100 deposit</a></div>
+  </div>
+  <p class="fine center" style="margin-top:18px">Every deposit is fully refundable until the Kickstarter opens and is credited toward your pledge. Secure checkout by Stripe. Prefer to wait? Join the free waitlist below.</p>
 </div></section>
 <section style="padding-top:40px"><div class="wrap prev">
-  <div class="rv"><img id="rimg" data-static="1" src="img/tags-table.jpg" alt="Gold, black and silver NBA hardwood dog tags with maple hardwood backs" style="width:100%;height:auto"><p class="fine" style="margin-top:12px">Real photo of our tags. Your team and finish are confirmed when the Kickstarter opens.</p></div>
+  <div class="rv"><img id="rimg" data-static="1" src="img/proto-row.jpg" alt="Row of prototype NBA hardwood dog tags in gold, silver and black with natural hardwood" style="width:100%;height:auto"><p class="fine" style="margin-top:12px">Real photo of our prototype tags. Your team and finish are confirmed when the Kickstarter opens.</p></div>
   <form id="reserve" class="rv d1">
     <div class="field"><label for="team">1 · Team</label><select id="team"></select></div>
     <div class="field"><label for="finish">2 · Finish</label><select id="finish"><option value="gold">24K Gold</option><option value="silver">Silver</option><option value="black">Black</option></select></div>
@@ -51,7 +65,7 @@
     <p class="fine">By joining you agree to be emailed about the Kickstarter launch and your waitlist spot. You can unsubscribe any time.</p>
     <p><button class="btn solid" type="submit">Join the waitlist (<span id="tot">0</span>)</button></p>
     <p id="sent" class="fine" hidden>Your email app should have opened with your waitlist request. Send it and you are on the list. Nothing has been charged.</p>
-    <div id="dep" class="cta-block" hidden style="padding:28px;margin-top:20px;border:1px solid var(--line)"><span class="eyebrow">Optional · priority</span><h3 style="margin:.6rem 0">Hold a higher place in line</h3><p class="fine">Add a deposit and you are offered the early tags first when the Kickstarter opens.</p><p><a class="btn solid" id="deplink" href="#" rel="noopener">Add a deposit</a></p></div>
+    <div id="dep" class="cta-block" hidden style="padding:28px;margin-top:20px;border:1px solid var(--line)"><span class="eyebrow">Optional · priority</span><h3 style="margin:.6rem 0">Hold a higher place in line</h3><p class="fine">Deposits are credited toward your pledge and refundable until the Kickstarter opens.</p><p style="display:flex;flex-wrap:wrap;gap:10px"><a class="btn" href="https://buy.stripe.com/eVq4gz1pr3ZXgbx8Oj1ck0B" rel="noopener">$1</a><a class="btn solid" id="deplink" href="https://buy.stripe.com/4gMbJ1c450NL8J5aWr1ck0m" rel="noopener">$25 Priority</a><a class="btn" href="https://buy.stripe.com/00w5kD1prgMJ3oLaWr1ck0C" rel="noopener">$100 Founder</a></p></div>
     <p id="depsoon" class="fine" hidden>Deposits open very soon. You are on the waitlist, and we will email you the link.</p>
   </form>
 </div></section>
@@ -70,6 +84,6 @@
   <div class="legal"><span>© 2024 NBA Properties Inc. All rights reserved.</span>
   <span>Team names and marks belong to their owners. Images marked concept render are illustrations; approved team artwork is applied before production. Reservations are not purchases.</span></div>
 </div></footer>
-<script src="main.js?v=4"></script>
+<script src="main.js?v=5"></script>
 </body>
 </html>
