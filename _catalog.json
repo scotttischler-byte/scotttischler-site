@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"internal-links-anchor-text-ai",
+"What Your Internal Links Tell AI About What You Actually Do",
+"Technical",
+"2026-11-21"
+],
+[
+"ai-visibility-cities-you-serve",
+"The Cities You Serve but Aren't Based In: Getting Recommended Beyond Your Home Address",
+"Strategy",
+"2026-11-21"
+],
+[
 "awards-certifications-ai-trust-signals",
 "What AI Does With Your Awards and Certifications: Turning Trust Badges Into Citable Authority",
 "Entity Authority",
@@ -1256,6 +1268,8 @@
 ]
 ],
 "live": [
+"internal-links-anchor-text-ai",
+"ai-visibility-cities-you-serve",
 "awards-certifications-ai-trust-signals",
 "the-process-query-what-its-like-ai",
 "charts-infographics-ai-citations",
