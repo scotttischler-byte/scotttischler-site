@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"converting-ai-referred-visitors",
+"What AI-Referred Visitors Want When They Land (And Why They Convert Differently)",
+"Strategy",
+"2026-11-22"
+],
+[
+"press-releases-ai-visibility",
+"Do Press Releases Still Work for AI Visibility? An Honest Answer",
+"Playbook",
+"2026-11-22"
+],
+[
 "internal-links-anchor-text-ai",
 "What Your Internal Links Tell AI About What You Actually Do",
 "Technical",
@@ -1268,6 +1280,8 @@
 ]
 ],
 "live": [
+"converting-ai-referred-visitors",
+"press-releases-ai-visibility",
 "internal-links-anchor-text-ai",
 "ai-visibility-cities-you-serve",
 "awards-certifications-ai-trust-signals",

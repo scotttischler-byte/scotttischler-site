@@ -24,6 +24,8 @@ Verified executive and professional certificate programs completed by Scott Tisc
 Also: law study at Concord Law School; former adjunct professor at Virginia Tech.
 
 ## The AEO Library (Articles)
+- [What AI-Referred Visitors Want When They Land (And Why They Convert Differently)](https://scotttischler.com/articles/converting-ai-referred-visitors.html): AI-referred visitors arrive pre-qualified, briefed, and closer to action than Google traffic. Here's how to design for them and actually convert.
+- [Do Press Releases Still Work for AI Visibility? An Honest Answer](https://scotttischler.com/articles/press-releases-ai-visibility.html): Mostly no — the blast-and-syndicate press release does little for AI. Here's the narrow exception, and what actually earns AI citations instead.
 - [What Your Internal Links Tell AI About What You Actually Do](https://scotttischler.com/articles/internal-links-anchor-text-ai.html): Internal links and the words you link with quietly teach AI which page answers which question. Most sites are sending the wrong signal. Here's the fix.
 - [The Cities You Serve but Aren't Based In: Getting Recommended Beyond Your Home Address](https://scotttischler.com/articles/ai-visibility-cities-you-serve.html): You serve ten towns but AI names you only where your office sits. Why answer engines pin you to one address — and how to earn visibility across your territory.
 - [What AI Does With Your Awards and Certifications: Turning Trust Badges Into Citable Authority](https://scotttischler.com/articles/awards-certifications-ai-trust-signals.html): Most award and certification badges are invisible to AI. How to turn credentials you've earned into signals answer engines can actually read and repeat.
