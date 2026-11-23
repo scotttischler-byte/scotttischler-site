@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"job-postings-ai-visibility-signal",
+"What AI Learns From Your Job Postings (And Why Your Careers Page Is a Visibility Signal)",
+"Entity Authority",
+"2026-11-23"
+],
+[
+"self-reported-numbers-ai-trust",
+"The Numbers You Claim About Yourself: How AI Treats \"10,000 Customers\" and \"20 Years in Business\"",
+"How AI Works",
+"2026-11-23"
+],
+[
 "converting-ai-referred-visitors",
 "What AI-Referred Visitors Want When They Land (And Why They Convert Differently)",
 "Strategy",
@@ -1280,6 +1292,8 @@
 ]
 ],
 "live": [
+"job-postings-ai-visibility-signal",
+"self-reported-numbers-ai-trust",
 "converting-ai-referred-visitors",
 "press-releases-ai-visibility",
 "internal-links-anchor-text-ai",
