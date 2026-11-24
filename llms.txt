@@ -24,6 +24,8 @@ Verified executive and professional certificate programs completed by Scott Tisc
 Also: law study at Concord Law School; former adjunct professor at Virginia Tech.
 
 ## The AEO Library (Articles)
+- [Does AI-Written Content Hurt Your AI Visibility? The Honest Answer](https://scotttischler.com/articles/does-ai-written-content-hurt-visibility.html): AI-written content isn't penalized for being AI-written. What sinks your AI visibility is generic, unverifiable, mass-produced text. Here's the real risk.
+- [Can You Game AI Recommendations? The Manipulation Tactics That Backfire](https://scotttischler.com/articles/can-you-game-ai-recommendations.html): Prompt injection, fake reviews, keyword stuffing — the tricks people use to game AI recommendations, why each collapses, and what compounds instead.
 - [What AI Learns From Your Job Postings (And Why Your Careers Page Is a Visibility Signal)](https://scotttischler.com/articles/job-postings-ai-visibility-signal.html): Your open roles quietly tell AI what you do, how fast you're growing, and where you operate. Here's how to make your careers page work for visibility.
 - [The Numbers You Claim About Yourself: How AI Treats "10,000 Customers" and "20 Years in Business"](https://scotttischler.com/articles/self-reported-numbers-ai-trust.html): AI loves specific numbers but is skeptical of ones you can't back up. How models handle self-reported claims, and how to make yours citable.
 - [What AI-Referred Visitors Want When They Land (And Why They Convert Differently)](https://scotttischler.com/articles/converting-ai-referred-visitors.html): AI-referred visitors arrive pre-qualified, briefed, and closer to action than Google traffic. Here's how to design for them and actually convert.
