@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"correct-the-record-ai-wrong-facts",
+"Correct the Record: How to Fix a Wrong Fact AI States About You",
+"Playbook",
+"2026-11-27"
+],
+[
+"original-research-citation-source-ai",
+"Publish the Number: How Original Research Makes You the Source AI Cites",
+"Strategy",
+"2026-11-27"
+],
+[
 "nap-consistency-ai-visibility",
 "Does NAP Consistency Still Matter for AI? Why Conflicting Business Facts Quietly Cost You Recommendations",
 "Entity Authority",
@@ -1328,6 +1340,8 @@
 ]
 ],
 "live": [
+"correct-the-record-ai-wrong-facts",
+"original-research-citation-source-ai",
 "nap-consistency-ai-visibility",
 "can-ai-read-images-alt-text",
 "sponsored-ai-answers-pay-to-play",
