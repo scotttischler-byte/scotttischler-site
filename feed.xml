@@ -8,6 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Jul 2026 09:00:00 +0000</lastBuildDate>
     <item>
+      <title>Can AI See Your JavaScript? Why Client-Side Content Is Often Invisible to Answer Engines</title>
+      <link>https://scotttischler.com/articles/javascript-rendering-ai-visibility.html</link>
+      <guid>https://scotttischler.com/articles/javascript-rendering-ai-visibility.html</guid>
+      <category>Technical</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Sat, 28 Nov 2026 09:00:00 +0000</pubDate>
+      <description>The crawlers behind ChatGPT, Perplexity and Google&#x27;s AI answers mostly read your raw HTML, not the rendered page a browser shows. If your content depends on JavaScript to appear, you may be invisible to the systems deciding who gets cited. Here&#x27;s how to check and what to do about it.</description>
+    </item>
+    <item>
+      <title>What E-E-A-T Really Means for AI Answer Engines (And Where Google&#x27;s Framework Breaks Down)</title>
+      <link>https://scotttischler.com/articles/eeat-framework-ai-answer-engines.html</link>
+      <guid>https://scotttischler.com/articles/eeat-framework-ai-answer-engines.html</guid>
+      <category>How AI Works</category>
+      <dc:creator>Scott Tischler</dc:creator>
+      <pubDate>Sat, 28 Nov 2026 09:00:00 +0000</pubDate>
+      <description>Experience, Expertise, Authoritativeness, Trustworthiness — E-E-A-T is the mental model a generation of SEOs built around Google&#x27;s quality guidelines. AI answer engines don&#x27;t score you on it the way people assume. Here&#x27;s what each letter actually translates to when a model decides whether to cite you, and where the old framework quietly misleads you.</description>
+    </item>
+    <item>
       <title>Correct the Record: How to Fix a Wrong Fact AI States About You</title>
       <link>https://scotttischler.com/articles/correct-the-record-ai-wrong-facts.html</link>
       <guid>https://scotttischler.com/articles/correct-the-record-ai-wrong-facts.html</guid>

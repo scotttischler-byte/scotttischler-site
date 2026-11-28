@@ -1,6 +1,18 @@
 {
 "catalog": [
 [
+"javascript-rendering-ai-visibility",
+"Can AI See Your JavaScript? Why Client-Side Content Is Often Invisible to Answer Engines",
+"Technical",
+"2026-11-28"
+],
+[
+"eeat-framework-ai-answer-engines",
+"What E-E-A-T Really Means for AI Answer Engines (And Where Google's Framework Breaks Down)",
+"How AI Works",
+"2026-11-28"
+],
+[
 "correct-the-record-ai-wrong-facts",
 "Correct the Record: How to Fix a Wrong Fact AI States About You",
 "Playbook",
@@ -1340,6 +1352,8 @@
 ]
 ],
 "live": [
+"javascript-rendering-ai-visibility",
+"eeat-framework-ai-answer-engines",
 "correct-the-record-ai-wrong-facts",
 "original-research-citation-source-ai",
 "nap-consistency-ai-visibility",
